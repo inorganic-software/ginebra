@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-24T07:13:48+00:00",
+ "generado": "2026-10-25T07:01:30+00:00",
  "ventana_dias": 30,
  "total": 558,
  "fuentes": {
@@ -67,7 +67,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -81,7 +81,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Transportes y Movilidad Sostenible › Logirail, S.A.",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72000000",
     "tamano": "238.990 €",
@@ -168,7 +168,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-21T15:26:06.923+02:00",
    "baja_fecha": "",
@@ -182,7 +182,7 @@
    "sector": "Comunidades autónomas",
    "administracion": "Comunidad de Madrid",
    "entidad": "Consejería de Medio Ambiente, Agricultura e Interior",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72512000",
     "tamano": "576.000 €",
@@ -249,7 +249,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-16T10:15:16.521+02:00",
    "baja_fecha": "",
@@ -263,7 +263,7 @@
    "sector": "Entidades locales",
    "administracion": "Comunidad de Madrid",
    "entidad": "Ayuntamientos › Majadahonda",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72267100",
     "tamano": "139.480 €",
@@ -365,7 +365,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-21T15:01:11.664+02:00",
    "baja_fecha": "",
@@ -379,7 +379,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio para la Transformación Digital y de la Función Pública",
    "entidad": "Secretaría de Estado de Digitalización e Inteligencia Artificial › Entidad Pública Empresarial Red.es",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72000000",
     "tamano": "3.486.844 €",
@@ -471,7 +471,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-22T09:00:00.000+02:00",
    "baja_fecha": "",
@@ -485,7 +485,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Defensa",
    "entidad": "Ejército de Tierra › Dirección de Asuntos Economicos -diae-",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72246000",
     "tamano": "3.020.897 €",
@@ -582,7 +582,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:13:36+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -596,7 +596,7 @@
    "sector": "Comunidades autónomas",
    "administracion": "Comunidad de Madrid",
    "entidad": "Consejería de Digitalización",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72267100",
     "tamano": "782.096 €",
@@ -663,7 +663,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-16T10:24:24.003+02:00",
    "baja_fecha": "",
@@ -677,7 +677,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES",
    "entidad": "Comunidad de Madrid › Madrid › Empresa Municipal de la Vivienda y Suelo de Madrid, S.A.",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72200000",
     "tamano": "129.423 €",
@@ -754,7 +754,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-19T10:12:08.217+02:00",
    "baja_fecha": "",
@@ -768,7 +768,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Defensa › ISDEFE",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72212900",
     "tamano": "241.084 €",
@@ -835,7 +835,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -849,7 +849,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "INSTITUCIONES INDEPENDIENTES",
    "entidad": "Tribunal Constitucional",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48218000",
     "tamano": "109.738 €",
@@ -946,7 +946,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-02T12:11:46.997+02:00",
    "baja_fecha": "",
@@ -960,7 +960,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Defensa › ISDEFE",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72212900",
     "tamano": "1.986.000 €",
@@ -1032,7 +1032,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-21T12:52:47.924+02:00",
    "baja_fecha": "",
@@ -1046,7 +1046,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Defensa",
    "entidad": "Ejército de Tierra › SAECO de la Jefatura de los Sistemas de Información, Telecom. y A.t.",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72000000",
     "tamano": "366.751 €",
@@ -1173,7 +1173,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:13:36+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -1187,7 +1187,7 @@
    "sector": "Comunidades autónomas",
    "administracion": "Comunidad de Madrid",
    "entidad": "Consejería de Digitalización",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72514000",
     "tamano": "861.079 €",
@@ -1264,7 +1264,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-16T08:05:27.846+02:00",
    "baja_fecha": "",
@@ -1278,7 +1278,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Economía, Comercio y Empresa",
    "entidad": "Secretaría de Estado de Economía y Apoyo a la Empresa › Instituto Nacional de Estadística",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72313000",
     "tamano": "1.346.710 €",
@@ -1370,7 +1370,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-21T13:49:19.995+02:00",
    "baja_fecha": "",
@@ -1384,7 +1384,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Defensa › ISDEFE",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72224000",
     "tamano": "560.000 €",
@@ -1456,7 +1456,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -1470,7 +1470,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Defensa › ISDEFE",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72000000",
     "tamano": "610.995 €",
@@ -1552,7 +1552,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-08T12:00:55.309+02:00",
    "baja_fecha": "",
@@ -1566,7 +1566,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "INSTITUCIONES INDEPENDIENTES",
    "entidad": "Tribunal Constitucional",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48800000",
     "tamano": "289.096 €",
@@ -1633,7 +1633,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-15T10:58:49.778+02:00",
    "baja_fecha": "",
@@ -1647,7 +1647,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL",
    "entidad": "Fraternidad MUPRESPA",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48820000",
     "tamano": "117.000 €",
@@ -1719,7 +1719,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -1733,7 +1733,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Hacienda › SEPI › TRAGSA",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48219500",
     "tamano": "745.000 €",
@@ -1810,7 +1810,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-09T13:42:17.336+02:00",
    "baja_fecha": "",
@@ -1824,7 +1824,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Economía, Comercio y Empresa › ICEX",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72500000",
     "tamano": "1.525.800 €",
@@ -1911,7 +1911,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:13:36+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -1925,7 +1925,7 @@
    "sector": "Comunidades autónomas",
    "administracion": "Comunidad de Madrid",
    "entidad": "Consejería de Digitalización",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72261000",
     "tamano": "201.600 €",
@@ -1997,7 +1997,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2011,7 +2011,7 @@
    "sector": "Entidades locales",
    "administracion": "Comunidad de Madrid",
    "entidad": "Ayuntamientos › Boadilla del Monte",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48218000",
     "tamano": "825.522 €",
@@ -2108,7 +2108,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:13:36+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2122,7 +2122,7 @@
    "sector": "Comunidades autónomas",
    "administracion": "Comunidad de Madrid",
    "entidad": "Consejería de Digitalización",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72261000",
     "tamano": "132.249 €",
@@ -2209,7 +2209,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2223,7 +2223,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Inclusión, Seguridad Social y Migraciones",
    "entidad": "Secretaria de Estado de la Seguridad Social y Pensiones › Gerencia de Informática de la Seguridad Social",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72000000",
     "tamano": "2.761.612 €",
@@ -2310,7 +2310,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-20T13:10:14.019+02:00",
    "baja_fecha": "",
@@ -2324,7 +2324,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio del Interior",
    "entidad": "Subsecretaría del Interior › D.G. de Tráfico",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48000000",
     "tamano": "255.878 €",
@@ -2397,7 +2397,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-08T07:49:18.731+02:00",
    "baja_fecha": "",
@@ -2411,7 +2411,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL",
    "entidad": "UMIVALE",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72000000",
     "tamano": "278.397 €",
@@ -2488,7 +2488,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-13T09:34:37.026+02:00",
    "baja_fecha": "",
@@ -2502,7 +2502,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Cultura",
    "entidad": "Museo Nacional Centro de Arte Reina Sofía › Subdirección de Gerencia",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48000000",
     "tamano": "168.456 €",
@@ -2569,7 +2569,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2583,7 +2583,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Hacienda",
    "entidad": "Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48000000",
     "tamano": "310.150 €",
@@ -2650,7 +2650,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2664,7 +2664,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL",
    "entidad": "FREMAP",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48300000",
     "tamano": "241.610 €",
@@ -2731,7 +2731,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2745,7 +2745,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Industria y Turismo",
    "entidad": "Subsecretaría de Industria y Turismo › Oficina Española de Patentes y Marcas, O.A.",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72500000",
     "tamano": "572.397 €",
@@ -2827,7 +2827,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2841,7 +2841,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Defensa",
    "entidad": "Estado Mayor de la Defensa › JAE del Estado Mayor de la Defensa",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48820000",
     "tamano": "1.570.248 €",
@@ -2918,7 +2918,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2932,7 +2932,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS",
    "entidad": "Comunidad de Madrid › Fundación IMDEA, Alimentación",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72611000",
     "tamano": "230.000 €",
@@ -2999,7 +2999,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3013,7 +3013,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Hacienda",
    "entidad": "Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72000000",
     "tamano": "305.676 €",
@@ -3080,7 +3080,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3094,7 +3094,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Hacienda",
    "entidad": "Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48000000",
     "tamano": "1.083.259 €",
@@ -3171,7 +3171,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3185,7 +3185,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio para la Transición Ecológica y el Reto Demográfico › Fundación Biodiversidad",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72416000",
     "tamano": "432.000 €",
@@ -3268,7 +3268,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3282,7 +3282,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Defensa",
    "entidad": "Estado Mayor de la Defensa › JAE del Estado Mayor de la Defensa",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48820000",
     "tamano": "911.570 €",
@@ -3354,7 +3354,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3368,7 +3368,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Defensa",
    "entidad": "Estado Mayor de la Defensa › JAE del Estado Mayor de la Defensa",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48000000",
     "tamano": "142.800 €",
@@ -3450,7 +3450,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-21T16:49:54.222+02:00",
    "baja_fecha": "",
@@ -3464,7 +3464,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Transportes y Movilidad Sostenible › ENAIRE",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72212218",
     "tamano": "3.072.800 €",
@@ -3546,7 +3546,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-15T08:05:12.729+02:00",
    "baja_fecha": "",
@@ -3560,7 +3560,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Cultura",
    "entidad": "Junta de Contratación del Ministerio de Cultura",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72514300",
     "tamano": "112.653 €",
@@ -3622,7 +3622,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3636,7 +3636,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Defensa",
    "entidad": "Estado Mayor de la Defensa › JAE del Estado Mayor de la Defensa",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48000000",
     "tamano": "164.566 €",
@@ -3713,7 +3713,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-20T10:18:00.690+02:00",
    "baja_fecha": "",
@@ -3727,7 +3727,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Trabajo y Economía Social",
    "entidad": "Secretaría de Estado de Empleo y Economía Social › Instituto Nacional de Seguridad y Salud en el Trabajo",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72610000",
     "tamano": "395.735 €",
@@ -3799,7 +3799,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-14T13:53:44.280+02:00",
    "baja_fecha": "",
@@ -3813,7 +3813,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Hacienda",
    "entidad": "Subsecretaría de Hacienda › Junta de Contratación",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72267100",
     "tamano": "108.240 €",
@@ -3885,7 +3885,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-20T13:44:43.548+02:00",
    "baja_fecha": "",
@@ -3899,7 +3899,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Defensa",
    "entidad": "Secretaría de Estado de Defensa › D.G. Centro de Sistemas y Tecnologías de la Información y las Comunicaciones",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72600000",
     "tamano": "144.985 €",
@@ -3981,7 +3981,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-22T10:24:21.260+02:00",
    "baja_fecha": "",
@@ -3995,7 +3995,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Transportes y Movilidad Sostenible › ADIF",
-   "novedad": "actualizado",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72267000",
     "tamano": "142.447 €",
@@ -4082,7 +4082,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4096,7 +4096,7 @@
    "sector": "Otras entidades del sector público",
    "administracion": "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES",
    "entidad": "Ministerio de Economía, Comercio y Empresa › ICO",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 72222300",
     "tamano": "2.122.106 €",
@@ -4179,7 +4179,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4281,7 +4281,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4368,7 +4368,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4449,7 +4449,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4540,7 +4540,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4631,7 +4631,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-21T14:41:13.391+02:00",
    "baja_fecha": "",
@@ -4707,7 +4707,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4798,7 +4798,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4879,7 +4879,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4965,7 +4965,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-20T18:47:45.525+02:00",
    "baja_fecha": "",
@@ -5066,7 +5066,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-14T08:56:20.047+02:00",
    "baja_fecha": "",
@@ -5162,7 +5162,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-21T13:16:41.318+02:00",
    "baja_fecha": "",
@@ -5243,7 +5243,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -5339,7 +5339,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-21T13:51:13.420+02:00",
    "baja_fecha": "",
@@ -5420,7 +5420,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-19T09:29:28.491+02:00",
    "baja_fecha": "",
@@ -5506,7 +5506,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -5612,7 +5612,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -5693,7 +5693,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -5804,7 +5804,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-15T12:35:25.622+02:00",
    "baja_fecha": "",
@@ -5905,7 +5905,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-15T12:11:08.080+02:00",
    "baja_fecha": "",
@@ -5991,7 +5991,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-19T09:24:56.715+02:00",
    "baja_fecha": "",
@@ -6088,7 +6088,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-14T10:27:30.729+02:00",
    "baja_fecha": "",
@@ -6174,7 +6174,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6276,7 +6276,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-09T10:10:59.037+02:00",
    "baja_fecha": "",
@@ -6352,7 +6352,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6438,7 +6438,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6519,7 +6519,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6600,7 +6600,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6681,7 +6681,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-20T14:31:41.383+02:00",
    "baja_fecha": "",
@@ -6787,7 +6787,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6888,7 +6888,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-19T11:19:05.173+02:00",
    "baja_fecha": "",
@@ -6979,7 +6979,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -7065,7 +7065,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -7166,7 +7166,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -7257,7 +7257,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -7368,7 +7368,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-21T12:34:31.447+02:00",
    "baja_fecha": "",
@@ -7454,7 +7454,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-19T11:32:15.157+02:00",
    "baja_fecha": "",
@@ -7540,7 +7540,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-19T10:58:19.314+02:00",
    "baja_fecha": "",
@@ -7626,7 +7626,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-19T09:44:34.659+02:00",
    "baja_fecha": "",
@@ -7717,7 +7717,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-19T09:00:00.000+02:00",
    "baja_fecha": "",
@@ -7838,7 +7838,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -7934,7 +7934,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-19T08:21:17.497+02:00",
    "baja_fecha": "",
@@ -8065,7 +8065,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-16T11:19:48.058+02:00",
    "baja_fecha": "",
@@ -8181,7 +8181,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -8272,7 +8272,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-06T16:41:09.133+02:00",
    "baja_fecha": "",
@@ -8368,7 +8368,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-13T15:56:22.962+02:00",
    "baja_fecha": "",
@@ -8479,7 +8479,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-14T10:52:13.864+02:00",
    "baja_fecha": "",
@@ -8565,7 +8565,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-07T08:39:26.577+02:00",
    "baja_fecha": "",
@@ -8656,7 +8656,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-14T14:16:44.075+02:00",
    "baja_fecha": "",
@@ -8752,7 +8752,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-14T16:28:46.935+02:00",
    "baja_fecha": "",
@@ -8848,7 +8848,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-05T13:37:40.796+02:00",
    "baja_fecha": "",
@@ -8929,7 +8929,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-01T13:15:00.342+02:00",
    "baja_fecha": "",
@@ -9020,7 +9020,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-13T13:56:07.229+02:00",
    "baja_fecha": "",
@@ -9131,7 +9131,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -9232,7 +9232,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -9314,7 +9314,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-15T12:41:13.118+02:00",
    "baja_fecha": "",
@@ -9395,7 +9395,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -9476,7 +9476,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-16T14:55:08.562+02:00",
    "baja_fecha": "",
@@ -9567,7 +9567,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-16T15:11:18.038+02:00",
    "baja_fecha": "",
@@ -9653,7 +9653,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -9754,7 +9754,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -9845,7 +9845,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-08T08:05:33.722+02:00",
    "baja_fecha": "",
@@ -9946,7 +9946,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -10037,7 +10037,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -10128,7 +10128,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -10229,7 +10229,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-14T14:05:07.328+02:00",
    "baja_fecha": "",
@@ -10310,7 +10310,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-17T04:36:32.970+02:00",
    "baja_fecha": "",
@@ -10396,7 +10396,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -10487,7 +10487,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -10573,7 +10573,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-01T13:00:38.498+02:00",
    "baja_fecha": "",
@@ -10654,7 +10654,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -10735,7 +10735,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -10816,7 +10816,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -10897,7 +10897,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -10978,7 +10978,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -11059,7 +11059,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -11200,7 +11200,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -11306,7 +11306,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -11413,7 +11413,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -11494,7 +11494,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-06T11:44:25.717+02:00",
    "baja_fecha": "",
@@ -11585,7 +11585,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -11671,7 +11671,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-16T13:40:31.350+02:00",
    "baja_fecha": "",
@@ -11762,7 +11762,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-15T09:27:41.358+02:00",
    "baja_fecha": "",
@@ -11883,7 +11883,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-08T10:03:11.947+02:00",
    "baja_fecha": "",
@@ -11979,7 +11979,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -12060,7 +12060,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-16T06:27:16.442+02:00",
    "baja_fecha": "",
@@ -12156,7 +12156,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -12238,7 +12238,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -12324,7 +12324,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -12425,7 +12425,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-17T13:10:10.083+02:00",
    "baja_fecha": "",
@@ -12516,7 +12516,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-02T07:43:53.923+02:00",
    "baja_fecha": "",
@@ -12612,7 +12612,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-06T15:31:06.550+02:00",
    "baja_fecha": "",
@@ -12698,7 +12698,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-09T11:02:35.539+02:00",
    "baja_fecha": "",
@@ -12779,7 +12779,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -12860,7 +12860,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -12951,7 +12951,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -13032,7 +13032,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -13128,7 +13128,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-07T14:36:22.893+02:00",
    "baja_fecha": "",
@@ -13229,7 +13229,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -13320,7 +13320,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -13401,7 +13401,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -13492,7 +13492,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -13584,7 +13584,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-08T11:53:21.415+02:00",
    "baja_fecha": "",
@@ -13660,7 +13660,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -13751,7 +13751,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-15T08:05:16.724+02:00",
    "baja_fecha": "",
@@ -13842,7 +13842,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -13934,7 +13934,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-19T09:39:15.488+02:00",
    "baja_fecha": "",
@@ -14075,7 +14075,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -14166,7 +14166,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-15T11:53:52.724+02:00",
    "baja_fecha": "",
@@ -14257,7 +14257,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -14348,7 +14348,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -14434,7 +14434,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -14515,7 +14515,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-16T13:03:00.750+02:00",
    "baja_fecha": "",
@@ -14617,7 +14617,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-02T11:00:56.328+02:00",
    "baja_fecha": "",
@@ -14708,7 +14708,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-16T11:50:39.893+02:00",
    "baja_fecha": "",
@@ -14809,7 +14809,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-19T09:45:57.372+02:00",
    "baja_fecha": "",
@@ -14900,7 +14900,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -15046,7 +15046,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -15127,7 +15127,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -15208,7 +15208,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-19T10:42:05.265+02:00",
    "baja_fecha": "",
@@ -15289,7 +15289,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-19T10:42:07.705+02:00",
    "baja_fecha": "",
@@ -15410,7 +15410,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-19T12:42:24.578+02:00",
    "baja_fecha": "",
@@ -15491,7 +15491,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-13T14:11:20.096+02:00",
    "baja_fecha": "",
@@ -15583,7 +15583,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-19T14:56:23.215+02:00",
    "baja_fecha": "",
@@ -15694,7 +15694,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-15T11:46:26.413+02:00",
    "baja_fecha": "",
@@ -15800,7 +15800,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-15T06:54:43.285+02:00",
    "baja_fecha": "",
@@ -15891,7 +15891,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-16T09:14:23.438+02:00",
    "baja_fecha": "",
@@ -15992,7 +15992,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-09T14:56:28.735+02:00",
    "baja_fecha": "",
@@ -16068,7 +16068,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -16149,7 +16149,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -16250,7 +16250,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-14T09:48:55.424+02:00",
    "baja_fecha": "",
@@ -16381,7 +16381,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -16487,7 +16487,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-14T10:27:51.052+02:00",
    "baja_fecha": "",
@@ -16568,7 +16568,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -16649,7 +16649,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-09-30T00:10:53.224+02:00",
    "baja_fecha": "",
@@ -16740,7 +16740,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-02T11:26:36.709+02:00",
    "baja_fecha": "",
@@ -16851,7 +16851,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -16952,7 +16952,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -17093,7 +17093,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -17174,7 +17174,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -17265,7 +17265,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -17366,7 +17366,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -17452,7 +17452,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -17553,7 +17553,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-16T08:05:25.953+02:00",
    "baja_fecha": "",
@@ -17684,7 +17684,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -17785,7 +17785,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -17871,7 +17871,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-14T14:14:13.675+02:00",
    "baja_fecha": "",
@@ -17982,7 +17982,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-07T12:11:12.440+02:00",
    "baja_fecha": "",
@@ -18123,7 +18123,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -18224,7 +18224,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-13T18:09:49.370+02:00",
    "baja_fecha": "",
@@ -18315,7 +18315,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -18417,7 +18417,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -18503,7 +18503,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -18589,7 +18589,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -18665,7 +18665,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -18751,7 +18751,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -18852,7 +18852,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -18922,7 +18922,7 @@
    "fecha_ultimo_anuncio": "",
    "anuncios": [],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-01T12:14:37.602+02:00",
    "baja_fecha": "",
@@ -19003,7 +19003,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -19084,7 +19084,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -19170,7 +19170,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -19251,7 +19251,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -19352,7 +19352,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -19453,7 +19453,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-13T07:59:09.628+02:00",
    "baja_fecha": "",
@@ -19539,7 +19539,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-14T13:21:30.111+02:00",
    "baja_fecha": "",
@@ -19625,7 +19625,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-14T09:25:54.803+02:00",
    "baja_fecha": "",
@@ -19746,7 +19746,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-11T09:26:54.483+02:00",
    "baja_fecha": "",
@@ -19822,7 +19822,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -19913,7 +19913,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-06T14:42:59.471+02:00",
    "baja_fecha": "",
@@ -19999,7 +19999,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -20090,7 +20090,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -20181,7 +20181,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-09T11:56:34.240+02:00",
    "baja_fecha": "",
@@ -20267,7 +20267,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -20383,7 +20383,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -20464,7 +20464,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -20555,7 +20555,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -20641,7 +20641,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -20733,7 +20733,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -20854,7 +20854,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -20940,7 +20940,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -21031,7 +21031,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -21142,7 +21142,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -21258,7 +21258,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -21345,7 +21345,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -21426,7 +21426,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -21507,7 +21507,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-14T08:57:51.021+02:00",
    "baja_fecha": "",
@@ -21608,7 +21608,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-08T13:26:06.233+02:00",
    "baja_fecha": "",
@@ -21749,7 +21749,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-09-30T09:26:18.836+02:00",
    "baja_fecha": "",
@@ -21835,7 +21835,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -21926,7 +21926,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -22017,7 +22017,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -22103,7 +22103,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-14T13:34:10.044+02:00",
    "baja_fecha": "",
@@ -22184,7 +22184,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-09T09:51:57.626+02:00",
    "baja_fecha": "",
@@ -22261,7 +22261,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -22372,7 +22372,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-15T13:07:45.299+02:00",
    "baja_fecha": "",
@@ -22483,7 +22483,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -22594,7 +22594,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-10T10:27:43.356+02:00",
    "baja_fecha": "",
@@ -22685,7 +22685,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-14T09:47:04.138+02:00",
    "baja_fecha": "",
@@ -22776,7 +22776,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -22878,7 +22878,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -22969,7 +22969,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -23050,7 +23050,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -23131,7 +23131,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -23237,7 +23237,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -23328,7 +23328,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-14T13:26:16.278+02:00",
    "baja_fecha": "",
@@ -23419,7 +23419,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-01T17:23:10.983+02:00",
    "baja_fecha": "",
@@ -23520,7 +23520,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -23621,7 +23621,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -23712,7 +23712,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-08T12:44:41.511+02:00",
    "baja_fecha": "",
@@ -23803,7 +23803,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-10T00:11:33.545+02:00",
    "baja_fecha": "",
@@ -23924,7 +23924,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-14T10:29:46.560+02:00",
    "baja_fecha": "",
@@ -24025,7 +24025,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -24121,7 +24121,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -24222,7 +24222,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-07T00:25:45.308+02:00",
    "baja_fecha": "",
@@ -24323,7 +24323,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-06T11:41:12.325+02:00",
    "baja_fecha": "",
@@ -24439,7 +24439,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -24540,7 +24540,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-14T09:37:06.508+02:00",
    "baja_fecha": "",
@@ -24651,7 +24651,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-07T08:40:44.511+02:00",
    "baja_fecha": "",
@@ -24737,7 +24737,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-08T10:22:30.525+02:00",
    "baja_fecha": "",
@@ -24843,7 +24843,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -24929,7 +24929,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25015,7 +25015,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25106,7 +25106,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25192,7 +25192,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25273,7 +25273,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25359,7 +25359,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25440,7 +25440,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25551,7 +25551,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25638,7 +25638,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25719,7 +25719,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25800,7 +25800,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -25901,7 +25901,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-14T11:26:49.119+02:00",
    "baja_fecha": "",
@@ -25987,7 +25987,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -26093,7 +26093,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -26169,7 +26169,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -26255,7 +26255,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-09T10:52:08.842+02:00",
    "baja_fecha": "",
@@ -26341,7 +26341,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -26482,7 +26482,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -26558,7 +26558,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -26654,7 +26654,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -26755,7 +26755,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -26846,7 +26846,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -26916,7 +26916,7 @@
    "fecha_ultimo_anuncio": "",
    "anuncios": [],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-06T11:34:11.451+02:00",
    "baja_fecha": "2026-10-14T13:56:37.472+02:00",
@@ -27032,7 +27032,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -27123,7 +27123,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -27204,7 +27204,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -27285,7 +27285,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -27386,7 +27386,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -27487,7 +27487,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-06T13:56:04.020+02:00",
    "baja_fecha": "",
@@ -27573,7 +27573,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-08T12:37:12.403+02:00",
    "baja_fecha": "",
@@ -27679,7 +27679,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -27755,7 +27755,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -27852,7 +27852,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -27953,7 +27953,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28034,7 +28034,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28115,7 +28115,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28196,7 +28196,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28277,7 +28277,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28358,7 +28358,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28439,7 +28439,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28520,7 +28520,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28601,7 +28601,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28682,7 +28682,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28763,7 +28763,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28844,7 +28844,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -28925,7 +28925,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -29066,7 +29066,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-01T12:11:04.882+02:00",
    "baja_fecha": "",
@@ -29147,7 +29147,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -29228,7 +29228,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -29314,7 +29314,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -29395,7 +29395,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -29486,7 +29486,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -29577,7 +29577,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-05T09:18:04.124+02:00",
    "baja_fecha": "",
@@ -29668,7 +29668,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-07T13:53:17.162+02:00",
    "baja_fecha": "",
@@ -29754,7 +29754,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-08T13:47:11.708+02:00",
    "baja_fecha": "",
@@ -29840,7 +29840,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-08T12:43:17.346+02:00",
    "baja_fecha": "",
@@ -29926,7 +29926,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-08T12:29:04.163+02:00",
    "baja_fecha": "",
@@ -30012,7 +30012,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-08T12:22:16.515+02:00",
    "baja_fecha": "",
@@ -30098,7 +30098,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-08T11:57:10.161+02:00",
    "baja_fecha": "",
@@ -30184,7 +30184,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-08T10:56:27.852+02:00",
    "baja_fecha": "",
@@ -30270,7 +30270,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-08T09:23:59.626+02:00",
    "baja_fecha": "",
@@ -30356,7 +30356,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-07T15:25:12.380+02:00",
    "baja_fecha": "",
@@ -30437,7 +30437,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -30568,7 +30568,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -30699,7 +30699,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -30800,7 +30800,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -30931,7 +30931,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -31017,7 +31017,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-11T13:56:45.470+02:00",
    "baja_fecha": "",
@@ -31108,7 +31108,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-06T13:24:15.615+02:00",
    "baja_fecha": "",
@@ -31219,7 +31219,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -31300,7 +31300,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-01T00:10:40.756+02:00",
    "baja_fecha": "",
@@ -31386,7 +31386,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-01T12:19:11.890+02:00",
    "baja_fecha": "",
@@ -31467,7 +31467,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-05T16:58:40.713+02:00",
    "baja_fecha": "",
@@ -31568,7 +31568,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-09-30T12:41:08.894+02:00",
    "baja_fecha": "",
@@ -31664,7 +31664,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -31740,7 +31740,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -31861,7 +31861,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -31952,7 +31952,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -32038,7 +32038,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -32134,7 +32134,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -32225,7 +32225,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -32306,7 +32306,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -32382,7 +32382,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -32523,7 +32523,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-02T08:55:47.477+02:00",
    "baja_fecha": "",
@@ -32604,7 +32604,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -32695,7 +32695,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-08T14:23:39.109+02:00",
    "baja_fecha": "",
@@ -32806,7 +32806,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -32882,7 +32882,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -32958,7 +32958,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33034,7 +33034,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33110,7 +33110,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33186,7 +33186,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33262,7 +33262,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33338,7 +33338,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33414,7 +33414,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33490,7 +33490,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33566,7 +33566,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33642,7 +33642,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33718,7 +33718,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33794,7 +33794,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33870,7 +33870,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -33946,7 +33946,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -34022,7 +34022,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -34098,7 +34098,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -34184,7 +34184,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-07T13:44:11.382+02:00",
    "baja_fecha": "",
@@ -34275,7 +34275,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -34351,7 +34351,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -34447,7 +34447,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-05T09:46:38.672+02:00",
    "baja_fecha": "",
@@ -34533,7 +34533,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-05T09:36:59.680+02:00",
    "baja_fecha": "",
@@ -34629,7 +34629,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -34710,7 +34710,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -34791,7 +34791,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-08T13:20:56.659+02:00",
    "baja_fecha": "",
@@ -34861,7 +34861,7 @@
    "fecha_ultimo_anuncio": "",
    "anuncios": [],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-08T13:43:46.283+02:00",
    "baja_fecha": "2026-10-09T14:02:14.524+02:00",
@@ -34942,7 +34942,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -35033,7 +35033,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-05T14:29:51.965+02:00",
    "baja_fecha": "",
@@ -35124,7 +35124,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -35230,7 +35230,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -35321,7 +35321,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -35412,7 +35412,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-08T10:22:11.846+02:00",
    "baja_fecha": "",
@@ -35513,7 +35513,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-05T15:25:55.187+02:00",
    "baja_fecha": "",
@@ -35599,7 +35599,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -35680,7 +35680,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -35781,7 +35781,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -35872,7 +35872,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -35953,7 +35953,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -36039,7 +36039,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -36115,7 +36115,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -36191,7 +36191,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -36287,7 +36287,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -36378,7 +36378,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-07T13:59:39.599+02:00",
    "baja_fecha": "",
@@ -36464,7 +36464,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-05T13:40:52.310+02:00",
    "baja_fecha": "",
@@ -36545,7 +36545,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-07T09:41:04.230+02:00",
    "baja_fecha": "",
@@ -36631,7 +36631,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -36722,7 +36722,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-01T16:13:30.471+02:00",
    "baja_fecha": "",
@@ -36813,7 +36813,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -36894,7 +36894,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -36985,7 +36985,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -37071,7 +37071,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -37167,7 +37167,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -37248,7 +37248,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -37339,7 +37339,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-05T13:49:19.949+02:00",
    "baja_fecha": "",
@@ -37435,7 +37435,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -37556,7 +37556,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -37647,7 +37647,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -37738,7 +37738,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-02T12:25:13.044+02:00",
    "baja_fecha": "",
@@ -37829,7 +37829,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -37915,7 +37915,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38001,7 +38001,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-05T16:32:59.117+02:00",
    "baja_fecha": "",
@@ -38077,7 +38077,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38153,7 +38153,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38229,7 +38229,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38305,7 +38305,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38381,7 +38381,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38487,7 +38487,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38598,7 +38598,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38709,7 +38709,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38810,7 +38810,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -38906,7 +38906,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-01T12:31:32.722+02:00",
    "baja_fecha": "",
@@ -39002,7 +39002,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -39133,7 +39133,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -39209,7 +39209,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -39290,7 +39290,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -39421,7 +39421,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-05T09:00:00.000+02:00",
    "baja_fecha": "",
@@ -39507,7 +39507,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-05T15:01:22.157+02:00",
    "baja_fecha": "",
@@ -39593,7 +39593,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-05T12:07:57.313+02:00",
    "baja_fecha": "",
@@ -39704,7 +39704,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-05T09:00:00.000+02:00",
    "baja_fecha": "",
@@ -39795,7 +39795,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -39891,7 +39891,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -39992,7 +39992,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-09-30T09:41:00.304+02:00",
    "baja_fecha": "",
@@ -40098,7 +40098,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -40199,7 +40199,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-06T10:26:08.221+02:00",
    "baja_fecha": "",
@@ -40295,7 +40295,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -40411,7 +40411,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -40507,7 +40507,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -40603,7 +40603,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -40684,7 +40684,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-09-30T10:56:07.315+02:00",
    "baja_fecha": "",
@@ -40785,7 +40785,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -40896,7 +40896,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -40992,7 +40992,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41078,7 +41078,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41184,7 +41184,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41270,7 +41270,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41371,7 +41371,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41452,7 +41452,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41533,7 +41533,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41614,7 +41614,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41695,7 +41695,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41786,7 +41786,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-01T11:09:39.018+02:00",
    "baja_fecha": "",
@@ -41872,7 +41872,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -41958,7 +41958,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-01T10:17:07.823+02:00",
    "baja_fecha": "",
@@ -42099,7 +42099,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-02T09:47:33.840+02:00",
    "baja_fecha": "",
@@ -42210,7 +42210,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -42301,7 +42301,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -42392,7 +42392,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -42493,7 +42493,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -42574,7 +42574,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -42665,7 +42665,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -42776,7 +42776,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "ANUL",
    "updated_anterior": "2026-09-30T09:26:17.742+02:00",
    "baja_fecha": "",
@@ -42867,7 +42867,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-02T10:14:09.179+02:00",
    "baja_fecha": "",
@@ -43003,7 +43003,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -43099,7 +43099,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -43175,7 +43175,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -43276,7 +43276,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-05T14:13:55.542+02:00",
    "baja_fecha": "",
@@ -43352,7 +43352,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -43493,7 +43493,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -43574,7 +43574,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -43650,7 +43650,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -43736,7 +43736,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-05T12:54:04.435+02:00",
    "baja_fecha": "",
@@ -43812,7 +43812,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -43898,7 +43898,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-01T12:50:08.449+02:00",
    "baja_fecha": "",
@@ -43984,7 +43984,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-01T12:08:48.205+02:00",
    "baja_fecha": "",
@@ -44075,7 +44075,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-02T09:57:21.233+02:00",
    "baja_fecha": "",
@@ -44186,7 +44186,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -44282,7 +44282,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-01T09:12:44.328+02:00",
    "baja_fecha": "",
@@ -44364,7 +44364,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -44465,7 +44465,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -44551,7 +44551,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -44642,7 +44642,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -44743,7 +44743,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -44834,7 +44834,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -44915,7 +44915,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45017,7 +45017,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45103,7 +45103,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45214,7 +45214,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45300,7 +45300,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45386,7 +45386,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45507,7 +45507,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-02T11:41:04.492+02:00",
    "baja_fecha": "",
@@ -45608,7 +45608,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45699,7 +45699,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45780,7 +45780,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45861,7 +45861,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -45962,7 +45962,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -46099,7 +46099,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -46180,7 +46180,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -46261,7 +46261,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -46387,7 +46387,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-01T12:35:18.094+02:00",
    "baja_fecha": "",
@@ -46478,7 +46478,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -46579,7 +46579,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -46665,7 +46665,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -46751,7 +46751,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -46842,7 +46842,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-10-01T09:46:44.547+02:00",
    "baja_fecha": "",
@@ -46928,7 +46928,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -47014,7 +47014,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -47130,7 +47130,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -47221,7 +47221,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -47307,7 +47307,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-01T13:07:56.515+02:00",
    "baja_fecha": "",
@@ -47413,7 +47413,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -47494,7 +47494,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -47586,7 +47586,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-01T08:05:28.310+02:00",
    "baja_fecha": "",
@@ -47692,7 +47692,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -47778,7 +47778,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -47874,7 +47874,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -47960,7 +47960,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48046,7 +48046,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48137,7 +48137,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48223,7 +48223,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48299,7 +48299,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48380,7 +48380,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-09-30T13:55:55.118+02:00",
    "baja_fecha": "",
@@ -48461,7 +48461,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48542,7 +48542,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48628,7 +48628,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48739,7 +48739,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48825,7 +48825,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -48916,7 +48916,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49007,7 +49007,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49108,7 +49108,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49194,7 +49194,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49290,7 +49290,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49366,7 +49366,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49507,7 +49507,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49618,7 +49618,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49759,7 +49759,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49875,7 +49875,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -49981,7 +49981,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50067,7 +50067,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50188,7 +50188,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50270,7 +50270,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50376,7 +50376,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50457,7 +50457,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50563,7 +50563,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50654,7 +50654,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50740,7 +50740,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50821,7 +50821,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -50927,7 +50927,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51008,7 +51008,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51109,7 +51109,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51220,7 +51220,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51297,7 +51297,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51388,7 +51388,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51489,7 +51489,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51565,7 +51565,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-10-24T07:11:19+00:00",
+   "last_seen_at": "2026-10-25T06:59:07+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51666,7 +51666,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51777,7 +51777,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -51878,7 +51878,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-10-24T07:13:36+00:00",
+   "last_seen_at": "2026-10-25T07:01:18+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",

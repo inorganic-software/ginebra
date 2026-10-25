@@ -1,20 +1,20 @@
 {
- "generado": "2026-10-24T07:13:48+00:00",
- "ultima_actualizacion": "2026-10-24T07:13:48+00:00",
+ "generado": "2026-10-25T07:01:30+00:00",
+ "ultima_actualizacion": "2026-10-25T07:01:30+00:00",
  "base_de_datos": {
-  "total": 47337,
+  "total": 47388,
   "por_fuente": {
-   "agregadas": 14605,
-   "placsp": 32732
+   "agregadas": 14613,
+   "placsp": 32775
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-10-24T01:00:13.104+02:00"
+  "updated_max": "2026-10-25T02:00:02.212+01:00"
  },
  "ventana_dias": 30,
  "seleccionadas": 558,
  "novedades_ultima_ejecucion": {
-  "nuevo": 2600,
-  "actualizado": 2039,
+  "nuevo": 51,
+  "actualizado": 34,
   "baja": 2
  },
  "alertas_nube": 246,
@@ -47,6 +47,26 @@
   "Ministerio de Juventud e Infancia": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-10-25T07:01:30+00:00",
+   "fuente": "agregadas",
+   "periodo": "202610",
+   "entradas": 21148,
+   "expedientes": 14613,
+   "nuevos": 8,
+   "actualizados": 7,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-10-25T06:59:52+00:00",
+   "fuente": "placsp",
+   "periodo": "202610",
+   "entradas": 46298,
+   "expedientes": 32775,
+   "nuevos": 43,
+   "actualizados": 27,
+   "bajas": 2
+  },
   {
    "ejecutado_en": "2026-10-24T07:13:48+00:00",
    "fuente": "agregadas",
