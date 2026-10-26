@@ -1,28 +1,28 @@
 {
- "generado": "2026-10-25T07:01:30+00:00",
- "ultima_actualizacion": "2026-10-25T07:01:30+00:00",
+ "generado": "2026-10-26T07:26:13+00:00",
+ "ultima_actualizacion": "2026-10-26T07:26:13+00:00",
  "base_de_datos": {
-  "total": 47388,
+  "total": 47525,
   "por_fuente": {
-   "agregadas": 14613,
-   "placsp": 32775
+   "agregadas": 14626,
+   "placsp": 32899
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-10-25T02:00:02.212+01:00"
+  "updated_max": "2026-10-25T20:41:05.222+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 558,
+ "seleccionadas": 568,
  "novedades_ultima_ejecucion": {
-  "nuevo": 51,
-  "actualizado": 34,
-  "baja": 2
+  "nuevo": 137,
+  "actualizado": 45,
+  "baja": 0
  },
- "alertas_nube": 246,
+ "alertas_nube": 247,
  "por_administracion": {
   "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 148,
-  "Comunidad de Madrid": 126,
-  "Ministerio de Hacienda": 75,
-  "Ministerio de Defensa": 54,
+  "Comunidad de Madrid": 127,
+  "Ministerio de Hacienda": 83,
+  "Ministerio de Defensa": 55,
   "INSTITUCIONES INDEPENDIENTES": 30,
   "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 23,
   "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 16,
@@ -47,6 +47,26 @@
   "Ministerio de Juventud e Infancia": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-10-26T07:26:13+00:00",
+   "fuente": "agregadas",
+   "periodo": "202610",
+   "entradas": 21173,
+   "expedientes": 14626,
+   "nuevos": 13,
+   "actualizados": 12,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-10-26T07:25:13+00:00",
+   "fuente": "placsp",
+   "periodo": "202610",
+   "entradas": 46455,
+   "expedientes": 32899,
+   "nuevos": 124,
+   "actualizados": 33,
+   "bajas": 0
+  },
   {
    "ejecutado_en": "2026-10-25T07:01:30+00:00",
    "fuente": "agregadas",
