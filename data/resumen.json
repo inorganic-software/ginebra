@@ -1,35 +1,35 @@
 {
- "generado": "2026-10-26T07:26:13+00:00",
- "ultima_actualizacion": "2026-10-26T07:26:13+00:00",
+ "generado": "2026-10-27T07:19:39+00:00",
+ "ultima_actualizacion": "2026-10-27T07:19:39+00:00",
  "base_de_datos": {
-  "total": 47525,
+  "total": 49536,
   "por_fuente": {
-   "agregadas": 14626,
-   "placsp": 32899
+   "agregadas": 15199,
+   "placsp": 34337
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-10-25T20:41:05.222+01:00"
+  "updated_max": "2026-10-27T01:00:09.410+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 568,
+ "seleccionadas": 591,
  "novedades_ultima_ejecucion": {
-  "nuevo": 137,
-  "actualizado": 45,
-  "baja": 0
+  "nuevo": 2011,
+  "actualizado": 2326,
+  "baja": 3
  },
- "alertas_nube": 247,
+ "alertas_nube": 258,
  "por_administracion": {
-  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 148,
+  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 156,
   "Comunidad de Madrid": 127,
-  "Ministerio de Hacienda": 83,
-  "Ministerio de Defensa": 55,
+  "Ministerio de Hacienda": 89,
+  "Ministerio de Defensa": 57,
   "INSTITUCIONES INDEPENDIENTES": 30,
-  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 23,
+  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 26,
   "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 16,
   "UNIVERSIDADES": 12,
-  "Ministerio de Sanidad": 10,
-  "Ministerio para la Transformación Digital y de la Función Pública": 9,
-  "Ministerio de Economía, Comercio y Empresa": 9,
+  "Ministerio de Sanidad": 11,
+  "Ministerio de Economía, Comercio y Empresa": 11,
+  "Ministerio para la Transformación Digital y de la Función Pública": 10,
   "Ministerio del Interior": 9,
   "Ministerio de Ciencia, Innovación y Universidades": 8,
   "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 6,
@@ -40,13 +40,33 @@
   "Ministerio de Trabajo y Economía Social": 2,
   "Ministerio de Transportes y Movilidad Sostenible": 2,
   "Ministerio de Vivienda y Agenda Urbana": 2,
-  "Ministerio de Industria y Turismo": 1,
   "Ministerio de Igualdad": 1,
+  "Ministerio de Industria y Turismo": 1,
   "Ministerio de Agricultura, Pesca y Alimentación": 1,
   "Ministerio de Educación, Formación Profesional y Deportes": 1,
   "Ministerio de Juventud e Infancia": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-10-27T07:19:39+00:00",
+   "fuente": "agregadas",
+   "periodo": "202610",
+   "entradas": 22394,
+   "expedientes": 15199,
+   "nuevos": 573,
+   "actualizados": 648,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-10-27T07:17:49+00:00",
+   "fuente": "placsp",
+   "periodo": "202610",
+   "entradas": 49571,
+   "expedientes": 34337,
+   "nuevos": 1438,
+   "actualizados": 1678,
+   "bajas": 4
+  },
   {
    "ejecutado_en": "2026-10-26T07:26:13+00:00",
    "fuente": "agregadas",
