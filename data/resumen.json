@@ -1,53 +1,73 @@
 {
- "generado": "2026-10-28T07:17:25+00:00",
- "ultima_actualizacion": "2026-10-28T07:17:25+00:00",
+ "generado": "2026-10-29T07:20:21+00:00",
+ "ultima_actualizacion": "2026-10-29T07:20:21+00:00",
  "base_de_datos": {
-  "total": 51448,
+  "total": 53413,
   "por_fuente": {
-   "agregadas": 15702,
-   "placsp": 35746
+   "agregadas": 16192,
+   "placsp": 37221
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-10-28T02:00:01.429+01:00"
+  "updated_max": "2026-10-29T02:00:03.570+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 615,
+ "seleccionadas": 639,
  "novedades_ultima_ejecucion": {
-  "nuevo": 1912,
-  "actualizado": 2209,
-  "baja": 3
+  "nuevo": 1965,
+  "actualizado": 2216,
+  "baja": 5
  },
- "alertas_nube": 269,
+ "alertas_nube": 277,
  "por_administracion": {
-  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 166,
-  "Comunidad de Madrid": 130,
-  "Ministerio de Hacienda": 91,
-  "Ministerio de Defensa": 59,
-  "INSTITUCIONES INDEPENDIENTES": 30,
+  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 171,
+  "Comunidad de Madrid": 133,
+  "Ministerio de Hacienda": 97,
+  "Ministerio de Defensa": 60,
+  "INSTITUCIONES INDEPENDIENTES": 32,
   "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 26,
-  "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 17,
-  "UNIVERSIDADES": 13,
+  "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 19,
+  "UNIVERSIDADES": 14,
+  "Ministerio del Interior": 11,
   "Ministerio de Economía, Comercio y Empresa": 11,
   "Ministerio de Sanidad": 11,
   "Ministerio para la Transformación Digital y de la Función Pública": 10,
-  "Ministerio del Interior": 10,
   "Ministerio de Ciencia, Innovación y Universidades": 8,
   "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 6,
   "Ministerio de Cultura": 5,
   "Ministerio para la Transición Ecológica y el Reto Demográfico": 4,
+  "Ministerio de Trabajo y Economía Social": 3,
   "Ministerio de Inclusión, Seguridad Social y Migraciones": 3,
   "Ministerio de Transportes y Movilidad Sostenible": 3,
+  "Ministerio de Educación, Formación Profesional y Deportes": 2,
+  "Ministerio de Agricultura, Pesca y Alimentación": 2,
   "SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS": 2,
-  "Ministerio de Trabajo y Economía Social": 2,
   "Ministerio de Vivienda y Agenda Urbana": 2,
   "Ministerio de Asuntos Exteriores, Unión Europea y Cooperación": 1,
   "Ministerio de Industria y Turismo": 1,
   "Ministerio de Igualdad": 1,
-  "Ministerio de Agricultura, Pesca y Alimentación": 1,
-  "Ministerio de Educación, Formación Profesional y Deportes": 1,
   "Ministerio de Juventud e Infancia": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-10-29T07:20:21+00:00",
+   "fuente": "agregadas",
+   "periodo": "202610",
+   "entradas": 24663,
+   "expedientes": 16192,
+   "nuevos": 490,
+   "actualizados": 614,
+   "bajas": 1
+  },
+  {
+   "ejecutado_en": "2026-10-29T07:17:25+00:00",
+   "fuente": "placsp",
+   "periodo": "202610",
+   "entradas": 55604,
+   "expedientes": 37221,
+   "nuevos": 1475,
+   "actualizados": 1602,
+   "bajas": 5
+  },
   {
    "ejecutado_en": "2026-10-28T07:17:25+00:00",
    "fuente": "agregadas",
