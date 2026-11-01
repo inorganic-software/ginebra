@@ -1,35 +1,35 @@
 {
- "generado": "2026-10-31T07:02:53+00:00",
- "ultima_actualizacion": "2026-10-31T07:02:53+00:00",
+ "generado": "2026-11-01T06:59:43+00:00",
+ "ultima_actualizacion": "2026-11-01T06:59:43+00:00",
  "base_de_datos": {
-  "total": 57043,
+  "total": 57082,
   "por_fuente": {
-   "agregadas": 17080,
-   "placsp": 39963
+   "agregadas": 17087,
+   "placsp": 39995
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-10-31T01:00:21.987+01:00"
+  "updated_max": "2026-11-01T01:00:07.659+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 679,
+ "seleccionadas": 661,
  "novedades_ultima_ejecucion": {
-  "nuevo": 1872,
-  "actualizado": 2302,
-  "baja": 3
+  "nuevo": 39,
+  "actualizado": 46,
+  "baja": 2
  },
- "alertas_nube": 297,
+ "alertas_nube": 298,
  "por_administracion": {
-  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 186,
-  "Comunidad de Madrid": 136,
-  "Ministerio de Hacienda": 108,
-  "Ministerio de Defensa": 61,
-  "INSTITUCIONES INDEPENDIENTES": 33,
+  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 178,
+  "Comunidad de Madrid": 132,
+  "Ministerio de Hacienda": 107,
+  "Ministerio de Defensa": 60,
+  "INSTITUCIONES INDEPENDIENTES": 31,
   "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 27,
   "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 20,
-  "UNIVERSIDADES": 14,
-  "Ministerio de Economía, Comercio y Empresa": 12,
+  "UNIVERSIDADES": 13,
   "Ministerio de Sanidad": 11,
   "Ministerio del Interior": 11,
+  "Ministerio de Economía, Comercio y Empresa": 11,
   "Ministerio para la Transformación Digital y de la Función Pública": 11,
   "Ministerio de Ciencia, Innovación y Universidades": 9,
   "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 7,
@@ -49,6 +49,26 @@
   "Ministerio de Juventud e Infancia": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-01T06:51:55+00:00",
+   "fuente": "agregadas",
+   "periodo": "202610",
+   "entradas": 26853,
+   "expedientes": 17087,
+   "nuevos": 7,
+   "actualizados": 17,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-01T06:43:47+00:00",
+   "fuente": "placsp",
+   "periodo": "202610",
+   "entradas": 61638,
+   "expedientes": 39995,
+   "nuevos": 32,
+   "actualizados": 29,
+   "bajas": 2
+  },
   {
    "ejecutado_en": "2026-10-31T07:02:52+00:00",
    "fuente": "agregadas",
@@ -228,26 +248,6 @@
    "nuevos": 0,
    "actualizados": 0,
    "bajas": 49
-  },
-  {
-   "ejecutado_en": "2026-10-23T04:40:12+00:00",
-   "fuente": "agregadas",
-   "periodo": "202610",
-   "entradas": 19385,
-   "expedientes": 13450,
-   "nuevos": 13450,
-   "actualizados": 5677,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-10-23T04:39:48+00:00",
-   "fuente": "placsp",
-   "periodo": "202610",
-   "entradas": 43337,
-   "expedientes": 31287,
-   "nuevos": 31287,
-   "actualizados": 11266,
-   "bajas": 47
   }
  ],
  "feeds": {
