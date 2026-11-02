@@ -1,42 +1,42 @@
 {
- "generado": "2026-11-01T06:59:43+00:00",
- "ultima_actualizacion": "2026-11-01T06:59:43+00:00",
+ "generado": "2026-11-02T06:53:43+00:00",
+ "ultima_actualizacion": "2026-11-02T06:53:43+00:00",
  "base_de_datos": {
-  "total": 57082,
+  "total": 57203,
   "por_fuente": {
-   "agregadas": 17087,
-   "placsp": 39995
+   "agregadas": 17095,
+   "placsp": 40108
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-11-01T01:00:07.659+01:00"
+  "updated_max": "2026-11-02T00:00:12.148+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 661,
+ "seleccionadas": 645,
  "novedades_ultima_ejecucion": {
-  "nuevo": 39,
-  "actualizado": 46,
-  "baja": 2
+  "nuevo": 121,
+  "actualizado": 71,
+  "baja": 0
  },
- "alertas_nube": 298,
+ "alertas_nube": 300,
  "por_administracion": {
-  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 178,
-  "Comunidad de Madrid": 132,
-  "Ministerio de Hacienda": 107,
-  "Ministerio de Defensa": 60,
-  "INSTITUCIONES INDEPENDIENTES": 31,
-  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 27,
-  "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 20,
-  "UNIVERSIDADES": 13,
+  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 174,
+  "Comunidad de Madrid": 131,
+  "Ministerio de Hacienda": 104,
+  "Ministerio de Defensa": 59,
+  "INSTITUCIONES INDEPENDIENTES": 28,
+  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 25,
+  "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 19,
+  "UNIVERSIDADES": 12,
   "Ministerio de Sanidad": 11,
   "Ministerio del Interior": 11,
   "Ministerio de Economía, Comercio y Empresa": 11,
-  "Ministerio para la Transformación Digital y de la Función Pública": 11,
+  "Ministerio para la Transformación Digital y de la Función Pública": 10,
   "Ministerio de Ciencia, Innovación y Universidades": 9,
   "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 7,
   "Ministerio de Cultura": 6,
+  "Ministerio de Inclusión, Seguridad Social y Migraciones": 4,
   "Ministerio de Transportes y Movilidad Sostenible": 4,
   "Ministerio para la Transición Ecológica y el Reto Demográfico": 4,
-  "Ministerio de Inclusión, Seguridad Social y Migraciones": 3,
   "Ministerio de Trabajo y Economía Social": 3,
   "Ministerio de Agricultura, Pesca y Alimentación": 2,
   "Ministerio de Educación, Formación Profesional y Deportes": 2,
@@ -49,6 +49,46 @@
   "Ministerio de Juventud e Infancia": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-02T06:53:43+00:00",
+   "fuente": "agregadas",
+   "periodo": "202611",
+   "entradas": 350,
+   "expedientes": 349,
+   "nuevos": 8,
+   "actualizados": 5,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-02T06:53:42+00:00",
+   "fuente": "agregadas",
+   "periodo": "202610",
+   "entradas": 26853,
+   "expedientes": 17087,
+   "nuevos": 0,
+   "actualizados": 0,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-02T06:53:12+00:00",
+   "fuente": "placsp",
+   "periodo": "202611",
+   "entradas": 458,
+   "expedientes": 454,
+   "nuevos": 113,
+   "actualizados": 66,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-02T06:53:08+00:00",
+   "fuente": "placsp",
+   "periodo": "202610",
+   "entradas": 61638,
+   "expedientes": 39995,
+   "nuevos": 0,
+   "actualizados": 0,
+   "bajas": 0
+  },
   {
    "ejecutado_en": "2026-11-01T06:51:55+00:00",
    "fuente": "agregadas",
@@ -208,46 +248,6 @@
    "nuevos": 43,
    "actualizados": 27,
    "bajas": 2
-  },
-  {
-   "ejecutado_en": "2026-10-24T07:13:48+00:00",
-   "fuente": "agregadas",
-   "periodo": "202610",
-   "entradas": 21133,
-   "expedientes": 14605,
-   "nuevos": 1155,
-   "actualizados": 593,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-10-24T07:12:04+00:00",
-   "fuente": "placsp",
-   "periodo": "202610",
-   "entradas": 46228,
-   "expedientes": 32732,
-   "nuevos": 1445,
-   "actualizados": 1446,
-   "bajas": 4
-  },
-  {
-   "ejecutado_en": "2026-10-23T07:21:29+00:00",
-   "fuente": "agregadas",
-   "periodo": "202610",
-   "entradas": 19385,
-   "expedientes": 13450,
-   "nuevos": 0,
-   "actualizados": 0,
-   "bajas": 2
-  },
-  {
-   "ejecutado_en": "2026-10-23T07:19:31+00:00",
-   "fuente": "placsp",
-   "periodo": "202610",
-   "entradas": 43337,
-   "expedientes": 31287,
-   "nuevos": 0,
-   "actualizados": 0,
-   "bajas": 49
   }
  ],
  "feeds": {
