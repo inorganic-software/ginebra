@@ -1,25 +1,25 @@
 {
- "generado": "2026-11-02T06:53:43+00:00",
- "ultima_actualizacion": "2026-11-02T06:53:43+00:00",
+ "generado": "2026-11-03T06:48:05+00:00",
+ "ultima_actualizacion": "2026-11-03T06:48:05+00:00",
  "base_de_datos": {
-  "total": 57203,
+  "total": 57853,
   "por_fuente": {
-   "agregadas": 17095,
-   "placsp": 40108
+   "agregadas": 17385,
+   "placsp": 40468
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-11-02T00:00:12.148+01:00"
+  "updated_max": "2026-11-03T02:00:03.417+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 645,
+ "seleccionadas": 647,
  "novedades_ultima_ejecucion": {
-  "nuevo": 121,
-  "actualizado": 71,
-  "baja": 0
+  "nuevo": 650,
+  "actualizado": 1106,
+  "baja": 1
  },
- "alertas_nube": 300,
+ "alertas_nube": 307,
  "por_administracion": {
-  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 174,
+  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 176,
   "Comunidad de Madrid": 131,
   "Ministerio de Hacienda": 104,
   "Ministerio de Defensa": 59,
@@ -49,6 +49,46 @@
   "Ministerio de Juventud e Infancia": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-03T06:48:05+00:00",
+   "fuente": "agregadas",
+   "periodo": "202611",
+   "entradas": 1042,
+   "expedientes": 1022,
+   "nuevos": 290,
+   "actualizados": 402,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-03T06:48:04+00:00",
+   "fuente": "agregadas",
+   "periodo": "202610",
+   "entradas": 26853,
+   "expedientes": 17087,
+   "nuevos": 0,
+   "actualizados": 0,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-03T06:47:28+00:00",
+   "fuente": "placsp",
+   "periodo": "202611",
+   "entradas": 1522,
+   "expedientes": 1351,
+   "nuevos": 360,
+   "actualizados": 704,
+   "bajas": 2
+  },
+  {
+   "ejecutado_en": "2026-11-03T06:47:20+00:00",
+   "fuente": "placsp",
+   "periodo": "202610",
+   "entradas": 61638,
+   "expedientes": 39995,
+   "nuevos": 0,
+   "actualizados": 0,
+   "bajas": 0
+  },
   {
    "ejecutado_en": "2026-11-02T06:53:43+00:00",
    "fuente": "agregadas",
@@ -208,46 +248,6 @@
    "nuevos": 1438,
    "actualizados": 1678,
    "bajas": 4
-  },
-  {
-   "ejecutado_en": "2026-10-26T07:26:13+00:00",
-   "fuente": "agregadas",
-   "periodo": "202610",
-   "entradas": 21173,
-   "expedientes": 14626,
-   "nuevos": 13,
-   "actualizados": 12,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-10-26T07:25:13+00:00",
-   "fuente": "placsp",
-   "periodo": "202610",
-   "entradas": 46455,
-   "expedientes": 32899,
-   "nuevos": 124,
-   "actualizados": 33,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-10-25T07:01:30+00:00",
-   "fuente": "agregadas",
-   "periodo": "202610",
-   "entradas": 21148,
-   "expedientes": 14613,
-   "nuevos": 8,
-   "actualizados": 7,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-10-25T06:59:52+00:00",
-   "fuente": "placsp",
-   "periodo": "202610",
-   "entradas": 46298,
-   "expedientes": 32775,
-   "nuevos": 43,
-   "actualizados": 27,
-   "bajas": 2
   }
  ],
  "feeds": {
