@@ -3,7 +3,7 @@
   <title>Ginebra · alertas de nube pública</title>
   <subtitle>Licitaciones que mencionan nube pública en cualquier administración española.</subtitle>
   <id>https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed_nube.atom</id>
-  <updated>2026-11-07T06:41:13+00:00</updated>
+  <updated>2026-11-08T06:40:05+00:00</updated>
   <link rel="self" href="https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed_nube.atom" type="application/atom+xml" />
   <link rel="alternate" href="https://github.com/inorganic-software/ginebra" type="text/html" />
   <generator uri="https://github.com/inorganic-software/ginebra">ginebra</generator>
@@ -11,6 +11,25 @@
     <name>Ginebra (inorganic-software)</name>
   </author>
   <rights>Datos: Plataforma de Contratación del Sector Público (datos abiertos).</rights>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20862697</id>
+    <title>Suscripción A 24 Licencias Waf (Web Application Firewall)
+De Barracuda O Equivalente En Modalidad Saas (Ministerio De Economía, Comercio Y Empresa-Icex España Exportación E Inversiones, Ep E.) · Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada · 30.000 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=mM8ApeiptRLCfVQHDepjGQ%3D%3D" />
+    <updated>2026-11-06T22:54:07+01:00</updated>
+    <published>2026-11-08T06:39:42+00:00</published>
+    <summary type="text">Resuelta · Ministerio de Hacienda · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Hacienda › Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CEA5035/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;30.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;30.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;1&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Sothis Servicios Tecnológicos, Slu&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;28.463 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-06&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; cercania: lugar de ejecución ES300; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=mM8ApeiptRLCfVQHDepjGQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IXa3tQsTNgEQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="RES" label="Resuelta" />
+    <category term="1" label="Suministros" />
+    <category term="Administración General del Estado" label="Administración General del Estado" />
+    <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
+    </author>
+  </entry>
   <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20572892</id>
     <title>Suministro de:
@@ -27,7 +46,6 @@
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Comisión de Contratación de la Sociedad Estatal Loterías y Apuestas del Estado, S.M.E., S.A.</name>
     </author>
@@ -38,14 +56,13 @@
     <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/b9e4925e-7d73-4a1d-b8d3-e4415d30b34d/300931820" />
     <updated>2026-11-06T14:05:14+01:00</updated>
     <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Adjudicada · Generalitat de Catalunya · plazo hasta 2026-10-20 23:59 · Servicios</summary>
+    <summary type="text">Adjudicada · Generalitat de Catalunya · plazo hasta 2026-10-20 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consorci de l&amp;#x27;Habitatge de l&amp;#x27;Àrea Metropolitana de Barcelona&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Consorci de l&amp;#x27;Habitatge de l&amp;#x27;Àrea Metropolitana de Barcelona&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026.00144&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;20.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;41.100 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Otros&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72510000;48450000;72416000;72267100&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES511&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-20 23:59:59&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;SDi&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;14.599 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-06&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72510000; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/b9e4925e-7d73-4a1d-b8d3-e4415d30b34d/300931820"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302647440/D5E2621DAA195146FC10B3E03E69307E"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302647444/2846BE3350A3407FCF6B89DBE2922663"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/CMH"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="ADJ" label="Adjudicada" />
     <category term="2" label="Servicios" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
     <category term="agregadas" label="agregadas" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Consorci de l'Habitatge de l'Àrea Metropolitana de Barcelona</name>
     </author>
@@ -65,14 +82,13 @@ En concret, el contracte comprèn:
     <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/3ee587e2-fc9c-40cd-8876-5fbe9bfad4a1/300931759" />
     <updated>2026-11-06T14:04:45+01:00</updated>
     <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Adjudicada → Resuelta · Generalitat de Catalunya · plazo hasta 2026-07-20 15:00 · Servicios</summary>
+    <summary type="text">Resuelta · Generalitat de Catalunya · plazo hasta 2026-07-20 15:00 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ajuntament de Sant Vicenç dels Horts&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Ajuntament de Sant Vicenç dels Horts&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CTNS2026000002_&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;88.907 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;106.688 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Negociado sin publicidad&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72210000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES511&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-07-20 15:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;GRUPO CASTILLA PEOPLE, S.A.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;88.907 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-06&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72210000; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/3ee587e2-fc9c-40cd-8876-5fbe9bfad4a1/300931759"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302512130/5FF01A079D95D6F39804E448E615705E"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302512131/389D6D08114B0E683745079540FE5689"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/2250729"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="RES" label="Resuelta" />
     <category term="2" label="Servicios" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
     <category term="agregadas" label="agregadas" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Ajuntament de Sant Vicenç dels Horts</name>
     </author>
@@ -87,14 +103,13 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/652f0f3a-9a66-4391-8818-600377319984/300931711" />
     <updated>2026-11-06T14:04:16+01:00</updated>
     <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-09 14:00 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-09 14:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ajuntament d&amp;#x27;Olot&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Ajuntament d&amp;#x27;Olot&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CCS12026000064&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.190.909 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.838.182 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72510000;72260000;72263000;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES512&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-09 14:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-09-09&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72510000; tamano: 1.190.909 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/652f0f3a-9a66-4391-8818-600377319984/300931711"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302559689/2D6B2AA9BEACF85C3C2CE9A22A677ACD"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302559913/8475C39EAF8C8AE37D1340F9646E02BA"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/OLOT"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
     <category term="agregadas" label="agregadas" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Ajuntament d'Olot</name>
     </author>
@@ -105,14 +120,13 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=%2FWWHyJAgToCS81gZFETWmA%3D%3D" />
     <updated>2026-11-06T14:00:25+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Castilla - La Mancha · plazo hasta 2026-10-13 14:00 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · Castilla - La Mancha · plazo hasta 2026-10-13 14:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Castilla - La Mancha › Consejería de Hacienda, Administraciones Públicas y Transformación Digital › Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2025/009194&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;0 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;30.141.471 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;72000000;72250000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES425&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-13 14:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-08-31&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=%2FWWHyJAgToCS81gZFETWmA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=1FEOClUqEhVv56wvWKI19VZ1qrMiwD7r7CqPHMeV71d6BVGe66o%2BS3Yh39bnGItI5FOiVgP8WsfdRuCBg/hM4px%2B012%2BCJ7tef2Enf62mKwZyAJWGsSt0OzTSTyw9JAs"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=JNJ/8HCFGddXnsnf4BAYOjfm1BJk7C31SVy1iE6v/FxHWoVfv%2BwEN0bt4EiSa%2Bq8OqPFQ59sLIF/36H0XLR2YVnoI53iXB4rTgrBQAYhII0//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=MXcBgvgS5LkQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Comunidades autónomas" label="Comunidades autónomas" />
     <category term="Castilla - La Mancha" label="Castilla - La Mancha" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha</name>
     </author>
@@ -130,7 +144,6 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Comunidad Valenciana" label="Comunidad Valenciana" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Junta de Gobierno del Ayuntamiento de Algemesí</name>
     </author>
@@ -141,14 +154,13 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=EA86Vu2RR43i0Kd8%2Brcp6w%3D%3D" />
     <updated>2026-11-06T13:57:50+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Ministerio de Transportes y Movilidad Sostenible · plazo hasta 2026-09-17 23:59 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · Ministerio de Transportes y Movilidad Sostenible · plazo hasta 2026-09-17 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Autoridad Portuaria de Málaga&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Transportes y Movilidad Sostenible › Secretaría de Estado de Transportes y Movilidad Sostenible › Puertos del Estado › Autoridad Portuaria de Málaga&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;26Exma-028&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;409.729 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;450.702 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72500000;72590000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Málaga ES617&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-17 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-08-17&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72500000; tamano: 409.729 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=EA86Vu2RR43i0Kd8%2Brcp6w%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=UuQmJkodBcd%2BFYfoIBjHs2ZGHpYie8RZgxkr4jMfIoMQlNgXGVPCkIyRhbew%2Br7v6/044OajhpWPLje%2BjwN/hKCSGtkw8CS2c2cqmhLa5LnfdyQgZAdTm3EfcUAC7CJ6"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=zvsidJIcWYHTiww4FMCIz%2BVn7vXw3nJ2q5FuU9fKCMZSUCZb%2BHrLIGr8VROwy9/SMB9LpXoqd177zw9R7F5sYHYIHlODUr4oKwNinL/yp9DDdQD9RyhUmzT4jZ2In4zL"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=C64%2B2LeMaw4QK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Administración General del Estado" label="Administración General del Estado" />
     <category term="Ministerio de Transportes y Movilidad Sostenible" label="Ministerio de Transportes y Movilidad Sostenible" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Autoridad Portuaria de Málaga</name>
     </author>
@@ -159,14 +171,13 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-suscripcion-licencias-familia-software-adobe-creative-cloud" />
     <updated>2026-11-06T13:40:58+01:00</updated>
     <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Adjudicada → Resuelta · Comunidad de Madrid · plazo hasta 2026-07-07 23:59 · Suministros</summary>
+    <summary type="text">Resuelta · Comunidad de Madrid · plazo hasta 2026-07-07 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Canal de Isabel II, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Medio Ambiente, Agricultura e Interior&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;28-2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;65.471 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;65.471 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48941000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-07-07 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;SEYS CAD SYSTEM, S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;51.669 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-06&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48941000; cercania: lugar de ejecución ES300; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-suscripcion-licencias-familia-software-adobe-creative-cloud"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-06/2026_28_2_pcap_002.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-06/28-2026_ppt.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="RES" label="Resuelta" />
     <category term="1" label="Suministros" />
     <category term="Comunidades autónomas" label="Comunidades autónomas" />
     <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
     <category term="agregadas" label="agregadas" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Canal de Isabel II, S.A.</name>
     </author>
@@ -177,14 +188,13 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=nDSCtAt76dv10HRJw8TEnQ%3D%3D" />
     <updated>2026-11-06T13:14:27+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">En plazo → Pendiente de adjudicación · Castilla y León · plazo hasta 2026-10-30 23:59 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · Castilla y León · plazo hasta 2026-10-30 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Junta de Gobierno de la Diputación Provincial de León&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Castilla y León › León › Diputación Provincial de León&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;1818755Z&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;476.612 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;795.448 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;30200000;72222300;72610000;72250000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;León ES413&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-30 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-01&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 476.612 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=nDSCtAt76dv10HRJw8TEnQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=WXuKJ73kmcxZzqNkPWRbIdEC2vmccvduRuMYthh2stEtdSeRF34co/9ZXCaw68%2BDmzG9CTm/3alK2ZogowSArJsv7bWqYv3doiRY4ICUR/9JOVDbGCDM%2BMigrvuVS7Rv"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=pu6ke1lcIevP/m6wH95P%2BtnXF/xaIZGJhwPtcR0oK9X/dzOTn4OGUUcsc2BvyG%2B2INLGSVkky13HaUPC2yUtmg3ik14x8ILuJOKb34pKGZ97QB3HKyQaFUExmUVQCerk"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=lsV2gQjbJg8QK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Castilla y León" label="Castilla y León" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Junta de Gobierno de la Diputación Provincial de León</name>
     </author>
@@ -202,7 +212,6 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Andalucía" label="Andalucía" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Alcaldía del Ayuntamiento de Lucena</name>
     </author>
@@ -221,7 +230,6 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Comunidad Valenciana" label="Comunidad Valenciana" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Junta de Gobierno del Ayuntamiento de Albal</name>
     </author>
@@ -239,7 +247,6 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Consejo de Administración-Comité de Inversiones de la Sociedad Estatal Correos y Telégrafos S.A</name>
     </author>
@@ -257,7 +264,6 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Jefatura de Unidad de Medios Internos -Área de Compras de la Compañía Española de Seguros de Crédito a la Exportación S.A., S.M.E. (CESCE)</name>
     </author>
@@ -268,14 +274,13 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=vPFE4jMVpQLLIx6q1oPaMg%3D%3D" />
     <updated>2026-11-06T10:47:59+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · INSTITUCIONES INDEPENDIENTES · plazo hasta 2026-10-21 23:59 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · INSTITUCIONES INDEPENDIENTES · plazo hasta 2026-10-21 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Cámara de Cuentas de Andalucía&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › INSTITUCIONES INDEPENDIENTES › Andalucía › Cámara de Cuentas de Andalucía&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;1978/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;29.569 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;29.569 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;30200000;48732000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Sevilla ES618&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-21 23:59:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;2&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-10-06&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=vPFE4jMVpQLLIx6q1oPaMg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=aOViIZxFY8K8iCTeDoEqcfRTXyWWXuGNBnW44zdKLe8/jckvm9j7r7y/mFKQI%2BqsurY8UyT1Wyb8zrGuaA6CnprTxCpRb90yodxF0V1lNxzDdQD9RyhUmzT4jZ2In4zL"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=DErvDpxzG0b4qgVKle1D/LC0AUlXrFsWg5rTTqqF/5P8VbKQG19MsYwDD8VpL3TlHepGb9iIRvw9aLObiscPqIRN3m6Xmng9r0HI1B5ATBnVTD3T98KC0nSgQFM0q%2B5s"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=U%2FmvozTXcaE%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="INSTITUCIONES INDEPENDIENTES" label="INSTITUCIONES INDEPENDIENTES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Cámara de Cuentas de Andalucía</name>
     </author>
@@ -286,14 +291,13 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=KJ9HjD%2Bjddsl5NjlNci%2BtA%3D%3D" />
     <updated>2026-11-06T10:37:37+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-10-15 14:00 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-10-15 14:00 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección Gerencia de Mutualia, Mutua Colaboradora con la Seguridad Social nº 02&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL › Mutualia&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/075/01&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;14.044 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;39.029 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72268000;72263000;72267000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;País Vasco ES21&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-15 14:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-09-29&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72268000; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=KJ9HjD%2Bjddsl5NjlNci%2BtA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=zV4h6y2EFlGAEtdf23lUBlLhMWHJ2mQms4YEccQLs/LjyWVaqMXQEpx8qfuVcQnepqGu0sedxksGMULSPFMh3VJdnZrso5oZ4FZkJcavSZGCx2e6p7hqtlp2aFupgHMr"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=Ta1Lsc9RUoHf6O4qvzTnIWwY7i2H2nSxpNL8d1rrDNbK1gFcEOKNkgVvkrRzv8%2Bm68rh7dYM3NxlTLzxyGT9u1O1txxirG5V3y1dmgW6Q0AC1/zDIE0Kw/PWNnLS0Z0z"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=Uk1pxyFxAmMQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" label="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Dirección Gerencia de Mutualia, Mutua Colaboradora con la Seguridad Social nº 02</name>
     </author>
@@ -304,14 +308,13 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/ba9f2a64-c34f-413a-bb90-6abdda13af80/300930894" />
     <updated>2026-11-06T10:03:03+01:00</updated>
     <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">En plazo → Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-11-05 12:00 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-11-05 12:00 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ferrocarrils de la Generalitat de Catalunya&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Generalitat de Catalunya › Departament de Territori, Habitatge i Transició Ecològica&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CONTR/2026/0000000513&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;130.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;156.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72246000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES511&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-05 12:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72246000; tamano: 130.000 €; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/ba9f2a64-c34f-413a-bb90-6abdda13af80/300930894"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302684362/B8B4C545E82BF7EB7FC8B5466512DDEA"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302684363/6CCDD7FD12A1EA58FBD2E86F2F5E69CF"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/FGC"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Comunidades autónomas" label="Comunidades autónomas" />
     <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
     <category term="agregadas" label="agregadas" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Ferrocarrils de la Generalitat de Catalunya</name>
     </author>
@@ -322,14 +325,13 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=%2BxGS1tS97QYl5NjlNci%2BtA%3D%3D" />
     <updated>2026-11-06T09:41:24+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Comunidad Valenciana · plazo hasta 2026-09-29 23:59 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · Comunidad Valenciana · plazo hasta 2026-09-29 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Junta de Gobierno del Ayuntamiento de Alzira&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Comunidad Valenciana › Valencia › Ayuntamientos › Alzira&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;OC-6470/26&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;22.397 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;47.851 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72263000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Valencia/València ES523&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-29 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-09-14&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72263000; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=%2BxGS1tS97QYl5NjlNci%2BtA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=VyjYB44OB6KsSPkY46IYPSSrN3a%2B7NLUPbrzqOVwtnh0G4FsMPz/vViFIfEHcsBC3%2B6deDW4fYTQnAyoKWXgy5F25j1ezYXxwIXFnBwlXGWHAj0WEJrB5sP7amrh2jBD"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=tlnNkDaZxcx2eBLwj8MwhgjUNVYOACCdcx3K50twTIFuYcH1rLzXiNLB/vOzQ8A/8L7a0vSBdkKOeOSyb1W0svqoswnsZvv3x7w8I5AzyCCCx2e6p7hqtlp2aFupgHMr"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=SDEKfAMd94oQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Comunidad Valenciana" label="Comunidad Valenciana" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Junta de Gobierno del Ayuntamiento de Alzira</name>
     </author>
@@ -340,14 +342,13 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=RNib2uOyNBaKeVWTb9Scog%3D%3D" />
     <updated>2026-11-06T09:40:51+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Adjudicada · SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES · plazo hasta 2026-10-06 23:59 · Suministros</summary>
+    <summary type="text">Adjudicada · SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES · plazo hasta 2026-10-06 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Empresa Municipal de Transportes de Madrid, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES › Comunidad de Madrid › Madrid › Empresa Municipal de Transportes de Madrid, S.A.&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;26/102/2&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;208.870 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;208.870 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48800000;48820000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-06 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;INETUM ESPAÑA, S.A.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;208.870 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-06&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48800000; tamano: 208.870 €; cercania: lugar de ejecución ES300; nube: infraestructura en la nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=RNib2uOyNBaKeVWTb9Scog%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=lpI3LOG6ebFWvQjxKFtJFVSg9WY%2BDxcrDqkB/qmBOmaAzLqS/Po7fzWK4th7j2X38EUuIHRvL9f04UdkLvyhjF4yXRUpSwILN3YG9ke4GI5t/o8fNevwsujgRzaBbugn"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=vL1rOXAvdxoZqp%2B16FStniEfNKsjk9chYTdDNhXlVHpzApA0Dztf8EzEvYZHX2/3g3hKQ8OfmT5F4BQQZga84eXSEtzfa93HCv32kvkMIx%2BHAj0WEJrB5sP7amrh2jBD"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=CLE9%2BrG4JuMQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="ADJ" label="Adjudicada" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES" label="SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Empresa Municipal de Transportes de Madrid, S.A.</name>
     </author>
@@ -358,14 +359,13 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=S19nZh2cbgNVkTabT%2FRM8A%3D%3D" />
     <updated>2026-11-06T09:30:44+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES · plazo hasta 2026-06-24 23:59 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES · plazo hasta 2026-06-24 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Gerencia de la Empresa Municipal de la Vivienda y Suelo de Melilla, S.A. (EMVISMESA)&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES › Melilla › Empresa Municipal de Vivienda y Suelo de Melilla, S.A.&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;010-2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;141.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;158.990 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000;72227000;72253000;72222300;72267000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Melilla ES640&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-06-24 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-06-09&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 141.000 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=S19nZh2cbgNVkTabT%2FRM8A%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=XhKOdYRP2AXRTM/55EOd6CwxILgYeBbfc/A99Ys6rNZwb01xV5MfyXxiJt/evzctINsD8%2BajRMI6LxjtVLV7yhutrFeQLNFv1QS9K7qqgVDVTD3T98KC0nSgQFM0q%2B5s"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=JkeemUdYNMz3yHgVxcrjprwSRGhSykno6PbiSvGPxG0lrEY0DQ%2BYJrQRZE0JvVTckEfW3fSMecJHbxLT8IPZl9GD2%2BczKT02xMKKhjLfB64ZyAJWGsSt0OzTSTyw9JAs"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=KDN%2BCjQKuVHnSoTX3z%2F7wA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES" label="SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Gerencia de la Empresa Municipal de la Vivienda y Suelo de Melilla, S.A. (EMVISMESA)</name>
     </author>
@@ -376,14 +376,13 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=5sxdvM7k1SU4NavIWzMcHA%3D%3D" />
     <updated>2026-11-06T09:14:42+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-11-03 23:59 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-11-03 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL › Unión de Mutuas&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;87/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;152.012 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;152.012 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48218000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Castellón/Castelló ES522&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-03 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-10-19&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48218000; tamano: 152.012 €; nube: infraestructura en la nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=5sxdvM7k1SU4NavIWzMcHA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=pRvqr%2BcnnAUWs8ZqJKjK08l/gFsar0JH75r0YGjC9ieTPmkVOG2JVH8XNoEqoeMf2F1mgNfxmkjzhTMlb%2B7o9x0y78JjEiK6qwE6Id7t/jrDdQD9RyhUmzT4jZ2In4zL"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=g9lp4k7aZvR4b%2BAQc2ssaVQ0QFbspqACiSv/n903/rtzuYm1VJFdJ02P/PQ6ABhCxTFASJW%2BoQsly7OlZNRnRY35Bspzo9khcBQWiTsmoDI//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=dqOqNjceKUAQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" label="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267</name>
     </author>
@@ -394,14 +393,13 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=N7szNiKYCl%2BcTfjQf3USOg%3D%3D" />
     <updated>2026-11-06T09:00:00+01:00</updated>
     <published>2026-11-06T06:45:10+00:00</published>
-    <summary type="text">Anuncio previo → Anuncio previo · Castilla - La Mancha · Suministros</summary>
+    <summary type="text">Anuncio previo · Castilla - La Mancha · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Castilla - La Mancha › Consejería de Hacienda, Administraciones Públicas y Transformación Digital › Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/034969&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Anuncio previo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;338.700 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;460.700 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Castilla-LaMancha ES42&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio previo 2026-11-06&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 338.700 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=N7szNiKYCl%2BcTfjQf3USOg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=ZIlGc4i5d%2B542CcdiuQGQ1MHluvprbEDNBdaKFEgeg6oHOHUTWHzujs9lKNfkA1BT/FVKrVidQodufRE5rGpVZgv2qdiQnxTN5JByRKbR%2Bv3GVhXrFFqN7yFncy7YfRK"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=AOoph1R9IlLqjeHh7s48ImfE4sTQfV/TiqiKHnWRZpchszZm6ujgyhb9eN27KiZYWiZOk3LScP%2BpBmnvCGmwstp%2B8OCx%2BuAH6jnRNHgHB/pJOVDbGCDM%2BMigrvuVS7Rv"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=MXcBgvgS5LkQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="PRE" label="Anuncio previo" />
     <category term="1" label="Suministros" />
     <category term="Comunidades autónomas" label="Comunidades autónomas" />
     <category term="Castilla - La Mancha" label="Castilla - La Mancha" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha</name>
     </author>
@@ -412,14 +410,13 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=mA%2FtiBqymW4UqXM96WStVA%3D%3D" />
     <updated>2026-11-06T09:00:00+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">En plazo → En plazo · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-11-23 23:59 · Servicios</summary>
+    <summary type="text">En plazo · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-11-23 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Gerencia de MAZ Mútua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social nº 11&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL › MAZ&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/A/ASC/0536&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;447.650 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;895.300 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72300000;72316000;72310000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Zaragoza ES243&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-23 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-06&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72300000; tamano: 447.650 €; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=mA%2FtiBqymW4UqXM96WStVA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=Ml/yRurfku/PGO/6nSaJQ2O/bifjLUducQt/grYh4QBj9hxM4G7cnSkIaVsviQWDlj12TumOGI5ZFqoytpYcgffRVHrgYEYfRZul3pJqlGp7QB3HKyQaFUExmUVQCerk"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=tuSFGgYE2Sjl%2BzDMTdZtxnlmEL8K0dtm76t5B5OYtpgVw8y8ufzVwLDaLCli%2BMH2u77coyC69n6ZwrtoP6kz6GRRXkaNRL8qQcXwSv1nrUmB0nvVKRzfe4rpHcnlPhSZ"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=hWIh5W7e6YA%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="PUB" label="En plazo" />
     <category term="2" label="Servicios" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" label="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Gerencia de MAZ Mútua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social nº 11</name>
     </author>
@@ -437,7 +434,6 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Rectorado de la Universidad de Alicante</name>
     </author>
@@ -455,7 +451,6 @@ el Ayuntamiento de Albal. · Junta de Gobierno del Ayuntamiento de Albal · 15.5
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Comunidad Valenciana" label="Comunidad Valenciana" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Alcaldía del Ayuntamiento de Náquera</name>
     </author>
@@ -5236,23 +5231,6 @@ El contingut que es produeix de programació de ràdio que genera la XAL es treb
     <category term="agregadas" label="agregadas" />
     <author>
       <name>Empresa Pública para la Gestión del Turismo y el Deporte de Andalucía, S.A.</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19910744</id>
-    <title>Suministro de licencia de Máximo Application Suite (MAS) en movilidad de SaaS Gestionado por IBM para la Empresa Municipal de Transportes de València S.A.U (Medio Propio) · Consejo de Administración de la Empresa Municipal de Transportes de Valencia, S.A.U. · 760.000 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=Z2Vu0LLQYNtVkTabT%2FRM8A%3D%3D" />
-    <updated>2026-10-08T14:50:45+02:00</updated>
-    <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Adjudicada · SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES · plazo hasta 2026-07-20 12:00 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejo de Administración de la Empresa Municipal de Transportes de Valencia, S.A.U.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES › Comunidad Valenciana › Valencia › Empresa Municipal de Transportes de Valencia, S.A.U.&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026-0054&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;760.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;760.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48900000;72500000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Valencia/València ES523&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-07-20 12:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;LABERIT SISTEMAS, S.L.- TUYU TECHNOLOTY, S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;760.000 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-10-08&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48900000; tamano: 760.000 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=Z2Vu0LLQYNtVkTabT%2FRM8A%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=ASFa2lQHtkkllouCLzQBym8aeMHqrtK2TH%2Bo8YMeXP6BdN54lkHwTTowdSxUjQ42D45UIzxDXSGj/Z4rszj%2Bs0NKGuOb6Hx6fsFXuo1sr5aHAj0WEJrB5sP7amrh2jBD"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=ueXSlqLHrjuDQ3uIDi8v7%2BHUFrgKNN6OJzIRx7/fohL4xRyv1iCvL0VIJjItHfL0/LLLKR4lO%2B4jhukBN80smVsYQNNiywbqoYL4SfprVZ0//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=zbNWgqTZvrDnSoTX3z%2F7wA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="ADJ" label="Adjudicada" />
-    <category term="1" label="Suministros" />
-    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
-    <category term="SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES" label="SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Consejo de Administración de la Empresa Municipal de Transportes de Valencia, S.A.U.</name>
     </author>
   </entry>
 </feed>

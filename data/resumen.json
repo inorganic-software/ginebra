@@ -1,37 +1,37 @@
 {
- "generado": "2026-11-07T06:41:13+00:00",
- "ultima_actualizacion": "2026-11-07T06:41:13+00:00",
+ "generado": "2026-11-08T06:40:05+00:00",
+ "ultima_actualizacion": "2026-11-08T06:40:05+00:00",
  "base_de_datos": {
-  "total": 64657,
+  "total": 64711,
   "por_fuente": {
-   "agregadas": 19244,
-   "placsp": 45413
+   "agregadas": 19250,
+   "placsp": 45461
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-11-07T02:00:01.764+01:00"
+  "updated_max": "2026-11-08T01:00:07.765+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 658,
+ "seleccionadas": 634,
  "novedades_ultima_ejecucion": {
-  "nuevo": 1666,
-  "actualizado": 2612,
-  "baja": 6
+  "nuevo": 54,
+  "actualizado": 49,
+  "baja": 0
  },
- "alertas_nube": 343,
+ "alertas_nube": 344,
  "por_administracion": {
-  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 181,
-  "Comunidad de Madrid": 132,
-  "Ministerio de Hacienda": 99,
-  "Ministerio de Defensa": 55,
+  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 174,
+  "Comunidad de Madrid": 126,
+  "Ministerio de Hacienda": 95,
+  "Ministerio de Defensa": 54,
   "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 24,
-  "INSTITUCIONES INDEPENDIENTES": 24,
+  "INSTITUCIONES INDEPENDIENTES": 23,
   "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 21,
   "Ministerio del Interior": 14,
-  "UNIVERSIDADES": 13,
-  "Ministerio de Economía, Comercio y Empresa": 12,
+  "UNIVERSIDADES": 12,
   "Ministerio para la Transformación Digital y de la Función Pública": 11,
   "Ministerio de Sanidad": 11,
-  "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 10,
+  "Ministerio de Economía, Comercio y Empresa": 10,
+  "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 9,
   "Ministerio de Ciencia, Innovación y Universidades": 8,
   "Ministerio de Cultura": 7,
   "Ministerio de Inclusión, Seguridad Social y Migraciones": 6,
@@ -45,10 +45,29 @@
   "Ministerio de Educación, Formación Profesional y Deportes": 2,
   "SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS": 2,
   "Ministerio de Agricultura, Pesca y Alimentación": 2,
-  "Ministerio de Igualdad": 1,
-  "Ministerio de Juventud e Infancia": 1
+  "Ministerio de Igualdad": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-08T06:40:05+00:00",
+   "fuente": "agregadas",
+   "periodo": "202611",
+   "entradas": 5879,
+   "expedientes": 5114,
+   "nuevos": 6,
+   "actualizados": 18,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-08T06:39:55+00:00",
+   "fuente": "placsp",
+   "periodo": "202611",
+   "entradas": 13778,
+   "expedientes": 11963,
+   "nuevos": 48,
+   "actualizados": 31,
+   "bajas": 0
+  },
   {
    "ejecutado_en": "2026-11-07T06:41:13+00:00",
    "fuente": "agregadas",
@@ -228,26 +247,6 @@
    "nuevos": 32,
    "actualizados": 29,
    "bajas": 2
-  },
-  {
-   "ejecutado_en": "2026-10-31T07:02:52+00:00",
-   "fuente": "agregadas",
-   "periodo": "202610",
-   "entradas": 26829,
-   "expedientes": 17080,
-   "nuevos": 443,
-   "actualizados": 653,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-10-31T07:00:25+00:00",
-   "fuente": "placsp",
-   "periodo": "202610",
-   "entradas": 61577,
-   "expedientes": 39963,
-   "nuevos": 1429,
-   "actualizados": 1649,
-   "bajas": 4
   }
  ],
  "feeds": {
