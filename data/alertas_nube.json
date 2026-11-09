@@ -1,88 +1,194 @@
 {
- "generado": "2026-11-08T06:40:05+00:00",
+ "generado": "2026-11-09T06:52:18+00:00",
  "ventana_dias": 180,
  "total_nuevas": 1,
  "total_historico": 344,
  "nuevas": [
   {
-   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20862697",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20255671",
    "fuente": "placsp",
-   "expediente": "CEA5035/2026",
-   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mM8ApeiptRLCfVQHDepjGQ%3D%3D",
-   "updated": "2026-11-06T22:54:07.156+01:00",
-   "titulo": "Suscripción A 24 Licencias Waf (Web Application Firewall)\nDe Barracuda O Equivalente En Modalidad Saas (Ministerio De Economía, Comercio Y Empresa-Icex España Exportación E Inversiones, Ep E.)",
-   "objeto": "Suscripción A 24 Licencias Waf (Web Application Firewall)\nDe Barracuda O Equivalente En Modalidad Saas (Ministerio De Economía, Comercio Y Empresa-Icex España Exportación E Inversiones, Ep E.)",
-   "estado": "RES",
-   "organo": "Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada",
-   "organo_nif": "S2801213F",
-   "organo_dir3": "E04962703",
-   "organo_id_plataforma": "10000380072701",
-   "organo_tipo": "1",
-   "organo_actividad": "1",
-   "organo_ciudad": "Madrid",
-   "organo_cp": "28014",
-   "organo_perfil_url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=IXa3tQsTNgEQK2TEfXGy%2BA%3D%3D",
-   "jerarquia": "Sector Público > ADMINISTRACIÓN GENERAL DEL ESTADO > Ministerio de Hacienda > Subsecretaría de Hacienda > D.G. de Racionalización y Centralización de la Contratación",
+   "expediente": "2026/034969",
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=N7szNiKYCl%2BcTfjQf3USOg%3D%3D",
+   "updated": "2026-11-08T10:26:37.538+01:00",
+   "titulo": "Suministro, implantación, mantenimiento y soporte técnico de un sistema de información en modo Saas para el mantenimiento asistido por ordenador (GMAO) en los edificios administrativos de la Junta de Comunidades de Castilla-La Mancha.",
+   "objeto": "Suministro, implantación, mantenimiento y soporte técnico de un sistema de información en modo Saas para el mantenimiento asistido por ordenador (GMAO) en los edificios administrativos de la Junta de Comunidades de Castilla-La Mancha.",
+   "estado": "PUB",
+   "organo": "Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
+   "organo_nif": "S1911001D",
+   "organo_dir3": "",
+   "organo_id_plataforma": "20623610106121",
+   "organo_tipo": "2",
+   "organo_actividad": "4",
+   "organo_ciudad": "Toledo",
+   "organo_cp": "45071",
+   "organo_perfil_url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=MXcBgvgS5LkQK2TEfXGy%2BA%3D%3D",
+   "jerarquia": "Sector Público > COMUNIDADES Y CIUDADES AUTÓNOMAS > Castilla - La Mancha > Consejería de Hacienda, Administraciones Públicas y Transformación Digital > Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
    "plataforma_agregada": "",
    "plataforma_agregada_id": "",
-   "valor_estimado": 30000.0,
-   "presupuesto_sin_iva": 30000.0,
-   "presupuesto_con_iva": 36300.0,
+   "valor_estimado": 460700.0,
+   "presupuesto_sin_iva": 338700.0,
+   "presupuesto_con_iva": 409827.0,
    "tipo_contrato": "1",
-   "subtipo_contrato": "2",
+   "subtipo_contrato": "1",
    "cpv": "48000000",
-   "cpvs": "48000000",
-   "lugar_nuts": "ES300",
-   "lugar_texto": "Madrid",
+   "cpvs": "48000000;72000000",
+   "lugar_nuts": "ES42",
+   "lugar_texto": "Castilla-LaMancha",
    "lugar_ciudad": "",
-   "procedimiento": "2",
+   "procedimiento": "1",
    "tramitacion": "1",
-   "plazo_presentacion": "",
+   "plazo_presentacion": "2026-11-30T14:00:00",
    "plazo_descripcion": "",
-   "num_lotes": 1,
-   "resultado": "8",
-   "adjudicatario": "Sothis Servicios Tecnológicos, Slu",
-   "adjudicatario_nif": "B98513260",
-   "importe_adjudicacion": 28462.68,
-   "num_licitadores": 1,
-   "pliego_administrativo_url": "",
-   "pliego_tecnico_url": "",
-   "fecha_primera_publicacion": "2026-11-06",
-   "fecha_anuncio_licitacion": "",
-   "ultimo_anuncio": "DOC_CAN_ADJ",
-   "fecha_ultimo_anuncio": "2026-11-06",
+   "num_lotes": 0,
+   "resultado": "",
+   "adjudicatario": "",
+   "adjudicatario_nif": "",
+   "importe_adjudicacion": null,
+   "num_licitadores": null,
+   "pliego_administrativo_url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ZIlGc4i5d%2B542CcdiuQGQ1MHluvprbEDNBdaKFEgeg6oHOHUTWHzujs9lKNfkA1BT/FVKrVidQodufRE5rGpVZgv2qdiQnxTN5JByRKbR%2Bv3GVhXrFFqN7yFncy7YfRK",
+   "pliego_tecnico_url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AOoph1R9IlLqjeHh7s48ImfE4sTQfV/TiqiKHnWRZpchszZm6ujgyhb9eN27KiZYWiZOk3LScP%2BpBmnvCGmwstp%2B8OCx%2BuAH6jnRNHgHB/pJOVDbGCDM%2BMigrvuVS7Rv",
+   "fecha_primera_publicacion": "2026-08-05",
+   "fecha_anuncio_licitacion": "2026-11-08",
+   "ultimo_anuncio": "DOC_CN",
+   "fecha_ultimo_anuncio": "2026-11-08",
    "anuncios": [
     {
-     "tipo": "DOC_CAN_ADJ",
-     "medio": "Perfil del contratante",
+     "tipo": "DOC_PIN",
+     "medio": "DOUE",
      "fecha": "2026-11-06"
+    },
+    {
+     "tipo": "DOC_CN",
+     "medio": "Perfil del contratante",
+     "fecha": "2026-11-08"
+    },
+    {
+     "tipo": "DOC_PIN",
+     "medio": "Perfil del contratante",
+     "fecha": "2026-08-05"
+    },
+    {
+     "tipo": "DOC_PIN",
+     "medio": "Perfil del contratante",
+     "fecha": "2026-11-05"
     }
    ],
-   "first_seen_at": "2026-11-08T06:39:42+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
-   "estado_anterior": "",
-   "updated_anterior": "",
+   "first_seen_at": "2026-11-06T06:45:10+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
+   "estado_anterior": "PRE",
+   "updated_anterior": "2026-11-06T09:00:00.000+01:00",
    "baja_fecha": "",
    "baja_motivo": "",
-   "estado_label": "Resuelta",
+   "estado_label": "En plazo",
    "tipo_contrato_label": "Suministros",
-   "procedimiento_label": "Restringido",
-   "resultado_label": "Adjudicado",
-   "ultimo_anuncio_label": "Anuncio de adjudicación",
-   "organo_actividad_label": "Justicia",
-   "sector": "Administración General del Estado",
-   "administracion": "Ministerio de Hacienda",
-   "entidad": "Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación",
-   "novedad": "nuevo",
+   "procedimiento_label": "Abierto",
+   "resultado_label": "",
+   "ultimo_anuncio_label": "Anuncio de licitación",
+   "organo_actividad_label": "Política exterior",
+   "sector": "Comunidades autónomas",
+   "administracion": "Castilla - La Mancha",
+   "entidad": "Consejería de Hacienda, Administraciones Públicas y Transformación Digital › Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
+   "novedad": "actualizado",
    "motivos": {
     "tecnologia": "CPV 48000000",
-    "cercania": "lugar de ejecución ES300",
+    "tamano": "338.700 €",
     "nube": "saas"
    }
   }
  ],
  "historico": [
   {
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20255671",
+   "fuente": "placsp",
+   "expediente": "2026/034969",
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=N7szNiKYCl%2BcTfjQf3USOg%3D%3D",
+   "updated": "2026-11-08T10:26:37.538+01:00",
+   "titulo": "Suministro, implantación, mantenimiento y soporte técnico de un sistema de información en modo Saas para el mantenimiento asistido por ordenador (GMAO) en los edificios administrativos de la Junta de Comunidades de Castilla-La Mancha.",
+   "objeto": "Suministro, implantación, mantenimiento y soporte técnico de un sistema de información en modo Saas para el mantenimiento asistido por ordenador (GMAO) en los edificios administrativos de la Junta de Comunidades de Castilla-La Mancha.",
+   "estado": "PUB",
+   "organo": "Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
+   "organo_nif": "S1911001D",
+   "organo_dir3": "",
+   "organo_id_plataforma": "20623610106121",
+   "organo_tipo": "2",
+   "organo_actividad": "4",
+   "organo_ciudad": "Toledo",
+   "organo_cp": "45071",
+   "organo_perfil_url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=MXcBgvgS5LkQK2TEfXGy%2BA%3D%3D",
+   "jerarquia": "Sector Público > COMUNIDADES Y CIUDADES AUTÓNOMAS > Castilla - La Mancha > Consejería de Hacienda, Administraciones Públicas y Transformación Digital > Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
+   "plataforma_agregada": "",
+   "plataforma_agregada_id": "",
+   "valor_estimado": 460700.0,
+   "presupuesto_sin_iva": 338700.0,
+   "presupuesto_con_iva": 409827.0,
+   "tipo_contrato": "1",
+   "subtipo_contrato": "1",
+   "cpv": "48000000",
+   "cpvs": "48000000;72000000",
+   "lugar_nuts": "ES42",
+   "lugar_texto": "Castilla-LaMancha",
+   "lugar_ciudad": "",
+   "procedimiento": "1",
+   "tramitacion": "1",
+   "plazo_presentacion": "2026-11-30T14:00:00",
+   "plazo_descripcion": "",
+   "num_lotes": 0,
+   "resultado": "",
+   "adjudicatario": "",
+   "adjudicatario_nif": "",
+   "importe_adjudicacion": null,
+   "num_licitadores": null,
+   "pliego_administrativo_url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ZIlGc4i5d%2B542CcdiuQGQ1MHluvprbEDNBdaKFEgeg6oHOHUTWHzujs9lKNfkA1BT/FVKrVidQodufRE5rGpVZgv2qdiQnxTN5JByRKbR%2Bv3GVhXrFFqN7yFncy7YfRK",
+   "pliego_tecnico_url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AOoph1R9IlLqjeHh7s48ImfE4sTQfV/TiqiKHnWRZpchszZm6ujgyhb9eN27KiZYWiZOk3LScP%2BpBmnvCGmwstp%2B8OCx%2BuAH6jnRNHgHB/pJOVDbGCDM%2BMigrvuVS7Rv",
+   "fecha_primera_publicacion": "2026-08-05",
+   "fecha_anuncio_licitacion": "2026-11-08",
+   "ultimo_anuncio": "DOC_CN",
+   "fecha_ultimo_anuncio": "2026-11-08",
+   "anuncios": [
+    {
+     "tipo": "DOC_PIN",
+     "medio": "DOUE",
+     "fecha": "2026-11-06"
+    },
+    {
+     "tipo": "DOC_CN",
+     "medio": "Perfil del contratante",
+     "fecha": "2026-11-08"
+    },
+    {
+     "tipo": "DOC_PIN",
+     "medio": "Perfil del contratante",
+     "fecha": "2026-08-05"
+    },
+    {
+     "tipo": "DOC_PIN",
+     "medio": "Perfil del contratante",
+     "fecha": "2026-11-05"
+    }
+   ],
+   "first_seen_at": "2026-11-06T06:45:10+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
+   "estado_anterior": "PRE",
+   "updated_anterior": "2026-11-06T09:00:00.000+01:00",
+   "baja_fecha": "",
+   "baja_motivo": "",
+   "estado_label": "En plazo",
+   "tipo_contrato_label": "Suministros",
+   "procedimiento_label": "Abierto",
+   "resultado_label": "",
+   "ultimo_anuncio_label": "Anuncio de licitación",
+   "organo_actividad_label": "Política exterior",
+   "sector": "Comunidades autónomas",
+   "administracion": "Castilla - La Mancha",
+   "entidad": "Consejería de Hacienda, Administraciones Públicas y Transformación Digital › Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
+   "novedad": "actualizado",
+   "motivos": {
+    "tecnologia": "CPV 48000000",
+    "tamano": "338.700 €",
+    "nube": "saas"
+   }
+  },
+  {
    "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20862697",
    "fuente": "placsp",
    "expediente": "CEA5035/2026",
@@ -137,7 +243,7 @@
     }
    ],
    "first_seen_at": "2026-11-08T06:39:42+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -151,7 +257,7 @@
    "sector": "Administración General del Estado",
    "administracion": "Ministerio de Hacienda",
    "entidad": "Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación",
-   "novedad": "nuevo",
+   "novedad": null,
    "motivos": {
     "tecnologia": "CPV 48000000",
     "cercania": "lugar de ejecución ES300",
@@ -223,7 +329,7 @@
     }
    ],
    "first_seen_at": "2026-11-07T06:40:40+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -304,7 +410,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-28T10:03:31.887+01:00",
    "baja_fecha": "",
@@ -389,7 +495,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-09T14:06:38.246+02:00",
    "baja_fecha": "",
@@ -469,7 +575,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-21T16:04:07.392+02:00",
    "baja_fecha": "",
@@ -565,7 +671,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-30T10:22:02.333+01:00",
    "baja_fecha": "",
@@ -645,7 +751,7 @@
     }
    ],
    "first_seen_at": "2026-11-07T06:40:40+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -735,7 +841,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-07T07:51:19.239+02:00",
    "baja_fecha": "",
@@ -836,7 +942,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-13T11:11:31.472+02:00",
    "baja_fecha": "",
@@ -927,7 +1033,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-01T13:01:09.771+02:00",
    "baja_fecha": "",
@@ -1008,7 +1114,7 @@
     }
    ],
    "first_seen_at": "2026-11-07T06:40:40+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -1083,7 +1189,7 @@
     }
    ],
    "first_seen_at": "2026-11-07T06:40:40+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -1168,7 +1274,7 @@
     }
    ],
    "first_seen_at": "2026-11-07T06:40:40+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -1245,7 +1351,7 @@
     }
    ],
    "first_seen_at": "2026-11-07T06:40:40+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -1327,7 +1433,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-29T15:57:06.557+01:00",
    "baja_fecha": "",
@@ -1407,7 +1513,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-21T12:56:31.524+02:00",
    "baja_fecha": "",
@@ -1482,7 +1588,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-15T16:04:27.279+02:00",
    "baja_fecha": "",
@@ -1563,7 +1669,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-11-02T13:01:45.094+01:00",
    "baja_fecha": "",
@@ -1648,7 +1754,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-28T14:23:44.063+01:00",
    "baja_fecha": "",
@@ -1735,7 +1841,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-15T10:16:04.519+02:00",
    "baja_fecha": "",
@@ -1816,7 +1922,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-11-05T14:46:25.764+01:00",
    "baja_fecha": "",
@@ -1835,92 +1941,6 @@
     "tecnologia": "CPV 48218000",
     "tamano": "152.012 €",
     "nube": "infraestructura en la nube"
-   }
-  },
-  {
-   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20255671",
-   "fuente": "placsp",
-   "expediente": "2026/034969",
-   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=N7szNiKYCl%2BcTfjQf3USOg%3D%3D",
-   "updated": "2026-11-06T09:00:00.000+01:00",
-   "titulo": "Suministro, implantación, mantenimiento y soporte técnico de un sistema de información en modo Saas para el mantenimiento asistido por ordenador (GMAO) en los edificios administrativos de la Junta de Comunidades de Castilla-La Mancha.",
-   "objeto": "Suministro, implantación, mantenimiento y soporte técnico de un sistema de información en modo Saas para el mantenimiento asistido por ordenador (GMAO) en los edificios administrativos de la Junta de Comunidades de Castilla-La Mancha.",
-   "estado": "PRE",
-   "organo": "Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
-   "organo_nif": "S1911001D",
-   "organo_dir3": "",
-   "organo_id_plataforma": "20623610106121",
-   "organo_tipo": "2",
-   "organo_actividad": "4",
-   "organo_ciudad": "Toledo",
-   "organo_cp": "45071",
-   "organo_perfil_url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=MXcBgvgS5LkQK2TEfXGy%2BA%3D%3D",
-   "jerarquia": "Sector Público > COMUNIDADES Y CIUDADES AUTÓNOMAS > Castilla - La Mancha > Consejería de Hacienda, Administraciones Públicas y Transformación Digital > Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
-   "plataforma_agregada": "",
-   "plataforma_agregada_id": "",
-   "valor_estimado": 460700.0,
-   "presupuesto_sin_iva": 338700.0,
-   "presupuesto_con_iva": 409827.0,
-   "tipo_contrato": "1",
-   "subtipo_contrato": "1",
-   "cpv": "48000000",
-   "cpvs": "48000000;72000000",
-   "lugar_nuts": "ES42",
-   "lugar_texto": "Castilla-LaMancha",
-   "lugar_ciudad": "",
-   "procedimiento": "1",
-   "tramitacion": "1",
-   "plazo_presentacion": "",
-   "plazo_descripcion": "",
-   "num_lotes": 0,
-   "resultado": "",
-   "adjudicatario": "",
-   "adjudicatario_nif": "",
-   "importe_adjudicacion": null,
-   "num_licitadores": null,
-   "pliego_administrativo_url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ZIlGc4i5d%2B542CcdiuQGQ1MHluvprbEDNBdaKFEgeg6oHOHUTWHzujs9lKNfkA1BT/FVKrVidQodufRE5rGpVZgv2qdiQnxTN5JByRKbR%2Bv3GVhXrFFqN7yFncy7YfRK",
-   "pliego_tecnico_url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AOoph1R9IlLqjeHh7s48ImfE4sTQfV/TiqiKHnWRZpchszZm6ujgyhb9eN27KiZYWiZOk3LScP%2BpBmnvCGmwstp%2B8OCx%2BuAH6jnRNHgHB/pJOVDbGCDM%2BMigrvuVS7Rv",
-   "fecha_primera_publicacion": "2026-08-05",
-   "fecha_anuncio_licitacion": "",
-   "ultimo_anuncio": "DOC_PIN",
-   "fecha_ultimo_anuncio": "2026-11-06",
-   "anuncios": [
-    {
-     "tipo": "DOC_PIN",
-     "medio": "DOUE",
-     "fecha": "2026-11-06"
-    },
-    {
-     "tipo": "DOC_PIN",
-     "medio": "Perfil del contratante",
-     "fecha": "2026-08-05"
-    },
-    {
-     "tipo": "DOC_PIN",
-     "medio": "Perfil del contratante",
-     "fecha": "2026-11-05"
-    }
-   ],
-   "first_seen_at": "2026-11-06T06:45:10+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
-   "estado_anterior": "PRE",
-   "updated_anterior": "2026-11-05T14:09:42.488+01:00",
-   "baja_fecha": "",
-   "baja_motivo": "",
-   "estado_label": "Anuncio previo",
-   "tipo_contrato_label": "Suministros",
-   "procedimiento_label": "Abierto",
-   "resultado_label": "",
-   "ultimo_anuncio_label": "Anuncio previo",
-   "organo_actividad_label": "Política exterior",
-   "sector": "Comunidades autónomas",
-   "administracion": "Castilla - La Mancha",
-   "entidad": "Consejería de Hacienda, Administraciones Públicas y Transformación Digital › Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
-   "novedad": null,
-   "motivos": {
-    "tecnologia": "CPV 48000000",
-    "tamano": "338.700 €",
-    "nube": "saas"
    }
   },
   {
@@ -2003,7 +2023,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-11-05T12:40:27.382+01:00",
    "baja_fecha": "",
@@ -2079,7 +2099,7 @@
     }
    ],
    "first_seen_at": "2026-11-07T06:40:40+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2159,7 +2179,7 @@
     }
    ],
    "first_seen_at": "2026-11-07T06:40:40+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2239,7 +2259,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:33+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2324,7 +2344,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:10+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2405,7 +2425,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:33+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2484,7 +2504,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-11-03T14:24:16.847+01:00",
    "baja_fecha": "",
@@ -2564,7 +2584,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:33+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -2644,7 +2664,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-19T15:05:51.779+02:00",
    "baja_fecha": "",
@@ -2734,7 +2754,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-15T12:07:03.445+02:00",
    "baja_fecha": "",
@@ -2825,7 +2845,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-30T08:22:13.781+01:00",
    "baja_fecha": "",
@@ -2906,7 +2926,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-29T10:23:30.845+01:00",
    "baja_fecha": "",
@@ -2987,7 +3007,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:10+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3118,7 +3138,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:10+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3224,7 +3244,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-05T12:10:36.335+02:00",
    "baja_fecha": "",
@@ -3304,7 +3324,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:33+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3388,7 +3408,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:34+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-11-03T13:03:55.638+01:00",
    "baja_fecha": "",
@@ -3480,7 +3500,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-09-30T16:04:29.877+02:00",
    "baja_fecha": "",
@@ -3556,7 +3576,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:10+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3636,7 +3656,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:10+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -3716,7 +3736,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-11-03T08:54:32.458+01:00",
    "baja_fecha": "",
@@ -3797,7 +3817,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-16T11:18:17.544+02:00",
    "baja_fecha": "",
@@ -3897,7 +3917,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-23T09:25:09.816+02:00",
    "baja_fecha": "",
@@ -3978,7 +3998,7 @@
     }
    ],
    "first_seen_at": "2026-11-06T06:45:10+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4053,7 +4073,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-30T18:01:58.116+01:00",
    "baja_fecha": "",
@@ -4138,7 +4158,7 @@
     }
    ],
    "first_seen_at": "2026-10-31T06:59:24+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-30T12:23:10.443+01:00",
    "baja_fecha": "",
@@ -4214,7 +4234,7 @@
     }
    ],
    "first_seen_at": "2026-11-05T06:42:52+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4304,7 +4324,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-21T17:02:28.477+02:00",
    "baja_fecha": "",
@@ -4404,7 +4424,7 @@
     }
    ],
    "first_seen_at": "2026-11-05T06:42:52+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4486,7 +4506,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-07T15:43:41.403+02:00",
    "baja_fecha": "",
@@ -4567,7 +4587,7 @@
     }
    ],
    "first_seen_at": "2026-11-05T06:42:35+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4657,7 +4677,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-15T10:13:22.356+02:00",
    "baja_fecha": "",
@@ -4748,7 +4768,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-29T11:42:34.385+01:00",
    "baja_fecha": "",
@@ -4823,7 +4843,7 @@
     }
    ],
    "first_seen_at": "2026-11-05T06:42:52+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -4903,7 +4923,7 @@
     }
    ],
    "first_seen_at": "2026-10-24T07:11:19+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-23T13:12:19.708+02:00",
    "baja_fecha": "",
@@ -4984,7 +5004,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-19T15:12:01.069+02:00",
    "baja_fecha": "",
@@ -5064,7 +5084,7 @@
     }
    ],
    "first_seen_at": "2026-11-05T06:42:52+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -5145,7 +5165,7 @@
     }
    ],
    "first_seen_at": "2026-10-29T07:16:31+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-28T10:21:42.392+01:00",
    "baja_fecha": "",
@@ -5241,7 +5261,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-16T07:46:00.271+02:00",
    "baja_fecha": "",
@@ -5323,7 +5343,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-26T10:10:54.684+01:00",
    "baja_fecha": "",
@@ -5408,7 +5428,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-13T12:06:06.287+02:00",
    "baja_fecha": "",
@@ -5489,7 +5509,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:42+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-11-03T16:03:19.749+01:00",
    "baja_fecha": "",
@@ -5579,7 +5599,7 @@
     }
    ],
    "first_seen_at": "2026-11-05T06:42:35+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -5684,7 +5704,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-11-03T10:35:50.951+01:00",
    "baja_fecha": "",
@@ -5781,7 +5801,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-27T15:11:44.721+01:00",
    "baja_fecha": "",
@@ -5866,7 +5886,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-28T08:40:33.412+01:00",
    "baja_fecha": "",
@@ -6097,7 +6117,7 @@
     }
    ],
    "first_seen_at": "2026-11-01T06:43:15+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-11-03T11:47:58.077+01:00",
    "baja_fecha": "",
@@ -6189,7 +6209,7 @@
     }
    ],
    "first_seen_at": "2026-11-05T06:42:52+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6271,7 +6291,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-27T18:56:06.651+01:00",
    "baja_fecha": "",
@@ -6347,7 +6367,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:42+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6428,7 +6448,7 @@
     }
    ],
    "first_seen_at": "2026-11-03T06:48:05+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-11-02T14:04:57.979+01:00",
    "baja_fecha": "",
@@ -6503,7 +6523,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-21T12:05:32.177+02:00",
    "baja_fecha": "",
@@ -6588,7 +6608,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:42+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6664,7 +6684,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:42+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6739,7 +6759,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:42+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -6825,7 +6845,7 @@
     }
    ],
    "first_seen_at": "2026-11-02T06:53:12+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-11-02T09:00:00.000+01:00",
    "baja_fecha": "",
@@ -6901,7 +6921,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:42+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -7051,7 +7071,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-29T15:11:30.915+01:00",
    "baja_fecha": "",
@@ -7127,7 +7147,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:42+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -7213,7 +7233,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-22T11:33:58.194+02:00",
    "baja_fecha": "",
@@ -7294,7 +7314,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-11-02T14:03:14.626+01:00",
    "baja_fecha": "",
@@ -7379,7 +7399,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-27T18:00:51.584+01:00",
    "baja_fecha": "",
@@ -7464,7 +7484,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-22T11:14:14.208+02:00",
    "baja_fecha": "",
@@ -7561,7 +7581,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-20T12:44:24.732+02:00",
    "baja_fecha": "",
@@ -7651,7 +7671,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-20T12:51:12.356+02:00",
    "baja_fecha": "",
@@ -7743,7 +7763,7 @@
     }
    ],
    "first_seen_at": "2026-11-03T06:47:27+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-11-02T11:15:29.770+01:00",
    "baja_fecha": "",
@@ -7828,7 +7848,7 @@
     }
    ],
    "first_seen_at": "2026-10-31T07:02:37+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-30T10:03:52.850+01:00",
    "baja_fecha": "",
@@ -7908,7 +7928,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:42+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -7994,7 +8014,7 @@
     }
    ],
    "first_seen_at": "2026-10-31T06:59:24+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-30T14:07:05.359+01:00",
    "baja_fecha": "",
@@ -8096,7 +8116,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-11-02T10:59:47.761+01:00",
    "baja_fecha": "",
@@ -8187,7 +8207,7 @@
     }
    ],
    "first_seen_at": "2026-10-31T06:59:24+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-30T14:22:13.856+01:00",
    "baja_fecha": "",
@@ -8263,7 +8283,7 @@
     }
    ],
    "first_seen_at": "2026-11-04T06:41:34+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -8354,7 +8374,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-11-02T12:03:41.871+01:00",
    "baja_fecha": "",
@@ -8440,7 +8460,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-30T16:05:17.708+01:00",
    "baja_fecha": "",
@@ -8520,7 +8540,7 @@
     }
    ],
    "first_seen_at": "2026-10-31T07:02:37+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "PUB",
    "updated_anterior": "2026-10-30T12:02:09.382+01:00",
    "baja_fecha": "",
@@ -8601,7 +8621,7 @@
     }
    ],
    "first_seen_at": "2026-11-03T06:47:27+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -8696,7 +8716,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-27T15:11:45.027+01:00",
    "baja_fecha": "",
@@ -8776,7 +8796,7 @@
     }
    ],
    "first_seen_at": "2026-11-03T06:47:27+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -8861,7 +8881,7 @@
     }
    ],
    "first_seen_at": "2026-11-03T06:47:27+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -8941,7 +8961,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-30T10:03:32.907+01:00",
    "baja_fecha": "",
@@ -9021,7 +9041,7 @@
     }
    ],
    "first_seen_at": "2026-11-03T06:48:05+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -9111,7 +9131,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-02T12:25:50.073+02:00",
    "baja_fecha": "",
@@ -9212,7 +9232,7 @@
     }
    ],
    "first_seen_at": "2026-11-02T06:53:12+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "RES",
    "updated_anterior": "2026-11-01T09:57:55.648+01:00",
    "baja_fecha": "",
@@ -9303,7 +9323,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:39:14+00:00",
-   "last_seen_at": "2026-11-08T06:39:42+00:00",
+   "last_seen_at": "2026-11-09T06:51:47+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-19T16:14:39.358+02:00",
    "baja_fecha": "",
@@ -9394,7 +9414,7 @@
     }
    ],
    "first_seen_at": "2026-11-03T06:48:05+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -9480,7 +9500,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "ADJ",
    "updated_anterior": "2026-10-21T20:01:12.815+02:00",
    "baja_fecha": "",
@@ -9555,7 +9575,7 @@
     }
    ],
    "first_seen_at": "2026-10-31T07:02:37+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "",
    "updated_anterior": "",
    "baja_fecha": "",
@@ -9635,7 +9655,7 @@
     }
    ],
    "first_seen_at": "2026-10-23T04:40:03+00:00",
-   "last_seen_at": "2026-11-08T06:40:01+00:00",
+   "last_seen_at": "2026-11-09T06:52:15+00:00",
    "estado_anterior": "EV",
    "updated_anterior": "2026-10-26T13:42:11.333+01:00",
    "baja_fecha": "",

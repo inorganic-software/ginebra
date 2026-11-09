@@ -1,43 +1,43 @@
 {
- "generado": "2026-11-08T06:40:05+00:00",
- "ultima_actualizacion": "2026-11-08T06:40:05+00:00",
+ "generado": "2026-11-09T06:52:18+00:00",
+ "ultima_actualizacion": "2026-11-09T06:52:18+00:00",
  "base_de_datos": {
-  "total": 64711,
+  "total": 64820,
   "por_fuente": {
-   "agregadas": 19250,
-   "placsp": 45461
+   "agregadas": 19256,
+   "placsp": 45564
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-11-08T01:00:07.765+01:00"
+  "updated_max": "2026-11-09T01:00:08.291+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 634,
+ "seleccionadas": 621,
  "novedades_ultima_ejecucion": {
-  "nuevo": 54,
-  "actualizado": 49,
+  "nuevo": 109,
+  "actualizado": 85,
   "baja": 0
  },
  "alertas_nube": 344,
  "por_administracion": {
-  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 174,
-  "Comunidad de Madrid": 126,
-  "Ministerio de Hacienda": 95,
-  "Ministerio de Defensa": 54,
-  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 24,
-  "INSTITUCIONES INDEPENDIENTES": 23,
+  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 168,
+  "Comunidad de Madrid": 125,
+  "Ministerio de Hacienda": 94,
+  "Ministerio de Defensa": 53,
+  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 23,
+  "INSTITUCIONES INDEPENDIENTES": 22,
   "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 21,
-  "Ministerio del Interior": 14,
-  "UNIVERSIDADES": 12,
-  "Ministerio para la Transformación Digital y de la Función Pública": 11,
+  "UNIVERSIDADES": 13,
+  "Ministerio del Interior": 13,
   "Ministerio de Sanidad": 11,
+  "Ministerio para la Transformación Digital y de la Función Pública": 10,
   "Ministerio de Economía, Comercio y Empresa": 10,
   "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 9,
   "Ministerio de Ciencia, Innovación y Universidades": 8,
   "Ministerio de Cultura": 7,
   "Ministerio de Inclusión, Seguridad Social y Migraciones": 6,
   "Ministerio de Transportes y Movilidad Sostenible": 6,
-  "Ministerio para la Transición Ecológica y el Reto Demográfico": 4,
   "Ministerio de Trabajo y Economía Social": 4,
+  "Ministerio para la Transición Ecológica y el Reto Demográfico": 3,
   "Ministerio de Asuntos Exteriores, Unión Europea y Cooperación": 2,
   "Ministerio de Derechos Sociales, Consumo y Agenda 2030": 2,
   "Ministerio de Industria y Turismo": 2,
@@ -48,6 +48,26 @@
   "Ministerio de Igualdad": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-09T06:52:18+00:00",
+   "fuente": "agregadas",
+   "periodo": "202611",
+   "entradas": 5895,
+   "expedientes": 5127,
+   "nuevos": 6,
+   "actualizados": 10,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-09T06:51:57+00:00",
+   "fuente": "placsp",
+   "periodo": "202611",
+   "entradas": 13956,
+   "expedientes": 12108,
+   "nuevos": 103,
+   "actualizados": 75,
+   "bajas": 0
+  },
   {
    "ejecutado_en": "2026-11-08T06:40:05+00:00",
    "fuente": "agregadas",
@@ -227,26 +247,6 @@
    "nuevos": 0,
    "actualizados": 0,
    "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-01T06:51:55+00:00",
-   "fuente": "agregadas",
-   "periodo": "202610",
-   "entradas": 26853,
-   "expedientes": 17087,
-   "nuevos": 7,
-   "actualizados": 17,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-01T06:43:47+00:00",
-   "fuente": "placsp",
-   "periodo": "202610",
-   "entradas": 61638,
-   "expedientes": 39995,
-   "nuevos": 32,
-   "actualizados": 29,
-   "bajas": 2
   }
  ],
  "feeds": {
