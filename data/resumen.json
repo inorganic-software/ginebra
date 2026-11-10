@@ -1,27 +1,27 @@
 {
- "generado": "2026-11-09T06:52:18+00:00",
- "ultima_actualizacion": "2026-11-09T06:52:18+00:00",
+ "generado": "2026-11-10T06:46:19+00:00",
+ "ultima_actualizacion": "2026-11-10T06:46:19+00:00",
  "base_de_datos": {
-  "total": 64820,
+  "total": 66083,
   "por_fuente": {
-   "agregadas": 19256,
-   "placsp": 45564
+   "agregadas": 19661,
+   "placsp": 46422
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-11-09T01:00:08.291+01:00"
+  "updated_max": "2026-11-10T01:00:08.285+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 621,
+ "seleccionadas": 619,
  "novedades_ultima_ejecucion": {
-  "nuevo": 109,
-  "actualizado": 85,
-  "baja": 0
+  "nuevo": 1263,
+  "actualizado": 2235,
+  "baja": 2
  },
- "alertas_nube": 344,
+ "alertas_nube": 349,
  "por_administracion": {
   "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 168,
-  "Comunidad de Madrid": 125,
-  "Ministerio de Hacienda": 94,
+  "Comunidad de Madrid": 126,
+  "Ministerio de Hacienda": 91,
   "Ministerio de Defensa": 53,
   "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 23,
   "INSTITUCIONES INDEPENDIENTES": 22,
@@ -48,6 +48,26 @@
   "Ministerio de Igualdad": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-10T06:46:19+00:00",
+   "fuente": "agregadas",
+   "periodo": "202611",
+   "entradas": 6971,
+   "expedientes": 5904,
+   "nuevos": 405,
+   "actualizados": 671,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-10T06:45:47+00:00",
+   "fuente": "placsp",
+   "periodo": "202611",
+   "entradas": 16378,
+   "expedientes": 13814,
+   "nuevos": 858,
+   "actualizados": 1564,
+   "bajas": 2
+  },
   {
    "ejecutado_en": "2026-11-09T06:52:18+00:00",
    "fuente": "agregadas",
@@ -224,26 +244,6 @@
    "periodo": "202610",
    "entradas": 26853,
    "expedientes": 17087,
-   "nuevos": 0,
-   "actualizados": 0,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-02T06:53:12+00:00",
-   "fuente": "placsp",
-   "periodo": "202611",
-   "entradas": 458,
-   "expedientes": 454,
-   "nuevos": 113,
-   "actualizados": 66,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-02T06:53:08+00:00",
-   "fuente": "placsp",
-   "periodo": "202610",
-   "entradas": 61638,
-   "expedientes": 39995,
    "nuevos": 0,
    "actualizados": 0,
    "bajas": 0
