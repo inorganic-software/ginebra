@@ -3,7 +3,7 @@
   <title>Ginebra · licitaciones públicas de tecnología</title>
   <subtitle>Licitaciones de software, datos e IA que encajan con nosotros. Últimos 30 días.</subtitle>
   <id>https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed.atom</id>
-  <updated>2026-11-15T06:42:28+00:00</updated>
+  <updated>2026-11-16T07:01:50+00:00</updated>
   <link rel="self" href="https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed.atom" type="application/atom+xml" />
   <link rel="alternate" href="https://github.com/inorganic-software/ginebra" type="text/html" />
   <generator uri="https://github.com/inorganic-software/ginebra">ginebra</generator>
@@ -11,6 +11,204 @@
     <name>Ginebra (inorganic-software)</name>
   </author>
   <rights>Datos: Plataforma de Contratación del Sector Público (datos abiertos).</rights>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20913957</id>
+    <title>Suministro, instalación y mantenimiento de servidores para Plan Estratégico 2030 y diversas plataformas · Banco de España · 3.140.837 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=lA%2FBM27lFcGdkQsA7ROvsg%3D%3D" />
+    <updated>2026-11-15T16:11:33+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">Adjudicada · INSTITUCIONES INDEPENDIENTES · plazo hasta 2026-10-19 14:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Banco de España&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › INSTITUCIONES INDEPENDIENTES › Banco de España&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;LIC-13191&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;3.140.837 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;3.140.837 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;30200000;50312000;30237000;72514000;48820000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-19 14:00:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;4&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;IKUSI TECH SLU&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;2.649.067 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72514000; tamano: 3.140.837 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=lA%2FBM27lFcGdkQsA7ROvsg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=ZSmOCTKW1wdKzwCkv%2BxzgJjgVWnRXZIwmCi/NEGs2/z0ifva4ae1usU8IVMy2uTtkjiXt5XlxV/0Nu2pykQxZ7uetXNm9EcHfdI23HyrcxAC1/zDIE0Kw/PWNnLS0Z0z"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=SG9UKN0IMMudXK/8VxAnCJGskZuYVozHAlRv3UPpKa3eyhd5S9boBa19uMraNAGCf5dABzI7skDn7DGcYx8GW42SFZ%2BW28IO4TkM1zjHTff3GVhXrFFqN7yFncy7YfRK"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=AAOeCRmvUWmXQV0WE7lYPw%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ADJ" label="Adjudicada" />
+    <category term="1" label="Suministros" />
+    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
+    <category term="INSTITUCIONES INDEPENDIENTES" label="INSTITUCIONES INDEPENDIENTES" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Banco de España</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20914004</id>
+    <title>Suministro de licencias de la Plataforma Exact y la prestación de los servicios necesarios para su soporte, mantenimiento y evolución. · Dirección General de la Fundación EOI · 187.706 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=GSpez1Mmxz6cTfjQf3USOg%3D%3D" />
+    <updated>2026-11-15T11:27:20+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">En plazo · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-12-14 10:00 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de la Fundación EOI&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES › Ministerio de Industria y Turismo › Fundación EOI&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026_040_SARA&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;187.706 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;563.119 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000;48451000;72212451;72200000;72600000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;España ES&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-12-14 10:00:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;2&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 187.706 €; cercania: órgano con CP 28040&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=GSpez1Mmxz6cTfjQf3USOg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=czdQ9lSRc6AYvq0eIWVpSOmSNGejtziVgzZK2/2pmuRx/6SE16uNgPAbBhDbcedj/5gd/VIhQKPutka0/6CRESa%2B0gbVjOwG7I9YWMntksKCx2e6p7hqtlp2aFupgHMr"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=ATYwVQ6nRBhrAdvoYApVHQKXOgNu/s2BjfguGxLAxqZTlSxSLm8%2BXjBm7cfSHeP87sKqEM23WK6mAaOYw/c30HjzhIAxHh4sCe0sWpvxD6eCx2e6p7hqtlp2aFupgHMr"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=Xsvz3TMvvrE%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="PUB" label="En plazo" />
+    <category term="2" label="Servicios" />
+    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
+    <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Dirección General de la Fundación EOI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20914024</id>
+    <title>Contratación de Servicio gestionado de backup con almacenamiento del mismo tanto en local como externo a las instalaciones del TPFE, M.P. · Gerencia de la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo, M.P. · 176.400 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=qjqS%2F1TXGmrjHF5qKI4aaw%3D%3D" />
+    <updated>2026-11-15T08:41:46+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">En plazo · Ministerio del Interior · plazo hasta 2026-12-15 18:00 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Gerencia de la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo, M.P.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio del Interior › Secretaria General de Instituciones Penitenciarias › Trabajo Penitenciario y Formación para el Empleo › Gerencia&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/00084&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;176.400 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;352.800 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72910000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-12-15 18:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72910000; tamano: 176.400 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=qjqS%2F1TXGmrjHF5qKI4aaw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=fblrT303pyzBSER9Mer7HlTWR7FQSpPuqsna0YpqWSDcfX7z3Lmahv4hH0oPwTZZRgchSywhKtm7IFY7oTqbTXwdTOw9xGf7PtmFcneYcXp45ClyWkoJ44mKM70IFcOu"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=IfdXu/mv/O6escVqSGWL1scrOQ5MO9Tr04joA1sByV/i0cWhiiDsittFkgozrM17hc1Va9/wpY6pVYkp9kMf1u3b2Dq/YEIB7ManqvvXM1iHAj0WEJrB5sP7amrh2jBD"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=xI9vUWtVwD0QK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="PUB" label="En plazo" />
+    <category term="2" label="Servicios" />
+    <category term="Administración General del Estado" label="Administración General del Estado" />
+    <category term="Ministerio del Interior" label="Ministerio del Interior" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Gerencia de la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo, M.P.</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19829935</id>
+    <title>Contratación del servicio de gestión de movilidad corporativa en el término municipal de Madrid y su área metropolitana, así como en las principales capitales de provincia donde opera el grupo TRAGSA: Plataforma de movilidad urbana con vehículos de pasajeros con conductor, para el desarrollo de las actividades propias del grupo TRAGSA y su utilización por el personal que la empresa designe · Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA) · 614.400 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=ZNGAF6EU9RR%2BF6L2uCfUWg%3D%3D" />
+    <updated>2026-11-15T08:27:02+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">Resuelta · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-07-06 14:00 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES › Ministerio de Hacienda › SEPI › TRAGSA&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;TSA0082641&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;614.400 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.333.680 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;60170000;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-07-06 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;IMBRIC MOBILITY, SLU&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;557.350 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 614.400 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=ZNGAF6EU9RR%2BF6L2uCfUWg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=4A1AVF6sBM/bgwRIDcw4wrR5vaOb/5QaQFGzpl0otsIlv873l8QvedfQSKxvVGcqSKfmqSQwgV2AiTNM6Mlgo/ym/yQh4pIQDtyjxMzZ/0nDdQD9RyhUmzT4jZ2In4zL"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=ZvzirCYmy56NMUCsnKla%2BnqYAxw7SiBETpa5nnJG9BzE17uRdNKLhWgGWrF2ZZXaeftR0FL4Koh%2BsSuVOZbPJj%2Bh2h6os4apirmqzKXnAHWCx2e6p7hqtlp2aFupgHMr"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=4EFIKYrK%2FKY%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="RES" label="Resuelta" />
+    <category term="2" label="Servicios" />
+    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
+    <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20481249</id>
+    <title>Contratación Renovar y ampliar las licencias implantadas en años precedentes para garantizar su correcto funcionamiento, así como la resolución de incidencias técnicas caso de producirse. · Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA) · 215.000 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=N%2BbA%2B0ocpoD%2Fa9DgO%2BoYKQ%3D%3D" />
+    <updated>2026-11-15T06:34:14+01:00</updated>
+    <published>2026-10-23T04:39:14+00:00</published>
+    <summary type="text">Adjudicada → Adjudicada · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-09-11 14:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES › Ministerio de Hacienda › SEPI › TRAGSA&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;TSA0083883&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;215.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;215.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48625000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-11 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;IaaS365, S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;200.256 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-10-16&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48625000; tamano: 215.000 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=N%2BbA%2B0ocpoD%2Fa9DgO%2BoYKQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=%2Bde5KLB3THnj/J33kZ2M/i7F85nw37CFGs7IHBUdNHv8YvIyMmcmvvetURBbjHVz1pEf0njc09BH45A1X0qIsrUY098Z7HSYy2kcmzq5ecpJOVDbGCDM%2BMigrvuVS7Rv"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=0Z3VDPCr9grWvzH3U%2BimkxbXNw8FGOuLyk5prL8ojNwINDbexgQUTcGCwMk9iobjLl9ZPD7asPSH8Y1kv/smsP4V2RgHx3a2N9BHzF/uZDSB0nvVKRzfe4rpHcnlPhSZ"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=4EFIKYrK%2FKY%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ADJ" label="Adjudicada" />
+    <category term="1" label="Suministros" />
+    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
+    <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
+    <category term="placsp" label="placsp" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20914027</id>
+    <title>Prórroga Del Contrato 2410/2024. La Contratación De Los Servicios Necesarios Para El Mantenimiento De La Infraestructura De Software De Ias Y Sistemas De La Guardia Civil. (Ministerio Del Interior -Servicio De Contratación) · Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada · 346.720 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=2yaCLcPtmwqOUi78BmzhOQ%3D%3D" />
+    <updated>2026-11-14T23:11:52+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">Adjudicada · Ministerio de Hacienda · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Hacienda › Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CEA5482/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;346.720 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;693.440 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;1&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Aplicaciones Y Tratamientos De Sistemas, S.A&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;332.851 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-14&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 346.720 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=2yaCLcPtmwqOUi78BmzhOQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IXa3tQsTNgEQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ADJ" label="Adjudicada" />
+    <category term="2" label="Servicios" />
+    <category term="Administración General del Estado" label="Administración General del Estado" />
+    <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20914028</id>
+    <title>Prórroga Del Contrato A2761/2025. Contrato Específico Del Sistema Dinámico De Adquisición (Sda 26/2021) Para Los Servicios De Desarrollo De Sistemas De Administración Electrónica. Soporte, Mantenimiento Y Evolución De La Plataforma Iot (Ministerio De Transportes Y Movilidad Sostenible-Administrador De Infraestructuras Ferroviarias (Adif)) · Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada · 854.000 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=sdV3u%2FpciWF9PLkba5eRog%3D%3D" />
+    <updated>2026-11-14T23:11:50+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">Adjudicada · Ministerio de Hacienda · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Hacienda › Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CEA5440/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;854.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.708.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;1&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Ntt Data Spain, S.L.U.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;853.721 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-14&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 854.000 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=sdV3u%2FpciWF9PLkba5eRog%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IXa3tQsTNgEQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ADJ" label="Adjudicada" />
+    <category term="2" label="Servicios" />
+    <category term="Administración General del Estado" label="Administración General del Estado" />
+    <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20914029</id>
+    <title>Suministro De Licencias Y Servicios De Soporte De Productos De Software Analítico Del Instituto Nacional De Estadística (Ine)  (Ministerio De Economía, Comercio Y Empresa-Instituto Nacional De Estadística) · Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada · 2.532.391 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=VsXVNSzTrWQ7%2B9FIQYNjeQ%3D%3D" />
+    <updated>2026-11-14T23:11:48+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">Adjudicada · Ministerio de Hacienda · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Hacienda › Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CEA5336/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;2.532.391 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;2.785.631 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;1&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Ute Gesein – Solutia Sda 25/2022&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;2.520.755 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-14&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 2.532.391 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=VsXVNSzTrWQ7%2B9FIQYNjeQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IXa3tQsTNgEQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ADJ" label="Adjudicada" />
+    <category term="1" label="Suministros" />
+    <category term="Administración General del Estado" label="Administración General del Estado" />
+    <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20914030</id>
+    <title>Licencias De Uso De Software De Diseño De Experimentos Y Análisis Estadístico De Datos Avanzado Para La Agencia Estatal Consejo Superior De Investigaciones Científicas  (Agencia Estatal Consejo Superior De Investigaciones Científicas) · Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada · 171.000 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=WelnRHnHhr3XOjazN1Dw9Q%3D%3D" />
+    <updated>2026-11-14T23:11:45+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">Adjudicada · Ministerio de Hacienda · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Hacienda › Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CEA5287/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;171.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;171.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;1&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Seidor Solutions&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;167.467 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-14&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 171.000 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=WelnRHnHhr3XOjazN1Dw9Q%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IXa3tQsTNgEQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ADJ" label="Adjudicada" />
+    <category term="1" label="Suministros" />
+    <category term="Administración General del Estado" label="Administración General del Estado" />
+    <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20914031</id>
+    <title>Suministro De La Actualización De Un Sistema De Monitorización Del Mainframe Para La Gerencia De Informática De La Seguridad Social (Ministerio De Inclusión, Seguridad Social Y Migraciones-Gerencia De Informatica De La Seguridad Social) · Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada · 3.620.959 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=vE%2FdNoPp0drE6P%2FuLemXRw%3D%3D" />
+    <updated>2026-11-14T23:11:43+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">Adjudicada · Ministerio de Hacienda · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Hacienda › Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CEA5465/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;3.620.959 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;3.620.959 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;1&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Técnicos Asociados Informática, Sau&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;3.576.451 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-14&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 3.620.959 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=vE%2FdNoPp0drE6P%2FuLemXRw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IXa3tQsTNgEQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ADJ" label="Adjudicada" />
+    <category term="1" label="Suministros" />
+    <category term="Administración General del Estado" label="Administración General del Estado" />
+    <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20914033</id>
+    <title>Suministro De Suscripción Para La Renovación De Licencias Del Gestor Documental (Dms) De Muface. (26023) (Ministerio Para La Transformación Digital Y De La Función Pública-Mutualidad General De Funcionarias Y Funcionarios Civiles Del Estado, O.A (Muface)) · Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada · 207.001 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=5%2Fo3IbY%2BLPuHCIsjvJ3rhQ%3D%3D" />
+    <updated>2026-11-14T22:56:51+01:00</updated>
+    <published>2026-11-16T07:00:25+00:00</published>
+    <summary type="text">Adjudicada · Ministerio de Hacienda · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Hacienda › Subsecretaría de Hacienda › D.G. de Racionalización y Centralización de la Contratación&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CEA5459/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;207.001 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;207.001 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;1&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Ute Altia-Bilbomatica Sda 25 2022&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;157.548 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-14&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 207.001 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=5%2Fo3IbY%2BLPuHCIsjvJ3rhQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IXa3tQsTNgEQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ADJ" label="Adjudicada" />
+    <category term="1" label="Suministros" />
+    <category term="Administración General del Estado" label="Administración General del Estado" />
+    <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
+    <category term="placsp" label="placsp" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
+    </author>
+  </entry>
   <entry>
     <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20635804</id>
     <title>Servicio de soporte técnico para el mantenimiento de la infraestructura tecnológica del Centro de Operaciones de Mantenimiento y de Monitorización de Instalaciones y Telecomunicaciones (COMMIT) · Metro de Madrid, S.A. · 2.970.000 €</title>
@@ -4929,193 +5127,6 @@ La mejora del sistema de vigilancia en salud pública requiere la incorporación
     <category term="placsp" label="placsp" />
     <author>
       <name>Comité Central de Compras de Navantia S.A., S.M.E.</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19596080</id>
-    <title>Servicio para la gestión documental y archivo electrónico de Red.es · Dirección General de la Entidad Pública Empresarial RED.ES · 163.365 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=rWTDffX0xA4tm4eBPtV6eQ%3D%3D" />
-    <updated>2026-11-04T08:05:35+01:00</updated>
-    <published>2026-10-30T07:04:43+00:00</published>
-    <summary type="text">Resuelta · Ministerio para la Transformación Digital y de la Función Pública · plazo hasta 2026-06-01 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de la Entidad Pública Empresarial RED.ES&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio para la Transformación Digital y de la Función Pública › Secretaría de Estado de Digitalización e Inteligencia Artificial › Entidad Pública Empresarial Red.es&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;004/26-SG&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;163.365 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;196.038 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72600000;79420000;92512000;79411000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-06-01 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Guadaltel, S.A&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;138.860 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72600000; tamano: 163.365 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=rWTDffX0xA4tm4eBPtV6eQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=L426wQGABFiCiobiAO5tm2X0%2Bdqc7ZkZnJn6t/TCEjsZuegNPAxR24%2Be0mBa5mcXc1kUw%2BLyyRTlAR61l7jLIz4LfW6aqmLoaLIsz8zuYT5t/o8fNevwsujgRzaBbugn"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=4okjPufSyUoAvm/Osz0W2UJSgIPgarznsutiE%2B8VwfiZ2kI98qlpaBJ46xLh1CKourrozqrBtn5cwmTK0pyw6/0/YUbKcvlIIxqQkQ4nBTL3GVhXrFFqN7yFncy7YfRK"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=YzklNNbkpHw%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="RES" label="Resuelta" />
-    <category term="2" label="Servicios" />
-    <category term="Administración General del Estado" label="Administración General del Estado" />
-    <category term="Ministerio para la Transformación Digital y de la Función Pública" label="Ministerio para la Transformación Digital y de la Función Pública" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Dirección General de la Entidad Pública Empresarial RED.ES</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19806960</id>
-    <title>Servicio de transporte del personal de la Agencia Española de Medicamentos y productos Sanitarios (AEMPS). · Dirección de la Agencia Española de Medicamentos y Productos Sanitarios · 429.660 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=b7i3F%2FnvmH%2B7JOCXkOhcDg%3D%3D" />
-    <updated>2026-11-04T08:05:29+01:00</updated>
-    <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Resuelta · Ministerio de Sanidad · plazo hasta 2026-07-02 18:00 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección de la Agencia Española de Medicamentos y Productos Sanitarios&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Sanidad › Secretaría General de Sanidad › Agencia Española de Medicamentos y Productos Sanitarios › Dirección&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/16202/001&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;429.660 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;858.920 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;60100000;72510000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-07-02 18:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;THE BUS ONTIME S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;406.196 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72510000; tamano: 429.660 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=b7i3F%2FnvmH%2B7JOCXkOhcDg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=i3tqmlzZc/nNCxAuBS23r/R5PzEPtB4hb0ZbzBOZ9YFQnEu%2BWTmzqoQr5sQw8M14GXSxmLYw%2Bc3ndw/ubOpU/KWsBsQgtc7Xn5gZuZq%2BqNKCx2e6p7hqtlp2aFupgHMr"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=EA9Ej0mj66cvIx96uj7IUqYOmOru3OI4gTCdrg6ik2ElNatSwT4OenVplAm9Hy4swouqUaUm8x5NS%2B/CN%2BV1dTOraUKa1IvXGTVu6iM/QfeCx2e6p7hqtlp2aFupgHMr"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=rt5jHfYu7C0%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="RES" label="Resuelta" />
-    <category term="2" label="Servicios" />
-    <category term="Administración General del Estado" label="Administración General del Estado" />
-    <category term="Ministerio de Sanidad" label="Ministerio de Sanidad" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Dirección de la Agencia Española de Medicamentos y Productos Sanitarios</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20798212</id>
-    <title>Servicios de desarrollo de aplicaciones informáticas sobre SAP para el Servicio Público de Empleo Estatal · Dirección General del Servicio Público de Empleo Estatal · 4.132.231 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=lxMnmGrOUCPkY6rls5tG9A%3D%3D" />
-    <updated>2026-11-04T08:05:21+01:00</updated>
-    <published>2026-10-29T07:16:31+00:00</published>
-    <summary type="text">En plazo · Ministerio de Trabajo y Economía Social · plazo hasta 2026-11-30 10:00 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General del Servicio Público de Empleo Estatal&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Trabajo y Economía Social › Secretaría de Estado de Empleo y Economía Social › Servicio Público de Empleo Estatal&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;IPA 1/27&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;4.132.231 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;9.090.909 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-30 10:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 4.132.231 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=lxMnmGrOUCPkY6rls5tG9A%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=kyz34MFsnUTP7dV2Q4VpG86EKk1SnNOivUIjQhq6xBvs30quydPQJ5k%2BDk%2BeN4fCA1LQvZed%2BsDf9m0Syqyzv1fsUYFZr8%2BYK2OFxMWuoy%2BCx2e6p7hqtlp2aFupgHMr"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=4CQ036XksITA6/3Rmw/70zPYp%2Bisy9A9BJoeqLF8DMcGEE9d1SfDI2RhTj0A1WhuPbVTBpTxKXjAQfoc%2B5wOMeLTPX/MiJCQ1288ysdQv673GVhXrFFqN7yFncy7YfRK"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=r9ZPdHGGinsQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="2" label="Servicios" />
-    <category term="Administración General del Estado" label="Administración General del Estado" />
-    <category term="Ministerio de Trabajo y Economía Social" label="Ministerio de Trabajo y Economía Social" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Dirección General del Servicio Público de Empleo Estatal</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20816308</id>
-    <title>Servicios de soporte técnico y atención a usuarios del INVIED O.A. · Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa · 110.000 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=zHPwYZHKo6Hi0Kd8%2Brcp6w%3D%3D" />
-    <updated>2026-11-04T08:05:16+01:00</updated>
-    <published>2026-10-31T06:59:24+00:00</published>
-    <summary type="text">En plazo · Ministerio de Defensa · plazo hasta 2026-11-17 09:30 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Defensa › Secretaría de Estado de Defensa › Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;202600000264&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;110.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;220.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72611000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-17 09:30:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72611000; tamano: 110.000 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=zHPwYZHKo6Hi0Kd8%2Brcp6w%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=kU9a7qBtqORQSYgPNIt2Bsx1OUHnP0x6yHzNRzEuaD34LtcILTr1zeWux58qNkQ8aXRGIMKFOhCHBsEEyJMVTw1I8vA7eqRfPxxjx8wpe/mHAj0WEJrB5sP7amrh2jBD"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=41W1m29v636DAxWdGubIy6VhMBshm%2BBaBQhQtI1MHA6Kxg7ovYrTXmSmWW2pweKc0e51Qq6lp5nsg6QV5bYbvTum7bWsU98SVRQuLeR/YhGCx2e6p7hqtlp2aFupgHMr"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=8psRz0l4qm0%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="2" label="Servicios" />
-    <category term="Administración General del Estado" label="Administración General del Estado" />
-    <category term="Ministerio de Defensa" label="Ministerio de Defensa" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20840849</id>
-    <title>Servicios de Mantenimiento y Soporte para Proyectos Exteriores alojados en la Plataforma EducaMadrid · Consejería de Digitalización · 746.219 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/bac012026-servicios-mantenimiento-soporte-proyectos-exteriores-alojados-plataforma" />
-    <updated>2026-11-04T07:40:34+01:00</updated>
-    <published>2026-11-05T06:42:52+00:00</published>
-    <summary type="text">Resuelta · Comunidad de Madrid · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;BAC 01/2026 (3359/2026)&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;746.219 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;746.219 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Otros&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;SERINGE, S.A.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;740.000 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 746.219 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/bac012026-servicios-mantenimiento-soporte-proyectos-exteriores-alojados-plataforma"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/01.doc_invitacion_bac01_2026_exteriores_educamadrid_v20_firmado.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="RES" label="Resuelta" />
-    <category term="2" label="Servicios" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Consejería de Digitalización</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20840850</id>
-    <title>Desarrollo evolutivo y correctivo de las Aulas Virtuales, la Mediateca, las webs de centro, el correo web, EMPieza y otras aplicaciones de EducaMadrid · Consejería de Digitalización · 703.694 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/desarrollo-evolutivo-correctivo-aulas-virtuales-mediateca-webs-centro-correo-web" />
-    <updated>2026-11-04T07:40:34+01:00</updated>
-    <published>2026-11-05T06:42:52+00:00</published>
-    <summary type="text">Resuelta · Comunidad de Madrid · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;BAC 07/2026 (691/2026)&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;703.694 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;703.694 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Otros&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;SERINGE, S.A.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;702.500 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 703.694 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/desarrollo-evolutivo-correctivo-aulas-virtuales-mediateca-webs-centro-correo-web"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/01.doc_invitacion_bac07_2026_desarrollo_educamadrid_v13_firmado.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="RES" label="Resuelta" />
-    <category term="2" label="Servicios" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Consejería de Digitalización</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20840851</id>
-    <title>Desarrollo evolutivo y correctivo del Portal Educativo, el LDAP, el Cloud, MAX y otros · Consejería de Digitalización · 740.604 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/bac062026-desarrollo-evolutivo-correctivo-portal-educativo-ldap-cloud-max-otros" />
-    <updated>2026-11-04T07:25:58+01:00</updated>
-    <published>2026-11-05T06:42:52+00:00</published>
-    <summary type="text">Resuelta · Comunidad de Madrid · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;BAC 06/2026 (437/2026)&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;740.604 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;740.604 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Otros&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;SERINGE, S.A.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;739.000 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 740.604 €; cercania: lugar de ejecución ES300; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/bac062026-desarrollo-evolutivo-correctivo-portal-educativo-ldap-cloud-max-otros"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/01.doc_invitacion_bac06_2026_sistemas_educamadrid_v24_firmado.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="RES" label="Resuelta" />
-    <category term="2" label="Servicios" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Consejería de Digitalización</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20336223</id>
-    <title>Servicio de análisis de ciberamenazas y gestión de riesgos del registro del CCTLD .ES · Dirección General de la Entidad Pública Empresarial RED.ES · 274.965 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=cnQU3gRmARbmnwcj%2BxbdTg%3D%3D" />
-    <updated>2026-11-03T19:03:20+01:00</updated>
-    <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación · Ministerio para la Transformación Digital y de la Función Pública · plazo hasta 2026-10-01 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de la Entidad Pública Empresarial RED.ES&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio para la Transformación Digital y de la Función Pública › Secretaría de Estado de Digitalización e Inteligencia Artificial › Entidad Pública Empresarial Red.es&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;017/26-SI&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;274.965 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;274.965 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72246000;72900000;71600000;79417000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-01 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-09-24&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72246000; tamano: 274.965 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=cnQU3gRmARbmnwcj%2BxbdTg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=B9La4HDVeleszJ1lSsxVV3kqoF89zBu6RTtBL/4cdA884%2BgSnk9UCo3vpKylcrZimpaSZL2JWf4mraX4aA1wAJ/av4Xf%2Bi1CFbSBT1pUkQOCx2e6p7hqtlp2aFupgHMr"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=NWKHvlZJ9qxSoktALbkzEo/Mlcujy0MW5IcfKuemNLv/kELF1L20NYEUfYLEcBMpLje6/FvvnJlincGD4yJ6baUldG46OE/ynfVjWq/KLEM//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=YzklNNbkpHw%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="EV" label="Pendiente de adjudicación" />
-    <category term="2" label="Servicios" />
-    <category term="Administración General del Estado" label="Administración General del Estado" />
-    <category term="Ministerio para la Transformación Digital y de la Función Pública" label="Ministerio para la Transformación Digital y de la Función Pública" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Dirección General de la Entidad Pública Empresarial RED.ES</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20827678</id>
-    <title>Suscripción y actualización de la base de datos de navegación para el FMS DE LOS T.21 (C-295) del Ejercito del Aire y del Espacio · Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire · 824.159 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=eyqX1cqk9xbkY6rls5tG9A%3D%3D" />
-    <updated>2026-11-03T16:21:00+01:00</updated>
-    <published>2026-11-04T06:41:34+00:00</published>
-    <summary type="text">Adjudicada · Ministerio de Defensa · plazo hasta 2026-10-27 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Defensa › Ejército del Aire y del Espacio › SEA 15 Agrupación del Cgea&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/EA15/00001452&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;824.159 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;824.159 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Negociado sin publicidad&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72320000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-27 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;AIRBUS DEFENCE AND SPACE S.A.U. “SOCIEDAD UNIPERSONAL”&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;824.159 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-03&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72320000; tamano: 824.159 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=eyqX1cqk9xbkY6rls5tG9A%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=7n3sfd80O2S5ytH%2BNg71MaQehV6ncppcA02pQgUbZ08UPxJvGINkDa1lr2MXKlKyqjkmecI9hsFjvJcRAdbgpyEljILB9IVc/wRTAihONJeB0nvVKRzfe4rpHcnlPhSZ"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=i5vrl3%2BBemxrEqyHiQRL8LUmYF%2BV6IqSoroUrghArgALjN4EXMtkAXpsg5s1O5YgHz/1UBijlmYc0ecijQj1O%2Bh1YcwgE/uig3hk8IYnKMK1aXEvq3KHa/AEHgtDrQw0"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=Xz37MgwSCXo%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="ADJ" label="Adjudicada" />
-    <category term="2" label="Servicios" />
-    <category term="Administración General del Estado" label="Administración General del Estado" />
-    <category term="Ministerio de Defensa" label="Ministerio de Defensa" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20779670</id>
-    <title>Servicios de operación del Centro de Operaciones de Seguridad SOC. Las necesidades a satisfacer se especifican con mayor detalle en el PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE RIGE LA CONTRATACIÓN · Presidencia y Dirección de Administración y Finanzas de la de la Sociedad Mercantil Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A.M.P. (SEGITTUR) · 103.306 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=ezazEvyg8AzkY6rls5tG9A%3D%3D" />
-    <updated>2026-11-03T16:04:41+01:00</updated>
-    <published>2026-10-27T07:17:22+00:00</published>
-    <summary type="text">En plazo · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-11-11 10:00 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Presidencia y Dirección de Administración y Finanzas de la de la Sociedad Mercantil Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A.M.P. (SEGITTUR)&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES › Ministerio de Industria y Turismo › SEGITTUR&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;412026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;103.306 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;206.612 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72222300&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-11 10:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-10-26&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72222300; tamano: 103.306 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=ezazEvyg8AzkY6rls5tG9A%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=Avs4VzIcg4YhH1jAjwAiQuAIMeYTOjVzoHfVL5kBS960x4sWPydAMrPjzmssbnkSQE3nDOnl0JL9SV8sMPd4aGt0sYqLbOgtSHXllCahKtnfdyQgZAdTm3EfcUAC7CJ6"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=pLexEmxJ92uD61CilLZLCaTDzHaDv/8vox33ZS%2Bbxpn2/UOMPyHM4u2I5oF4EhYG78OnAmldhumwPvw3829YaJFGI15ENaUwQg/GK5o2Zen3GVhXrFFqN7yFncy7YfRK"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=1XSImAIS1Pymq21uxhbaVQ%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="2" label="Servicios" />
-    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
-    <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Presidencia y Dirección de Administración y Finanzas de la de la Sociedad Mercantil Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A.M.P. (SEGITTUR)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19835242</id>
-    <title>Suministro, soporte y mantenimiento de las licencias actuales del planificador centralizado Control-M de BMC de Canal de Isabel II, S.A., M.P. · Canal de Isabel II, S.A. · 351.551 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-soporte-mantenimiento-licencias-actuales-planificador-centralizado" />
-    <updated>2026-11-03T14:26:05+01:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Adjudicada · Comunidad de Madrid · plazo hasta 2026-06-25 23:59 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Canal de Isabel II, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Medio Ambiente, Agricultura e Interior&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;45-2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;351.551 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;351.551 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72267100;48000000;72212332&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-06-25 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;BLUEMARA SOLUTIONS, S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;309.749 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-03&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72267100; tamano: 351.551 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-soporte-mantenimiento-licencias-actuales-planificador-centralizado"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-06/2026_45_2_pcap_df.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-06/2026_45_2_ppt_signed.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="ADJ" label="Adjudicada" />
-    <category term="1" label="Suministros" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Canal de Isabel II, S.A.</name>
     </author>
   </entry>
 </feed>

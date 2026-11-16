@@ -3,7 +3,7 @@
   <title>Ginebra · alertas de nube pública</title>
   <subtitle>Licitaciones que mencionan nube pública en cualquier administración española.</subtitle>
   <id>https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed_nube.atom</id>
-  <updated>2026-11-15T06:42:28+00:00</updated>
+  <updated>2026-11-16T07:01:50+00:00</updated>
   <link rel="self" href="https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed_nube.atom" type="application/atom+xml" />
   <link rel="alternate" href="https://github.com/inorganic-software/ginebra" type="text/html" />
   <generator uri="https://github.com/inorganic-software/ginebra">ginebra</generator>
@@ -11,6 +11,24 @@
     <name>Ginebra (inorganic-software)</name>
   </author>
   <rights>Datos: Plataforma de Contratación del Sector Público (datos abiertos).</rights>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20816018</id>
+    <title>Suministro de infraestructura en la nube Oracle Cloud para la gestión de la movilidad internacional de la Universidad de Alcalá · Gerencia de la Universidad de Alcalá · 14.500 €</title>
+    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=RU2MzvgORMji0Kd8%2Brcp6w%3D%3D" />
+    <updated>2026-11-15T16:10:29+01:00</updated>
+    <published>2026-10-31T06:59:24+00:00</published>
+    <summary type="text">Adjudicada → Resuelta · UNIVERSIDADES · plazo hasta 2026-11-09 14:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Gerencia de la Universidad de Alcalá&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › UNIVERSIDADES › Comunidad de Madrid › Universidad de Alcalá&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/059.SUM.ABRSA.M&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;14.500 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;17.400 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48200000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-09 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;ACEVEDO TECHNOLOGY &amp;amp; CONSULTING CORPORATION, SL&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;13.890 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48200000; cercania: lugar de ejecución ES300; nube: infraestructura en la nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=RU2MzvgORMji0Kd8%2Brcp6w%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=nn/aXGQaJJERcoQi/K3gJOa6cEmynhaFgJ6Kft%2BBSUaMfQz7cuOzdzEOOFHJB8/fDMiCMnVSu/kP0%2BM1/vWsjTFSS4Prymvw7jMu2aoCuloC1/zDIE0Kw/PWNnLS0Z0z"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=iqCLe/PdtOOeeva5wmdkhV%2BGPWhdyizLtcLp0Xnz5JN%2BPx71xsVMzrirKFBWLDQIzmXeXK6C8QDGyanZSKKUcajfj6hCxP%2BVahKHz/yvuL0//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IAcIzOtLQz4QK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="RES" label="Resuelta" />
+    <category term="1" label="Suministros" />
+    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
+    <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
+    <category term="placsp" label="placsp" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Gerencia de la Universidad de Alcalá</name>
+    </author>
+  </entry>
   <entry>
     <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20792109</id>
     <title>Subscripció d’una plataforma de tramitació electrònica municipal en modalitat SaaS, que inclou una aplicació mòbil nativa (iOS i Android), una versió web, la implantació, la integració amb els sistemes municipals i els serveis de l’AOC, el manteniment, el suport i l’evolució de la solució, així com una bossa anual de 30 hores de configuració, desenvolupament i assistència. · Ajuntament d'Olèrdola · 11.570 €</title>
@@ -496,23 +514,6 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <category term="placsp" label="placsp" />
     <author>
       <name>Dirección General de la Entidad Valenciana de Vivienda y Suelo (EVHA)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20816018</id>
-    <title>Suministro de infraestructura en la nube Oracle Cloud para la gestión de la movilidad internacional de la Universidad de Alcalá · Gerencia de la Universidad de Alcalá · 14.500 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=RU2MzvgORMji0Kd8%2Brcp6w%3D%3D" />
-    <updated>2026-11-12T13:10:03+01:00</updated>
-    <published>2026-10-31T06:59:24+00:00</published>
-    <summary type="text">Adjudicada · UNIVERSIDADES · plazo hasta 2026-11-09 14:00 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Gerencia de la Universidad de Alcalá&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › UNIVERSIDADES › Comunidad de Madrid › Universidad de Alcalá&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/059.SUM.ABRSA.M&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;14.500 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;17.400 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48200000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-09 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;ACEVEDO TECHNOLOGY &amp;amp; CONSULTING CORPORATION, SL&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;13.890 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-12&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48200000; cercania: lugar de ejecución ES300; nube: infraestructura en la nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=RU2MzvgORMji0Kd8%2Brcp6w%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=nn/aXGQaJJERcoQi/K3gJOa6cEmynhaFgJ6Kft%2BBSUaMfQz7cuOzdzEOOFHJB8/fDMiCMnVSu/kP0%2BM1/vWsjTFSS4Prymvw7jMu2aoCuloC1/zDIE0Kw/PWNnLS0Z0z"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=iqCLe/PdtOOeeva5wmdkhV%2BGPWhdyizLtcLp0Xnz5JN%2BPx71xsVMzrirKFBWLDQIzmXeXK6C8QDGyanZSKKUcajfj6hCxP%2BVahKHz/yvuL0//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IAcIzOtLQz4QK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="ADJ" label="Adjudicada" />
-    <category term="1" label="Suministros" />
-    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
-    <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Gerencia de la Universidad de Alcalá</name>
     </author>
   </entry>
   <entry>
