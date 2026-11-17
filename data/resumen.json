@@ -1,26 +1,26 @@
 {
- "generado": "2026-11-16T07:01:50+00:00",
- "ultima_actualizacion": "2026-11-16T07:01:50+00:00",
+ "generado": "2026-11-17T06:47:38+00:00",
+ "ultima_actualizacion": "2026-11-17T06:47:38+00:00",
  "base_de_datos": {
-  "total": 72481,
+  "total": 72884,
   "por_fuente": {
-   "agregadas": 21220,
+   "agregadas": 21623,
    "placsp": 51261
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-11-16T00:26:01.118+01:00"
+  "updated_max": "2026-11-17T01:00:09.373+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 625,
+ "seleccionadas": 626,
  "novedades_ultima_ejecucion": {
-  "nuevo": 117,
-  "actualizado": 84,
-  "baja": 1
+  "nuevo": 403,
+  "actualizado": 771,
+  "baja": 0
  },
  "alertas_nube": 376,
  "por_administracion": {
   "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 182,
-  "Comunidad de Madrid": 128,
+  "Comunidad de Madrid": 129,
   "Ministerio de Hacienda": 84,
   "Ministerio de Defensa": 50,
   "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 24,
@@ -49,6 +49,26 @@
   "Ministerio de Igualdad": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-17T06:47:38+00:00",
+   "fuente": "agregadas",
+   "periodo": "202611",
+   "entradas": 12506,
+   "expedientes": 9477,
+   "nuevos": 403,
+   "actualizados": 771,
+   "bajas": 1
+  },
+  {
+   "ejecutado_en": "2026-11-17T06:47:17+00:00",
+   "fuente": "placsp",
+   "periodo": "202611",
+   "entradas": 28689,
+   "expedientes": 22252,
+   "nuevos": 0,
+   "actualizados": 0,
+   "bajas": 0
+  },
   {
    "ejecutado_en": "2026-11-16T07:01:50+00:00",
    "fuente": "agregadas",
@@ -228,26 +248,6 @@
    "nuevos": 48,
    "actualizados": 31,
    "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-07T06:41:13+00:00",
-   "fuente": "agregadas",
-   "periodo": "202611",
-   "entradas": 5855,
-   "expedientes": 5093,
-   "nuevos": 461,
-   "actualizados": 774,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-07T06:40:54+00:00",
-   "fuente": "placsp",
-   "periodo": "202611",
-   "entradas": 13699,
-   "expedientes": 11897,
-   "nuevos": 1205,
-   "actualizados": 1838,
-   "bajas": 10
   }
  ],
  "feeds": {

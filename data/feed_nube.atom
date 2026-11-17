@@ -3,7 +3,7 @@
   <title>Ginebra · alertas de nube pública</title>
   <subtitle>Licitaciones que mencionan nube pública en cualquier administración española.</subtitle>
   <id>https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed_nube.atom</id>
-  <updated>2026-11-16T07:01:50+00:00</updated>
+  <updated>2026-11-17T06:47:38+00:00</updated>
   <link rel="self" href="https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed_nube.atom" type="application/atom+xml" />
   <link rel="alternate" href="https://github.com/inorganic-software/ginebra" type="text/html" />
   <generator uri="https://github.com/inorganic-software/ginebra">ginebra</generator>
@@ -12,19 +12,170 @@
   </author>
   <rights>Datos: Plataforma de Contratación del Sector Público (datos abiertos).</rights>
   <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20529667</id>
+    <title>L’objecte del contracte consisteix en la implantació i manteniment, en la modalitat de lloguer, d’un programari (SaaS) allotjat al núvol per l’empresa adjudicatària, destinat al control del temps de treball i a la gestió dels recursos humans del personal del Consell Comarcal del Gironès que presta serveis en els edificis següents: seu administrativa (C/ Riera de Mus, 1 A de Girona), Sarrià 221 (av. de França, 221 de Sarrià de Ter), Punt d’Informació Turístic Gironès-Girona (C/ Berenguer Carnicer, 3 de Girona) i monument dels Banys Àrabs (C/ Rei Ferran el Catòlic, s/n de Girona).
+L’execució de l’objecte d’aquest contracte implica, per part de l’empresa adjudicatària, el tractament de dades de caràcter personal del personal del Consell Comarcal del Gironès. L’empresa adjudicatària tractarà aquestes dades en qualitat d’encarregada del tractament per a les finalitats necessàries per a la correcta prestació del servei, incloent-hi la recollida, el registre, la gestió i el tractament de les dades de les persones usuàries donades d’alta com a personal al servei del Consell Comarcal del Gironès.
+El programari subministrat haurà de complir el que estableix el Reglament (UE) 2016/679 del Parlament Europeu i del Consell, de 27 d’abril de 2016, relatiu a la protecció de les persones físiques pel que fa al tractament de dades personals i a la lliure circulació d’aquestes dades (Reglament general de protecció de dades), així com la resta de normativa vigent que resulti aplicable en matèria de protecció de dades personals.
+El present contracte té caràcter mixt, atès que el seu objecte comprèn, de manera indissociable, prestacions pròpies d’un contracte de subministrament i prestacions pròpies d’un contracte de serveis, d’acord amb el que estableix l’article 18 de la Llei 9/2017, de 8 de novembre, de contractes del sector públic (LCSP).
+Concretament, l’objecte del contracte inclou, d’una banda, el subministrament de la llicència d’ús d’un programari de control del temps de treball · Consell Comarcal del Gironès · 19.340 €</title>
+    <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/36b957dd-5520-486b-9a4b-99c83f80c058/300940366" />
+    <updated>2026-11-16T16:03:58+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-16 23:59 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consell Comarcal del Gironès&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Consell Comarcal del Gironès&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/32/1403&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;19.340 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;19.340 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48900000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES512&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-16 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-01&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48900000; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/36b957dd-5520-486b-9a4b-99c83f80c058/300940366"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302802512/6696077D33F3472F6DDF4BB9C3A03263"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302802513/7FF7B7FDD8C8F4F199B780C492A2B953"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/CCGIRONES"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="1" label="Suministros" />
+    <category term="Entidades locales" label="Entidades locales" />
+    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Consell Comarcal del Gironès</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20251655</id>
+    <title>Contractació d'una plataforma d'administració electrònica en modalitat de Programari com a Servei (SaaS). Veure Plecs · Ajuntament d'Esplugues de Llobregat · 684.500 €</title>
+    <link rel="alternate" href="https://contractaciopublica.cat/es/detall-publicacio/9df2551f-1ed2-4440-9a38-d0336feca32a/300939707" />
+    <updated>2026-11-16T14:02:59+01:00</updated>
+    <published>2026-10-30T07:07:32+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-09-10 14:00 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ajuntament d&amp;#x27;Esplugues de Llobregat&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Ajuntament d&amp;#x27;Esplugues de Llobregat&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/4616/3106&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;684.500 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.349.300 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;72267000;48190000;72212100;72212311&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES511&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-10 14:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-08-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 684.500 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/es/detall-publicacio/9df2551f-1ed2-4440-9a38-d0336feca32a/300939707"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302470420/6167D657C5247221C8280B4286D7599B"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302470265/13924E4B1ECD8493EBD0C65C13679E6E"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/3277124"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="2" label="Servicios" />
+    <category term="Entidades locales" label="Entidades locales" />
+    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Ajuntament d'Esplugues de Llobregat</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20719429</id>
+    <title>Renovación suscripciones para Salesforce Marketing Cloud · Centro de Cálculo de Álava, S.A.-Centro de Cálculo de Álava, S.A. · 20.000 €</title>
+    <link rel="alternate" href="https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743845/es_doc/index.html" />
+    <updated>2026-11-16T13:11:31+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Gobierno Vasco · plazo hasta 2026-11-04 10:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Centro de Cálculo de Álava, S.A.-Centro de Cálculo de Álava, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Gobierno Vasco › Centro de Cálculo de Álava, S.A.&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;27060&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;20.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;20.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES211&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-04 10:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-16&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743845/es_doc/index.html"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13875914&amp;amp;R01HNoPortal=true"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13875916&amp;amp;R01HNoPortal=true"&gt;Pliego técnico&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="1" label="Suministros" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Gobierno Vasco" label="Gobierno Vasco" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Centro de Cálculo de Álava, S.A.-Centro de Cálculo de Álava, S.A.</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20390027</id>
+    <title>El contracte inclourà l’ús a una plataforma de gestor d’expedients ( que inclou totes les llicències de les aplicacions sol·licitades i enumerades en l’apartat 4 de requisits funcionals), l’allotjament al cloud, el manteniment, actualització i suport d’aquesta solució d’administració electrònica en modalitat SaaS. · Ajuntament de Mont-roig del Camp · 436.000 €</title>
+    <link rel="alternate" href="https://contractaciopublica.cat/es/detall-publicacio/85b14e8a-e8b2-4af7-ae61-a8ce936615c1/300939709" />
+    <updated>2026-11-16T12:06:37+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-09 23:59 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ajuntament de Mont-roig del Camp&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Ajuntament de Mont-roig del Camp&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;9912/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;436.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;523.200 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72261000;72268000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES514&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-09 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-09-10&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72261000; tamano: 436.000 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/es/detall-publicacio/85b14e8a-e8b2-4af7-ae61-a8ce936615c1/300939709"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302666347/55D34235EE4CB5ECDF3A4EE9E6CAA0DE"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302666348/8DE34159667379CCA4B30C09F2DF59C3"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/MONT-ROIGDELCAMP"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="2" label="Servicios" />
+    <category term="Entidades locales" label="Entidades locales" />
+    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Ajuntament de Mont-roig del Camp</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20783618</id>
+    <title>Servei de subministrament i renovació de llicències de Barracuda Cloud-to-Cloud Backup del Consorci per a la Normalització Lingüística · Consorci per a la Normalització Lingüística · 40.222 €</title>
+    <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/771ba571-34ca-4fa7-af3f-217fc497a83b/300939310" />
+    <updated>2026-11-16T12:06:11+01:00</updated>
+    <published>2026-10-27T07:19:32+00:00</published>
+    <summary type="text">En plazo → Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-11-10 15:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consorci per a la Normalització Lingüística&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Consorci per a la Normalització Lingüística&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CPNL-2027-2&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;40.222 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;80.444 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48710000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES51&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-10 15:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-26&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48710000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/771ba571-34ca-4fa7-af3f-217fc497a83b/300939310"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302718268/5E7F7453236B55BFB178D1510AA60FD8"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302718269/802351D1BC451B73737E2010B148DE9B"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/CPNL"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="1" label="Suministros" />
+    <category term="Entidades locales" label="Entidades locales" />
+    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Consorci per a la Normalització Lingüística</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20831480</id>
+    <title>0000571/2026 Suscripción, durante veinticuatro meses, de las licencias de los productos software alojados en la nube (cloud) del fabricante Atlassian necesarios para la gestión de los proyectos de tecnologías de la información y comunicaciones y de la gestión del conocimiento del Servicio Andaluz de Salud, asegurando que estas licencias tienen cubiertos sus requisitos en cuanto a actualización a nuevas versiones del software, acceso a parches y hotfixes, y resolución de las incidencias del producto. · Servicio Andaluz de Salud · 1.166.753 €</title>
+    <link rel="alternate" href="https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1035686" />
+    <updated>2026-11-16T10:41:59+01:00</updated>
+    <published>2026-11-04T06:41:42+00:00</published>
+    <summary type="text">En plazo → En plazo · Junta de Andalucía · plazo hasta 2026-11-30 15:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Servicio Andaluz de Salud&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Junta de Andalucía › Junta de Andalucía&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CONTR 2026 0000369618&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.166.753 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.166.753 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48517000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES618&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-30 15:00:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;2&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-03&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48517000; tamano: 1.166.753 €; nube: nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1035686"&gt;Ficha de la licitación&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="PUB" label="En plazo" />
+    <category term="1" label="Suministros" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Junta de Andalucía" label="Junta de Andalucía" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Servicio Andaluz de Salud</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19767687</id>
+    <title>Subministrament de la solució integral (SaaS) de gestió de la còpia de seguretat i restauració, al núvol, de la plataforma Microsoft 365 de la Diputació de Barcelona · Diputació de Barcelona · 1.361.835 €</title>
+    <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/a0eabd25-6959-488b-90f1-89a081b8eaa1/300939120" />
+    <updated>2026-11-16T10:06:41+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Adjudicada → Resuelta · Generalitat de Catalunya · plazo hasta 2026-06-25 14:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Diputació de Barcelona&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Diputació de Barcelona&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/0004487&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.361.835 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.634.202 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72910000;30234000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES511&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-06-25 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;ITGLOBAL, S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;877.854 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-16&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72910000; tamano: 1.361.835 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/a0eabd25-6959-488b-90f1-89a081b8eaa1/300939120"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302312523/FEB2F2F117ABA25EC70CEFA6F4E3A9DA"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302312524/8C2551D6674037308B59E7AA8EAC7C22"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/11202843"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="RES" label="Resuelta" />
+    <category term="1" label="Suministros" />
+    <category term="Entidades locales" label="Entidades locales" />
+    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Diputació de Barcelona</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20541038</id>
+    <title>L'objecte del contracte és l'adquisició d'un sistema de gestió municipal integrat i integral, implantació, evolució i manteniment en modalitat de servei (Software as a Service - SaaS), incloent les llicències d'ús, la infraestructura necessària, així com tots els serveis professionals associats per a la seva implantació, explotació i millora contínua.
+La contractació inclou, entre d'altres, els serveis d'anàlisi funcional, disseny de procediments, consultoria organitzativa, migració de dades, configuració, parametrització, integració amb sistemes interns i externs, formació, gestió del canvi, posada en producció, suport funcional i tècnic, manteniment correctiu, preventiu, adaptatiu i evolutiu, així com els serveis de continuïtat i reversibilitat necessaris per garantir la correcta prestació del servei durant tota la vigència contractual.
+La solució haurà de proporcionar una plataforma corporativa integrada basada en el principi de dada única, que permeti gestionar de forma transversal els procediments administratius, econòmics, tributaris, patrimonials, territorials i d'atenció ciutadana de l'Ajuntament d'Olot i dels seus ens dependents, evitant duplicitats d'informació i afavorint la interoperabilitat entre tots els àmbits de gestió.
+Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica dels procediments administratius, el registre electrònic, la gestió documental, l'arxiu electrònic, la identitat digital i la signatura electrònica, la seu electrònica i la carpeta ciutadana, el padró municipal d'habitants, la gestió territorial, la gestió tributària i recaptatòria en voluntària i executiva, la comptabilitat pública, la tresoreria, el patrimoni municipal, els òrgans col·legiats, els sistemes d'informació executiva, automatitzacions i la resta de funcionalitats descrites al Plec de Prescripcions Tècniques. 
+(Veure clàusula 1 del PCAP) · Ajuntament d'Olot · 1.190.909 €</title>
+    <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/652f0f3a-9a66-4391-8818-600377319984/300939216" />
+    <updated>2026-11-16T10:05:32+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-09 14:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ajuntament d&amp;#x27;Olot&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Ajuntament d&amp;#x27;Olot&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CCS12026000064&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.190.909 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.838.182 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;72510000;72260000;72263000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES512&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-09 14:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-09-09&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 1.190.909 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/652f0f3a-9a66-4391-8818-600377319984/300939216"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302559689/2D6B2AA9BEACF85C3C2CE9A22A677ACD"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302559913/8475C39EAF8C8AE37D1340F9646E02BA"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/OLOT"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="1" label="Suministros" />
+    <category term="Entidades locales" label="Entidades locales" />
+    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Ajuntament d'Olot</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20816018</id>
     <title>Suministro de infraestructura en la nube Oracle Cloud para la gestión de la movilidad internacional de la Universidad de Alcalá · Gerencia de la Universidad de Alcalá · 14.500 €</title>
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=RU2MzvgORMji0Kd8%2Brcp6w%3D%3D" />
     <updated>2026-11-15T16:10:29+01:00</updated>
     <published>2026-10-31T06:59:24+00:00</published>
-    <summary type="text">Adjudicada → Resuelta · UNIVERSIDADES · plazo hasta 2026-11-09 14:00 · Suministros</summary>
+    <summary type="text">Resuelta · UNIVERSIDADES · plazo hasta 2026-11-09 14:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Gerencia de la Universidad de Alcalá&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › UNIVERSIDADES › Comunidad de Madrid › Universidad de Alcalá&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/059.SUM.ABRSA.M&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;14.500 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;17.400 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48200000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-09 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;ACEVEDO TECHNOLOGY &amp;amp; CONSULTING CORPORATION, SL&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;13.890 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48200000; cercania: lugar de ejecución ES300; nube: infraestructura en la nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=RU2MzvgORMji0Kd8%2Brcp6w%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=nn/aXGQaJJERcoQi/K3gJOa6cEmynhaFgJ6Kft%2BBSUaMfQz7cuOzdzEOOFHJB8/fDMiCMnVSu/kP0%2BM1/vWsjTFSS4Prymvw7jMu2aoCuloC1/zDIE0Kw/PWNnLS0Z0z"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=iqCLe/PdtOOeeva5wmdkhV%2BGPWhdyizLtcLp0Xnz5JN%2BPx71xsVMzrirKFBWLDQIzmXeXK6C8QDGyanZSKKUcajfj6hCxP%2BVahKHz/yvuL0//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IAcIzOtLQz4QK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="RES" label="Resuelta" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Gerencia de la Universidad de Alcalá</name>
     </author>
@@ -268,27 +419,6 @@ El subministrament comprèn els productes següents:
     <category term="placsp" label="placsp" />
     <author>
       <name>Junta de Gobierno del Ayuntamiento de Boadilla del Monte</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20541038</id>
-    <title>L'objecte del contracte és l'adquisició d'un sistema de gestió municipal integrat i integral, implantació, evolució i manteniment en modalitat de servei (Software as a Service - SaaS), incloent les llicències d'ús, la infraestructura necessària, així com tots els serveis professionals associats per a la seva implantació, explotació i millora contínua.
-La contractació inclou, entre d'altres, els serveis d'anàlisi funcional, disseny de procediments, consultoria organitzativa, migració de dades, configuració, parametrització, integració amb sistemes interns i externs, formació, gestió del canvi, posada en producció, suport funcional i tècnic, manteniment correctiu, preventiu, adaptatiu i evolutiu, així com els serveis de continuïtat i reversibilitat necessaris per garantir la correcta prestació del servei durant tota la vigència contractual.
-La solució haurà de proporcionar una plataforma corporativa integrada basada en el principi de dada única, que permeti gestionar de forma transversal els procediments administratius, econòmics, tributaris, patrimonials, territorials i d'atenció ciutadana de l'Ajuntament d'Olot i dels seus ens dependents, evitant duplicitats d'informació i afavorint la interoperabilitat entre tots els àmbits de gestió.
-Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica dels procediments administratius, el registre electrònic, la gestió documental, l'arxiu electrònic, la identitat digital i la signatura electrònica, la seu electrònica i la carpeta ciutadana, el padró municipal d'habitants, la gestió territorial, la gestió tributària i recaptatòria en voluntària i executiva, la comptabilitat pública, la tresoreria, el patrimoni municipal, els òrgans col·legiats, els sistemes d'informació executiva, automatitzacions i la resta de funcionalitats descrites al Plec de Prescripcions Tècniques. 
-(Veure clàusula 1 del PCAP) · Ajuntament d'Olot · 1.190.909 €</title>
-    <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/652f0f3a-9a66-4391-8818-600377319984/300937803" />
-    <updated>2026-11-13T10:02:07+01:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-09 14:00 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ajuntament d&amp;#x27;Olot&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Ajuntament d&amp;#x27;Olot&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CCS12026000064&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.190.909 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.838.182 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72263000;72260000;48000000;72510000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES512&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-09 14:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-09-09&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72263000; tamano: 1.190.909 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/652f0f3a-9a66-4391-8818-600377319984/300937803"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302559689/2D6B2AA9BEACF85C3C2CE9A22A677ACD"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302559913/8475C39EAF8C8AE37D1340F9646E02BA"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/OLOT"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="EV" label="Pendiente de adjudicación" />
-    <category term="1" label="Suministros" />
-    <category term="Entidades locales" label="Entidades locales" />
-    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Ajuntament d'Olot</name>
     </author>
   </entry>
   <entry>
@@ -2211,23 +2341,6 @@ Els serveis inclosos en aquest contracte són els següents:
     </author>
   </entry>
   <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20719429</id>
-    <title>Renovación suscripciones para Salesforce Marketing Cloud · Centro de Cálculo de Álava, S.A.-Centro de Cálculo de Álava, S.A. · 20.000 €</title>
-    <link rel="alternate" href="https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743845/es_doc/index.html" />
-    <updated>2026-11-04T11:12:31+01:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Pendiente de adjudicación · Gobierno Vasco · plazo hasta 2026-11-04 10:00 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Centro de Cálculo de Álava, S.A.-Centro de Cálculo de Álava, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Gobierno Vasco › Centro de Cálculo de Álava, S.A.&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;27060&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;20.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;20.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES211&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-04 10:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso743845/es_doc/index.html"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13765458&amp;amp;R01HNoPortal=true"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13765460&amp;amp;R01HNoPortal=true"&gt;Pliego técnico&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="EV" label="Pendiente de adjudicación" />
-    <category term="1" label="Suministros" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Gobierno Vasco" label="Gobierno Vasco" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Centro de Cálculo de Álava, S.A.-Centro de Cálculo de Álava, S.A.</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20840779</id>
     <title>El objeto de este contrato es la consecución de los siguientes objetivos:
 
@@ -2493,23 +2606,6 @@ La evolución tecnológica de la actual herramienta CRM Microsoft Dynamics on-pr
     <category term="agregadas" label="agregadas" />
     <author>
       <name>EJIE, S.A. - Sociedad Informática del Gobierno Vasco-Director General, Presidente, Vicepresidente del Consejo de Administración o Consejo de Administraci</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20831480</id>
-    <title>0000571/2026 Suscripción, durante veinticuatro meses, de las licencias de los productos software alojados en la nube (cloud) del fabricante Atlassian necesarios para la gestión de los proyectos de tecnologías de la información y comunicaciones y de la gestión del conocimiento del Servicio Andaluz de Salud, asegurando que estas licencias tienen cubiertos sus requisitos en cuanto a actualización a nuevas versiones del software, acceso a parches y hotfixes, y resolución de las incidencias del producto. · Servicio Andaluz de Salud · 1.166.753 €</title>
-    <link rel="alternate" href="https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1035686" />
-    <updated>2026-11-03T12:42:04+01:00</updated>
-    <published>2026-11-04T06:41:42+00:00</published>
-    <summary type="text">En plazo · Junta de Andalucía · plazo hasta 2026-11-30 15:00 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Servicio Andaluz de Salud&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Junta de Andalucía › Junta de Andalucía&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CONTR 2026 0000369618&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.166.753 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.166.753 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48517000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES618&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-30 15:00:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;2&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-03&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48517000; tamano: 1.166.753 €; nube: nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1035686"&gt;Ficha de la licitación&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="1" label="Suministros" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Junta de Andalucía" label="Junta de Andalucía" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Servicio Andaluz de Salud</name>
     </author>
   </entry>
   <entry>
@@ -3231,23 +3327,6 @@ Ver apartado A del Anexo I · Servicio de Contratación y Compras del Ayuntamien
     </author>
   </entry>
   <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20251655</id>
-    <title>Contractació d'una plataforma d'administració electrònica en modalitat de Programari com a Servei (SaaS). Veure Plecs · Ajuntament d'Esplugues de Llobregat · 684.500 €</title>
-    <link rel="alternate" href="https://contractaciopublica.cat/es/detall-publicacio/9df2551f-1ed2-4440-9a38-d0336feca32a/300893584" />
-    <updated>2026-10-29T14:07:02+01:00</updated>
-    <published>2026-10-30T07:07:32+00:00</published>
-    <summary type="text">Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-09-10 14:00 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ajuntament d&amp;#x27;Esplugues de Llobregat&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Ajuntament d&amp;#x27;Esplugues de Llobregat&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/4616/3106&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;684.500 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.349.300 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72212311;72267000;72212100;48000000;48190000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES511&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-10 14:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-08-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72212311; tamano: 684.500 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/es/detall-publicacio/9df2551f-1ed2-4440-9a38-d0336feca32a/300893584"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302470420/6167D657C5247221C8280B4286D7599B"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302470265/13924E4B1ECD8493EBD0C65C13679E6E"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/3277124"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="EV" label="Pendiente de adjudicación" />
-    <category term="2" label="Servicios" />
-    <category term="Entidades locales" label="Entidades locales" />
-    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Ajuntament d'Esplugues de Llobregat</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20806618</id>
     <title>Renovación de suministro de las licencias de ISL CLOUD ESTÁNDAR. Número de expediente 0007-26GPSU · Gerencia de Servicios Comunitarios de Molina S.A. (SERCOMOSA) · 5.741 €</title>
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=yxy%2BSHCLyMYUqXM96WStVA%3D%3D" />
@@ -3814,23 +3893,6 @@ automatizada de los procesos de personal del Ayuntamiento. · El Puerto de Santa
     </author>
   </entry>
   <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20783618</id>
-    <title>Servei de subministrament i renovació de llicències de Barracuda Cloud-to-Cloud Backup del Consorci per a la Normalització Lingüística · Consorci per a la Normalització Lingüística · 40.222 €</title>
-    <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/771ba571-34ca-4fa7-af3f-217fc497a83b/300918635" />
-    <updated>2026-10-26T18:01:16+01:00</updated>
-    <published>2026-10-27T07:19:32+00:00</published>
-    <summary type="text">En plazo · Generalitat de Catalunya · plazo hasta 2026-11-10 15:00 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consorci per a la Normalització Lingüística&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Consorci per a la Normalització Lingüística&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CPNL-2027-2&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;40.222 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;80.444 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48710000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES51&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-10 15:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-26&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48710000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/771ba571-34ca-4fa7-af3f-217fc497a83b/300918635"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302718268/5E7F7453236B55BFB178D1510AA60FD8"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302718269/802351D1BC451B73737E2010B148DE9B"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/CPNL"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="1" label="Suministros" />
-    <category term="Entidades locales" label="Entidades locales" />
-    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Consorci per a la Normalització Lingüística</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20779714</id>
     <title>Servicio de anonimización de documentos a través de una plataforma web, en modelo software como servicio (SaaS), incorporando condiciones especiales de ejecución.
 Contrato incluido en el PAI EDIL “MOL · Alcaldía del Ayuntamiento de Molina de Segura · 16.000 €</title>
@@ -4002,23 +4064,6 @@ Suscripciones  Por  Core  Físico  De  La  Plataforma  De  Virtualización  De  
     <category term="placsp" label="placsp" />
     <author>
       <name>Gerencia de Viviendas Sociales e Infraestructuras de Canarias S.A.U.</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20390027</id>
-    <title>El contracte inclourà l’ús a una plataforma de gestor d’expedients ( que inclou totes les llicències de les aplicacions sol·licitades i enumerades en l’apartat 4 de requisits funcionals), l’allotjament al cloud, el manteniment, actualització i suport d’aquesta solució d’administració electrònica en modalitat SaaS. · Ajuntament de Mont-roig del Camp · 436.000 €</title>
-    <link rel="alternate" href="https://contractaciopublica.cat/es/detall-publicacio/85b14e8a-e8b2-4af7-ae61-a8ce936615c1/300917630" />
-    <updated>2026-10-23T14:07:49+02:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-09 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ajuntament de Mont-roig del Camp&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Ajuntament de Mont-roig del Camp&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;9912/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;436.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;523.200 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72261000;72268000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES514&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-09 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-09-10&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72261000; tamano: 436.000 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/es/detall-publicacio/85b14e8a-e8b2-4af7-ae61-a8ce936615c1/300917630"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302666347/55D34235EE4CB5ECDF3A4EE9E6CAA0DE"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302666348/8DE34159667379CCA4B30C09F2DF59C3"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/MONT-ROIGDELCAMP"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="EV" label="Pendiente de adjudicación" />
-    <category term="2" label="Servicios" />
-    <category term="Entidades locales" label="Entidades locales" />
-    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Ajuntament de Mont-roig del Camp</name>
     </author>
   </entry>
   <entry>
@@ -4805,27 +4850,6 @@ La herramienta integral de Administración electrónica deberá cumplir con los 
     </author>
   </entry>
   <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20529667</id>
-    <title>L’objecte del contracte consisteix en la implantació i manteniment, en la modalitat de lloguer, d’un programari (SaaS) allotjat al núvol per l’empresa adjudicatària, destinat al control del temps de treball i a la gestió dels recursos humans del personal del Consell Comarcal del Gironès que presta serveis en els edificis següents: seu administrativa (C/ Riera de Mus, 1 A de Girona), Sarrià 221 (av. de França, 221 de Sarrià de Ter), Punt d’Informació Turístic Gironès-Girona (C/ Berenguer Carnicer, 3 de Girona) i monument dels Banys Àrabs (C/ Rei Ferran el Catòlic, s/n de Girona).
-L’execució de l’objecte d’aquest contracte implica, per part de l’empresa adjudicatària, el tractament de dades de caràcter personal del personal del Consell Comarcal del Gironès. L’empresa adjudicatària tractarà aquestes dades en qualitat d’encarregada del tractament per a les finalitats necessàries per a la correcta prestació del servei, incloent-hi la recollida, el registre, la gestió i el tractament de les dades de les persones usuàries donades d’alta com a personal al servei del Consell Comarcal del Gironès.
-El programari subministrat haurà de complir el que estableix el Reglament (UE) 2016/679 del Parlament Europeu i del Consell, de 27 d’abril de 2016, relatiu a la protecció de les persones físiques pel que fa al tractament de dades personals i a la lliure circulació d’aquestes dades (Reglament general de protecció de dades), així com la resta de normativa vigent que resulti aplicable en matèria de protecció de dades personals.
-El present contracte té caràcter mixt, atès que el seu objecte comprèn, de manera indissociable, prestacions pròpies d’un contracte de subministrament i prestacions pròpies d’un contracte de serveis, d’acord amb el que estableix l’article 18 de la Llei 9/2017, de 8 de novembre, de contractes del sector públic (LCSP).
-Concretament, l’objecte del contracte inclou, d’una banda, el subministrament de la llicència d’ús d’un programari de control del temps de treball · Consell Comarcal del Gironès · 19.340 €</title>
-    <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/36b957dd-5520-486b-9a4b-99c83f80c058/300911758" />
-    <updated>2026-10-19T10:06:15+02:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-16 23:59 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consell Comarcal del Gironès&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Consell Comarcal del Gironès&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/32/1403&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;19.340 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;19.340 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48900000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES512&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-16 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-01&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48900000; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/36b957dd-5520-486b-9a4b-99c83f80c058/300911758"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302690862/6696077D33F3472F6DDF4BB9C3A03263"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302690863/7FF7B7FDD8C8F4F199B780C492A2B953"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/CCGIRONES"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="EV" label="Pendiente de adjudicación" />
-    <category term="1" label="Suministros" />
-    <category term="Entidades locales" label="Entidades locales" />
-    <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Consell Comarcal del Gironès</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20329398</id>
     <title>Servei d un assistent IA conversional (XATBOT) en mode SAAS, implantació, parametrització i manteniment · Concejalía Delegada del Ayuntamiento de Eivissa · 38.434 €</title>
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=WOUQAwS%2BiR5LAIVZdUs8KA%3D%3D" />
@@ -5216,23 +5240,6 @@ Els detalls i la resta de requeriments necessaris es descriuen en el Plec de Pre
     <category term="placsp" label="placsp" />
     <author>
       <name>Dirección General de IBERMUTUA, Mutua Colaboradora con la Seguridad Social nº 274</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20233228</id>
-    <title>Suministro en régimen de alquiler de licencias Creative Cloud, Adobe Acrobat y Adobe Acrobat Pro para MAZ M.C.S.S. Nº 11 · Dirección Área Jurídica y Prestación de MAZ, Mutua Colaboradora con la Seguridad Social, Nº 11 · 20.840 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=7HZuAbQtyRQ4NavIWzMcHA%3D%3D" />
-    <updated>2026-10-15T09:12:22+02:00</updated>
-    <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Resuelta · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-09-04 23:59 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección Área Jurídica y Prestación de MAZ, Mutua Colaboradora con la Seguridad Social, Nº 11&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL › Dirección Área Jurídica y Prestación de MAZ, Mutua Colaboradora con la Seguridad Social, Nº 11&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/AS/SUM/0410&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;20.840 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;66.688 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Zaragoza ES243&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-04 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;DISPROIN LEVANTE, S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;11.921 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-10-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=7HZuAbQtyRQ4NavIWzMcHA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=3umbPzbk3XJyAwy1Bn6N4evG6L/pz0HQQVpvMJiuoNVGBM9ipdNkBLdu8iQq0oTGBylNdbZS4DNvVYInT3n7aLSrQgc6dqhVKyesFxGBERAZyAJWGsSt0OzTSTyw9JAs"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=zfdAViCSk%2B%2BbFAvuk6lGjeG48PD1OeEOG0jX09QzikcuDezLBRaHmehwR6AX4TNu0tNS3WQb8mVH8Laz2E7qnp48MRFEdHPzqTq%2BX//c/j2HAj0WEJrB5sP7amrh2jBD"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=PUdqGnD%2BuVGiEJrVRqloyA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="RES" label="Resuelta" />
-    <category term="1" label="Suministros" />
-    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
-    <category term="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" label="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Dirección Área Jurídica y Prestación de MAZ, Mutua Colaboradora con la Seguridad Social, Nº 11</name>
     </author>
   </entry>
 </feed>

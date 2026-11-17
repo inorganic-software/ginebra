@@ -3,7 +3,7 @@
   <title>Ginebra · licitaciones públicas de tecnología</title>
   <subtitle>Licitaciones de software, datos e IA que encajan con nosotros. Últimos 30 días.</subtitle>
   <id>https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed.atom</id>
-  <updated>2026-11-16T07:01:50+00:00</updated>
+  <updated>2026-11-17T06:47:38+00:00</updated>
   <link rel="self" href="https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed.atom" type="application/atom+xml" />
   <link rel="alternate" href="https://github.com/inorganic-software/ginebra" type="text/html" />
   <generator uri="https://github.com/inorganic-software/ginebra">ginebra</generator>
@@ -11,6 +11,78 @@
     <name>Ginebra (inorganic-software)</name>
   </author>
   <rights>Datos: Plataforma de Contratación del Sector Público (datos abiertos).</rights>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20719445</id>
+    <title>Servicios de análisis, operación, soporte y mantenimiento de sistemas de información descritos en el PPT, del Hospital Universitario La Paz · Hospital Universitario La Paz · 2.185.690 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/pa-232026-servicios-analisis-operacion-soporte-mantenimiento-sistemas-informacion" />
+    <updated>2026-11-17T00:25:40+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">En plazo → Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-11-16 18:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Hospital Universitario La Paz&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › Comunidad de Madrid › Gerencia Asistencial de Hospitales&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;P.A. 23/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;2.185.690 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;4.079.955 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72250000;72500000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-16 18:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-27&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72250000; tamano: 2.185.690 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/pa-232026-servicios-analisis-operacion-soporte-mantenimiento-sistemas-informacion"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/pcap_pa_23-2026_cau_hulp.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/ppt_cau_definitivo.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="1" label="Suministros" />
+    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Hospital Universitario La Paz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20666582</id>
+    <title>Mantenimiento del software para el soporte remoto a puestos · Agencia para la Administración Digital de la Comunidad de Madrid · 128.700 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/mantenimiento-software-soporte-remoto-puestos-1" />
+    <updated>2026-11-16T12:11:16+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-11-06 23:59 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Agencia para la Administración Digital de la Comunidad de Madrid&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;ECON/000028/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;128.700 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;347.490 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72267100;72261000;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-06 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-26&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72267100; tamano: 128.700 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/mantenimiento-software-soporte-remoto-puestos-1"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/7-028-26-pcap_fdo_censurado.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/6-028-26-ppt_fdo_censurado.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="2" label="Servicios" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Agencia para la Administración Digital de la Comunidad de Madrid</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20081597</id>
+    <title>El objeto de la contratación versa sobre el suministro de licencias permanentes y mantenimiento, y en caso de que sea una aplicación diferente a la existente, la implantación de una nueva aplicación de gestión académica adaptada a las necesidades actuales del Centro de Enseñanza Superior Cardenal Cisneros. · Fundación Universitaria Fray Francisco Jiménez de Cisneros · 659.368 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/contrato-prestacion-suministro-servicios-relacion-sistema-informacion-gestion" />
+    <updated>2026-11-16T12:11:15+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Anulada · Comunidad de Madrid · plazo hasta 2026-10-15 18:00 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Fundación Universitaria Fray Francisco Jiménez de Cisneros&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › Comunidad de Madrid › Consejería de Educación, Ciencia y Universidades&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;104/26&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Anulada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;659.368 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;659.368 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;72200000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-15 18:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Desistimiento 2026-11-16&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 659.368 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/contrato-prestacion-suministro-servicios-relacion-sistema-informacion-gestion"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-07/06_pliego_administrativo_aplicacion_siga_2026_v08.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-07/07_pliego_tecnico_aplicacion_siga_2026_v06.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ANUL" label="Anulada" />
+    <category term="2" label="Servicios" />
+    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Fundación Universitaria Fray Francisco Jiménez de Cisneros</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20154729</id>
+    <title>El objeto del contrato consiste en la prestación de servicios a la Dirección General de Carreteras de la Comunidad de Madrid para el mantenimiento y la modernización del sistema de aforos de la red de carreteras de la Comunidad de Madrid y asistencia técnica para la mejora en la gestión de la red a través de la adquisición, explotación y visualización de información viaria mediante herramientas Big Data. · Consejería de Vivienda, Transportes e Infraestructuras · 4.419.943 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/mantenimiento-modernizacion-sistema-aforos-red-carreteras-comunidad-madrid" />
+    <updated>2026-11-16T09:56:11+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-08-31 23:59 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Vivienda, Transportes e Infraestructuras&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Vivienda, Transportes e Infraestructuras&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;A/SER-011215/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;4.419.943 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;7.427.150 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;71311000;71311210;50230000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-08-31 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-07-29&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: menciona «big data»; tamano: 4.419.943 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/mantenimiento-modernizacion-sistema-aforos-red-carreteras-comunidad-madrid"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-07/ser.11215.2026_pcap_tras_obser._dgp_25.06.26.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-07/ser.11215.2026_ppt.an.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="2" label="Servicios" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Consejería de Vivienda, Transportes e Infraestructuras</name>
+    </author>
+  </entry>
   <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20913957</id>
     <title>Suministro, instalación y mantenimiento de servidores para Plan Estratégico 2030 y diversas plataformas · Banco de España · 3.140.837 €</title>
@@ -24,7 +96,6 @@
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="INSTITUCIONES INDEPENDIENTES" label="INSTITUCIONES INDEPENDIENTES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Banco de España</name>
     </author>
@@ -42,7 +113,6 @@
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Dirección General de la Fundación EOI</name>
     </author>
@@ -60,7 +130,6 @@
     <category term="Administración General del Estado" label="Administración General del Estado" />
     <category term="Ministerio del Interior" label="Ministerio del Interior" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Gerencia de la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo, M.P.</name>
     </author>
@@ -78,7 +147,6 @@
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)</name>
     </author>
@@ -89,14 +157,13 @@
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=N%2BbA%2B0ocpoD%2Fa9DgO%2BoYKQ%3D%3D" />
     <updated>2026-11-15T06:34:14+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Adjudicada → Adjudicada · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-09-11 14:00 · Suministros</summary>
+    <summary type="text">Adjudicada · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-09-11 14:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES › Ministerio de Hacienda › SEPI › TRAGSA&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;TSA0083883&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;215.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;215.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48625000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-11 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;IaaS365, S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;200.256 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-10-16&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48625000; tamano: 215.000 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=N%2BbA%2B0ocpoD%2Fa9DgO%2BoYKQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=%2Bde5KLB3THnj/J33kZ2M/i7F85nw37CFGs7IHBUdNHv8YvIyMmcmvvetURBbjHVz1pEf0njc09BH45A1X0qIsrUY098Z7HSYy2kcmzq5ecpJOVDbGCDM%2BMigrvuVS7Rv"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=0Z3VDPCr9grWvzH3U%2BimkxbXNw8FGOuLyk5prL8ojNwINDbexgQUTcGCwMk9iobjLl9ZPD7asPSH8Y1kv/smsP4V2RgHx3a2N9BHzF/uZDSB0nvVKRzfe4rpHcnlPhSZ"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=4EFIKYrK%2FKY%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="ADJ" label="Adjudicada" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)</name>
     </author>
@@ -114,7 +181,6 @@
     <category term="Administración General del Estado" label="Administración General del Estado" />
     <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
     </author>
@@ -132,7 +198,6 @@
     <category term="Administración General del Estado" label="Administración General del Estado" />
     <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
     </author>
@@ -150,7 +215,6 @@
     <category term="Administración General del Estado" label="Administración General del Estado" />
     <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
     </author>
@@ -168,7 +232,6 @@
     <category term="Administración General del Estado" label="Administración General del Estado" />
     <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
     </author>
@@ -186,7 +249,6 @@
     <category term="Administración General del Estado" label="Administración General del Estado" />
     <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
     </author>
@@ -204,7 +266,6 @@
     <category term="Administración General del Estado" label="Administración General del Estado" />
     <category term="Ministerio de Hacienda" label="Ministerio de Hacienda" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
     </author>
@@ -292,23 +353,6 @@
     <category term="placsp" label="placsp" />
     <author>
       <name>Director Gerente de FREMAP</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20719445</id>
-    <title>Servicios de análisis, operación, soporte y mantenimiento de sistemas de información descritos en el PPT, del Hospital Universitario La Paz · Hospital Universitario La Paz · 2.185.690 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/pa-232026-servicios-analisis-operacion-soporte-mantenimiento-sistemas-informacion" />
-    <updated>2026-11-13T14:55:50+01:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">En plazo · Comunidad de Madrid · plazo hasta 2026-11-16 18:00 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Hospital Universitario La Paz&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › Comunidad de Madrid › Gerencia Asistencial de Hospitales&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;P.A. 23/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;2.185.690 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;4.079.955 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72250000;72500000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-16 18:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-27&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72250000; tamano: 2.185.690 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/pa-232026-servicios-analisis-operacion-soporte-mantenimiento-sistemas-informacion"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/pcap_pa_23-2026_cau_hulp.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/ppt_cau_definitivo.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="1" label="Suministros" />
-    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Hospital Universitario La Paz</name>
     </author>
   </entry>
   <entry>
@@ -2851,23 +2895,6 @@ La mejora del sistema de vigilancia en salud pública requiere la incorporación
     </author>
   </entry>
   <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20666582</id>
-    <title>Mantenimiento del software para el soporte remoto a puestos · Agencia para la Administración Digital de la Comunidad de Madrid · 128.700 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/mantenimiento-software-soporte-remoto-puestos-1" />
-    <updated>2026-11-10T13:11:03+01:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-11-06 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Agencia para la Administración Digital de la Comunidad de Madrid&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;ECON/000028/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;128.700 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;347.490 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;72267100;72261000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-06 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-26&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 128.700 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/mantenimiento-software-soporte-remoto-puestos-1"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/7-028-26-pcap_fdo_censurado.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/6-028-26-ppt_fdo_censurado.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="EV" label="Pendiente de adjudicación" />
-    <category term="2" label="Servicios" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Agencia para la Administración Digital de la Comunidad de Madrid</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20611876</id>
     <title>Servicio de soporte técnico informático destinado a diversos centros e institutos de la Agencia Estatal Consejo Superior de Investigaciones Científicas. · Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas · 481.320 €</title>
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=DRhU8g94zXHgL1BHd3qjQA%3D%3D" />
@@ -5093,40 +5120,6 @@ La mejora del sistema de vigilancia en salud pública requiere la incorporación
     <category term="placsp" label="placsp" />
     <author>
       <name>Centro Nacional de Investigaciones Cardiovasculares Carlos III (F.S.P.)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20479958</id>
-    <title>Prestación de servicios Compras Corporativas de Navantia en sus diferentes procesos · Comité Central de Compras de Navantia S.A., S.M.E. · 180.000 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=038bSbqSxrIIYE3ZiZ%2BxmQ%3D%3D" />
-    <updated>2026-11-04T08:29:01+01:00</updated>
-    <published>2026-11-05T06:42:35+00:00</published>
-    <summary type="text">Adjudicada · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-10-16 09:00 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Comité Central de Compras de Navantia S.A., S.M.E.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES › Ministerio de Hacienda › SEPI › NAVANTIA&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;5100073955 Prestación de servicios CC 2027&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;180.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;720.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;71300000;72300000;72224000;72600000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-16 09:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;QUEST GLOBAL ENGINEERING ESPAÑA S.L.U.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;135.466 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72300000; tamano: 180.000 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=038bSbqSxrIIYE3ZiZ%2BxmQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=K0pJLBpRv1%2Bb8oN6BQfTQyvfrLxoZJCrEOeP89F4JZtkXHTqRjZISLg2ayV5ZkU2rEwEFI%2BW/tngcefNYcfGLDI7W%2B%2BI1jBB%2Bz1kqLmhubS1aXEvq3KHa/AEHgtDrQw0"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=f0WKn/TOjyihzzXGt2avyJ0fs5vY6nAe5xifrkHD8grDgIpE%2BDfhWyvi6Dd/sEWPuPnC7%2BDBPzEK39kd3Uco/pyt0V/%2BgVtXsm8V6OzZvJyB0nvVKRzfe4rpHcnlPhSZ"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=fUYhwWXpfp8QK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="ADJ" label="Adjudicada" />
-    <category term="2" label="Servicios" />
-    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
-    <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Comité Central de Compras de Navantia S.A., S.M.E.</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20262392</id>
-    <title>El objeto de esta licitación es el servicio de Soporte a Usuarios de la Plataforma NX TEAMCENTER ELCANO (periodo enero-septiembre 2027) · Comité Central de Compras de Navantia S.A., S.M.E. · 170.000 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=56EG7NME%2FpyOUi78BmzhOQ%3D%3D" />
-    <updated>2026-11-04T08:22:16+01:00</updated>
-    <published>2026-11-05T06:42:35+00:00</published>
-    <summary type="text">Adjudicada · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-09-28 14:00 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Comité Central de Compras de Navantia S.A., S.M.E.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES › Ministerio de Hacienda › SEPI › NAVANTIA&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;5100069773 - Soporte Usuarios NX TC ELCANO 2027&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;170.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;190.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72600000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-28 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Accenture S.L.U.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;163.200 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72600000; tamano: 170.000 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=56EG7NME%2FpyOUi78BmzhOQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=FJuCxfaqujafc8n52GofCaFvH8kHzEdS1rSzxmFBNZv0wXG72eI7c7bIt8FMQzlDEXzfYoqpTsOcKMUr58Ul2%2Bn7ThE4lhwVXugvaVbutJgC1/zDIE0Kw/PWNnLS0Z0z"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=wZHwTSabFDVmHqTgQl3LYYIEVldfIyvFeCkOYi%2BeIrHvkFb8InrzWI4w/tXQAY3yU3OKvN2YHI9bbgPVTphJrqYQZSVCPbBT4X0cNUE%2BkSq1aXEvq3KHa/AEHgtDrQw0"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=fUYhwWXpfp8QK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="ADJ" label="Adjudicada" />
-    <category term="2" label="Servicios" />
-    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
-    <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Comité Central de Compras de Navantia S.A., S.M.E.</name>
     </author>
   </entry>
 </feed>
