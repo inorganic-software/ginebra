@@ -3,7 +3,7 @@
   <title>Ginebra · alertas de nube pública</title>
   <subtitle>Licitaciones que mencionan nube pública en cualquier administración española.</subtitle>
   <id>https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed_nube.atom</id>
-  <updated>2026-11-18T06:56:45+00:00</updated>
+  <updated>2026-11-19T06:52:05+00:00</updated>
   <link rel="self" href="https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed_nube.atom" type="application/atom+xml" />
   <link rel="alternate" href="https://github.com/inorganic-software/ginebra" type="text/html" />
   <generator uri="https://github.com/inorganic-software/ginebra">ginebra</generator>
@@ -24,7 +24,6 @@
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Consorcio Universitario del Centro Asociado a la UNED en A Coruña</name>
     </author>
@@ -35,14 +34,13 @@
     <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/571dd48b-ff2f-4eb2-b09a-555e692467b9/300941491" />
     <updated>2026-11-17T16:03:08+01:00</updated>
     <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-30 23:59 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · Generalitat de Catalunya · plazo hasta 2026-10-30 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Fundació Privada I2CAT, Internet i Innovació Digital a Catalunya&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Generalitat de Catalunya › Departament de la Presidència&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026101500&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;202.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;202.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;64200000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES51&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-30 23:59:59&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tamano: 202.000 €; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/571dd48b-ff2f-4eb2-b09a-555e692467b9/300941491"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302685458/F142C94A01D740425705D1C6363A00DB"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302685459/093E3132329DF929CA20F7C39AC0451E"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/I2CAT"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Comunidades autónomas" label="Comunidades autónomas" />
     <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
     <category term="agregadas" label="agregadas" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Fundació Privada I2CAT, Internet i Innovació Digital a Catalunya</name>
     </author>
@@ -53,14 +51,13 @@
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=G9oWpGgxiezN3k3tjedSGw%3D%3D" />
     <updated>2026-11-17T15:34:41+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Canarias · plazo hasta 2026-09-30 23:59 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · Canarias · plazo hasta 2026-09-30 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Alcaldía del Ayuntamiento de Güímar&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Canarias › Santa Cruz de Tenerife › Ayuntamientos › Güímar&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2679/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;576.700 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;576.700 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000;72200000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Extra-Regio NUTS 3 ESZZZ&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-30 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-17&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 576.700 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=G9oWpGgxiezN3k3tjedSGw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=L%2B3NicGS8LjWFZC%2BuUt55zx8UCRI1PCxg1JJx4vrmVgkVHAllQ17L7jN43ehdqlT25qtiLKtR32FiKQqor2Q/9/nad7AJuCmsbmJqIWNSRiB0nvVKRzfe4rpHcnlPhSZ"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=n91uf/6/cDcn0VtcKJUUyMH8pCE/E6%2BICUMC33M6/T2gKoWNTbGY2kZ9vXB%2BGKeWcwYsKDtHmX/ISS6CXVninw0i5CcF94YO8MJ4l7gDfFMC1/zDIE0Kw/PWNnLS0Z0z"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=U09onNSTeHQQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Canarias" label="Canarias" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Alcaldía del Ayuntamiento de Güímar</name>
     </author>
@@ -71,14 +68,13 @@
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=kTxsPWDaOB5%2FP7lJ7Fu0SA%3D%3D" />
     <updated>2026-11-17T14:36:50+01:00</updated>
     <published>2026-10-31T06:59:24+00:00</published>
-    <summary type="text">En plazo → Pendiente de adjudicación · SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS · plazo hasta 2026-11-16 23:59 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS · plazo hasta 2026-11-16 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Instituto Balear de Infraestructuras y Servicios Educativos (IBISEC)&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS › Illes Balears › Instituto Balear de Infraestructuras y Servicios Educativos y Culturales(IBISEC)&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;047-2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;37.541 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;150.165 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48900000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Mallorca ES532&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-16 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-10-30&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48900000; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=kTxsPWDaOB5%2FP7lJ7Fu0SA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=AP1wUx6kjxJhQdUv9wSZN0VQ/VUcFJjC9b0LMn0eFO2ielofYN2YKaXk0ag2bPNRRoH7EwOxFKF1d9BpkffUPy3A82h0/oU/Z46%2B70zNzDTfdyQgZAdTm3EfcUAC7CJ6"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=%2BGXbRN1nK0UhcjRmOv6b1rw3vxHEj%2BLP9V8OEITtmqza5dV2FKj2XBfJ9h2/xpJIfcVrv68L4J8SdQAdXi2%2BX4V%2BhBN98oSST%2BagKcgoeXaB0nvVKRzfe4rpHcnlPhSZ"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=3Qc2pa4c6oQQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS" label="SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Instituto Balear de Infraestructuras y Servicios Educativos (IBISEC)</name>
     </author>
@@ -101,7 +97,6 @@ L’objecte comprèn les següents llicències:
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
     <category term="agregadas" label="agregadas" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Universitat de Barcelona</name>
     </author>
@@ -112,14 +107,13 @@ L’objecte comprèn les següents llicències:
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=kPAssOygZE6GCFcHcNGIlQ%3D%3D" />
     <updated>2026-11-17T13:14:25+01:00</updated>
     <published>2026-10-29T07:16:31+00:00</published>
-    <summary type="text">En plazo → Pendiente de adjudicación · UNIVERSIDADES · plazo hasta 2026-11-12 23:59 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · UNIVERSIDADES · plazo hasta 2026-11-12 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Rectorado de la Universidad Autónoma de Madrid&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › UNIVERSIDADES › Comunidad de Madrid › Universidad Autónoma de Madrid&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2027-S-10&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;36.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;60.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48160000;72267100&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-12 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-10-28&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48160000; cercania: lugar de ejecución ES300; nube: nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=kPAssOygZE6GCFcHcNGIlQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=Pq/KuKa20LwA3p76pICamLMLzzwN1twa83A65YsYf/djx%2B2KIYc70mAhWpaHqmSW2n6jCb5jlXdidjgPlDg965zPsxuuIY3EugyOnpd90mgZyAJWGsSt0OzTSTyw9JAs"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=eQi9%2BuaOBy5XgxNSEV7goeyOK5ooc6FC9UDSnTDSMImQmirnglJWiLppZ6w1%2BdPaMKQF21EejfUUhzidGZw%2BT1KUsVfnXzPhq/55uQpUWYDVTD3T98KC0nSgQFM0q%2B5s"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=2S%2Bw20IJp5sQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Rectorado de la Universidad Autónoma de Madrid</name>
     </author>
@@ -130,14 +124,13 @@ L’objecte comprèn les següents llicències:
     <link rel="alternate" href="https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3682967/es_doc/index.html" />
     <updated>2026-11-17T13:11:33+01:00</updated>
     <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">En plazo → Pendiente de adjudicación · Gobierno Vasco · plazo hasta 2026-11-17 12:00 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · Gobierno Vasco · plazo hasta 2026-11-17 12:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;LANTIK-Diputado Foral y Presidente/a&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Gobierno Vasco › LANTIK&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;6325&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.357.411 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.357.411 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES213&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-17 12:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-17&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 1.357.411 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3682967/es_doc/index.html"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13888634&amp;amp;R01HNoPortal=true"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13888635&amp;amp;R01HNoPortal=true"&gt;Pliego técnico&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Comunidades autónomas" label="Comunidades autónomas" />
     <category term="Gobierno Vasco" label="Gobierno Vasco" />
     <category term="agregadas" label="agregadas" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>LANTIK-Diputado Foral y Presidente/a</name>
     </author>
@@ -156,7 +149,6 @@ La necesidad de esta contratación es dotar al servicio de recursos humanos del 
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Comunidad Valenciana" label="Comunidad Valenciana" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Alcaldía del Ayuntamiento de Xàtiva</name>
     </author>
@@ -174,7 +166,6 @@ La necesidad de esta contratación es dotar al servicio de recursos humanos del 
     <category term="Comunidades autónomas" label="Comunidades autónomas" />
     <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
     <category term="agregadas" label="agregadas" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Consell de l'Audiovisual de Catalunya</name>
     </author>
@@ -192,7 +183,6 @@ La necesidad de esta contratación es dotar al servicio de recursos humanos del 
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Consejo de Administración de ICEX España Exportación e Inversiones, E.P.E.</name>
     </author>
@@ -203,14 +193,13 @@ La necesidad de esta contratación es dotar al servicio de recursos humanos del 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=vNP7Obl2eq%2FCfVQHDepjGQ%3D%3D" />
     <updated>2026-11-17T11:51:32+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">En plazo → Pendiente de adjudicación · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-11-09 12:00 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-11-09 12:00 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Gerencia de Mutua Navarra, Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social 21&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL › Mutua Navarra&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;26-0356&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;8.400 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;43.680 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72268000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Navarra ES220&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-09 12:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-11-04&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72268000; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=vNP7Obl2eq%2FCfVQHDepjGQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=MvGrmzEsVwUL%2BGTmk2HpqMU/9IyYwxprcbs6Wh2nA2Rg89w81b0fW0LLQyKU3AlA%2BKZe8oNp3c9MJzHSGC549sJMD1qs5YbOHV0Ip4QR4hs//q7NB2iMZvNyf0xrJmjt"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=TzHjyq%2BL/K/gUPBO5t1%2BtPrjlSNYvxpbP3FBQ2B9rdt2pitv/X7KZK10mX/jthowqhjAp4%2B83a3Cx09BLfe5L/raSU8zQUMV74AQq%2BZQLIfVTD3T98KC0nSgQFM0q%2B5s"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=Fk1Fu9zWPTM%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" label="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Gerencia de Mutua Navarra, Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social 21</name>
     </author>
@@ -221,14 +210,13 @@ La necesidad de esta contratación es dotar al servicio de recursos humanos del 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=jCLH%2FoT0keM%2Bk2oCbDosIw%3D%3D" />
     <updated>2026-11-17T11:42:20+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS · plazo hasta 2026-06-17 23:59 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS · plazo hasta 2026-06-17 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Promotur Turismo Canarias S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS › Canarias › Promotur Turismo Canarias S.A.&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;eAJ-0042/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;6.000.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;9.825.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000;72611000;72500000;72250000;72300000;72514000;72222300;72600000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES70&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-06-17 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-05-19&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; nube: nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=jCLH%2FoT0keM%2Bk2oCbDosIw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=OBwYu5/l/Jnz7dLgE3OgDZ2FnfDH/uWeJ67M5ZQMkzltjOisFHhTvmLZw%2BKCoVX4zRKysLIJdwaW/ElOsJAC3fcHbUyNlaonu/Vumt1T10GCx2e6p7hqtlp2aFupgHMr"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=swiOQQ0qDFXvb5FdvGU8MafeXAl/EGzxx2kNl2Kc8ELief60k528Ch0T%2BTGDzjffcr3mVq3cwirDa0o0ivAvhYp48ldPvt0MT5%2BwrJIChssZyAJWGsSt0OzTSTyw9JAs"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=xI%2F1lvJGTe0uf4aBO%2BvQlQ%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS" label="SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Promotur Turismo Canarias S.A.</name>
     </author>
@@ -239,14 +227,13 @@ La necesidad de esta contratación es dotar al servicio de recursos humanos del 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=gkrJ3AqSYBF70UvEyYJSGw%3D%3D" />
     <updated>2026-11-17T11:28:22+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Región de Murcia · plazo hasta 2026-10-15 23:59 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · Región de Murcia · plazo hasta 2026-10-15 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Junta de Gobierno Local del Ayuntamiento de Cartagena&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Región de Murcia › Ayuntamientos › Cartagena&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;SE2026/43&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;37.190 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;37.190 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72212600;48614000;48900000;48960000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Murcia ES620&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-15 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-09-28&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72212600; nube: nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=gkrJ3AqSYBF70UvEyYJSGw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=kgo3g92SjNeBUA0nFIUIQgPAq1UcLt3dAnmRFuH2hjOeIdvddYTuNra1LXFPhatNB62Ph1BAUL4JJrf36sfsa1yFLt/mMavNCHWnBVoMIYffdyQgZAdTm3EfcUAC7CJ6"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=Chi5kps6td6sB5bOoDPnnSaZnMnI67G%2BjKxiKpic%2B0pjzKwRb/Sbnlw8M9kQ31RNkeDD5KI/IyBrNQt/%2BT%2BT093B6z0nvipg649Kdpgvors//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=nEU8%2BrO6PkrnSoTX3z%2F7wA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Región de Murcia" label="Región de Murcia" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Junta de Gobierno Local del Ayuntamiento de Cartagena</name>
     </author>
@@ -257,14 +244,13 @@ La necesidad de esta contratación es dotar al servicio de recursos humanos del 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=2HHleLjMSES9Hd5zqvq9cg%3D%3D" />
     <updated>2026-11-17T11:15:55+01:00</updated>
     <published>2026-10-31T06:59:24+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Resuelta · SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS · plazo hasta 2026-11-09 23:59 · Suministros</summary>
+    <summary type="text">Resuelta · SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS · plazo hasta 2026-11-09 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Valenciana d&amp;#x27;Estrategies i Recursos per a la Sostenibilitat Ambiental, Sociedad Anónima&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS › Comunidad Valenciana › Valenciana d&amp;#x27;Estrategies i Recursos per a la Sostenibilitat Ambiental, Sociedad Anónima&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;SDA000/2026/VAERS/0037/CES&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;12.053 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;12.053 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;30200000;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Valencia/València ES523&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-09 23:59:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;1&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Konica Minolta Business Solutions Spain S.A&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;9.690 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-17&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=2HHleLjMSES9Hd5zqvq9cg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=gy85dVkJ/UnVPVuT6joMpw9K6iBNGWezDX5b3axMM2drMsW1NzzVEt1bk07S4/puJ4BWyMcOJ/QElRzIlD0W8yZTCAWLXGTA2WI5bhi/8UZt/o8fNevwsujgRzaBbugn"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=DErvDpxzG0b4qgVKle1D/ClgTWAPDdeWieKn5O76atD73uidbPfGbB2e6pQjX/7SkGG2ISI8HSZPJkcV6nTd4AxfJz7CbdtHhUwG%2Bfa%2BAbjVTD3T98KC0nSgQFM0q%2B5s"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=J03BQUXZ1loQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="RES" label="Resuelta" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS" label="SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Valenciana d'Estrategies i Recursos per a la Sostenibilitat Ambiental, Sociedad Anónima</name>
     </author>
@@ -275,14 +261,13 @@ La necesidad de esta contratación es dotar al servicio de recursos humanos del 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=T8K%2BVahsXYokJPJS%2BPS9vg%3D%3D" />
     <updated>2026-11-17T10:34:33+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Adjudicada → Resuelta · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-11-03 11:00 · Suministros</summary>
+    <summary type="text">Resuelta · SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES · plazo hasta 2026-11-03 11:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección General de la Fundación EOI&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES › Ministerio de Industria y Turismo › Fundación EOI&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026_036_PASS&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;35.837 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;59.511 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;72263000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;España ES&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-03 11:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;EXCENTIA CONSULTORIA, S.L&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;28.453 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-17&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; cercania: órgano con CP 28040; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=T8K%2BVahsXYokJPJS%2BPS9vg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=6zjIcdQy3GKSvq3poJfnExeu/qMUkSMY2KrUaBdtkCErBF34G2QL0/JmgPeiJrD9/iSx1XiFOWAqLo5NVow9rt3o8TY%2B%2BsgXonHEMPXB5tjVTD3T98KC0nSgQFM0q%2B5s"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=h%2B3dBvEIln45Gnk2SJglNWItbRSQUiCE8lczj6CW8VK9iYwqECudCrmAblAK8GvaOKbQFac0KpIAqSb5Gro1dEspg4xfg5WvYXLp8WerUli1aXEvq3KHa/AEHgtDrQw0"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=Xsvz3TMvvrE%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="RES" label="Resuelta" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" label="SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Dirección General de la Fundación EOI</name>
     </author>
@@ -296,14 +281,13 @@ El subministrament comprèn els productes següents:
     <link rel="alternate" href="https://contractaciopublica.cat/ca/detall-publicacio/09c6a307-88d7-43d3-a2e4-c62aedac87f6/300940800" />
     <updated>2026-11-17T10:07:52+01:00</updated>
     <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Adjudicada → Resuelta · Generalitat de Catalunya · plazo hasta 2026-10-22 14:00 · Suministros</summary>
+    <summary type="text">Resuelta · Generalitat de Catalunya · plazo hasta 2026-10-22 14:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Ajuntament de Granollers&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Generalitat de Catalunya › Ajuntament de Granollers&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/115 (109/2026/CONT)&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;44.840 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;53.807 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Otros&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48780000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES511&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-22 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;ASAC COMUNICACIONES SL&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;42.839 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-17&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48780000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contractaciopublica.cat/ca/detall-publicacio/09c6a307-88d7-43d3-a2e4-c62aedac87f6/300940800"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302668117/51B13E2E8DB673B477765246EBBADC0A"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/portal-api/descarrega-document/302668118/1290A62123BE0E48FBE6B73DAEB9559D"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contractaciopublica.cat/perfil/644003"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="RES" label="Resuelta" />
     <category term="1" label="Suministros" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Generalitat de Catalunya" label="Generalitat de Catalunya" />
     <category term="agregadas" label="agregadas" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Ajuntament de Granollers</name>
     </author>
@@ -314,14 +298,13 @@ El subministrament comprèn els productes següents:
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=yXRwNFeKx6k4NavIWzMcHA%3D%3D" />
     <updated>2026-11-17T09:28:37+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Adjudicada · Comunidad de Madrid · plazo hasta 2026-06-16 23:59 · Suministros</summary>
+    <summary type="text">Adjudicada · Comunidad de Madrid · plazo hasta 2026-06-16 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Junta de Gobierno del Ayuntamiento de Pozuelo de Alarcón&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Comunidad de Madrid › Ayuntamientos › Pozuelo de Alarcón&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/PAS/006&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;59.900 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;116.567 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-06-16 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;BL ESPAÑA SOFTWARE, S.L.U&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;1 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-16&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; cercania: lugar de ejecución ES300; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=yXRwNFeKx6k4NavIWzMcHA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=WfmVd5mG1pLJfPe5w3LkP4KaYcOT3v4Z906tLgGm6ZJ8Xdb6DeFTwWW%2B3rz5vi3oIiG7l2mTREtd%2BeKunnKYY9oLWdZSN%2B%2B9C2NrKL66KyCB0nvVKRzfe4rpHcnlPhSZ"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=DlGhAvezVswNFhg9CT0EGO4NGIJL3HNBI4YjPh8UARvp%2BDlDBEuS8iJE/EDpQHkJmUsS4K6U/Eep70ALxdrR7sK844FSgJwkNGTHmz9QmZ2HAj0WEJrB5sP7amrh2jBD"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=7O5%2FJMUj9ncQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="ADJ" label="Adjudicada" />
     <category term="1" label="Suministros" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Junta de Gobierno del Ayuntamiento de Pozuelo de Alarcón</name>
     </author>
@@ -339,7 +322,6 @@ El subministrament comprèn els productes següents:
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Junta de Gobierno Local del Ayuntamiento de Fuenlabrada</name>
     </author>
@@ -350,14 +332,13 @@ El subministrament comprèn els productes següents:
     <link rel="alternate" href="https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso697956/es_doc/index.html" />
     <updated>2026-11-17T09:11:16+01:00</updated>
     <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Adjudicada → Resuelta · Gobierno Vasco · plazo hasta 2026-04-16 23:59 · Suministros</summary>
+    <summary type="text">Resuelta · Gobierno Vasco · plazo hasta 2026-04-16 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Diputación Foral de Álava-Consejo de Gobierno Foral&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Gobierno Vasco › Diputación Foral de Álava&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;SG 43/26&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;175.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;175.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES211&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-04-16 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;ESTUDIOS MEGA S L&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;67.292 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-17&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 175.000 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso697956/es_doc/index.html"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13882037&amp;amp;R01HNoPortal=true"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://www.contratacion.euskadi.eus/ac70cPublicidadWar/downloadDokusiREST/descargaFicheroPublicadoPorIdFichero?idFichero=13882039&amp;amp;R01HNoPortal=true"&gt;Pliego técnico&lt;/a&gt;&lt;/p&gt;</content>
     <category term="RES" label="Resuelta" />
     <category term="1" label="Suministros" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Gobierno Vasco" label="Gobierno Vasco" />
     <category term="agregadas" label="agregadas" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Diputación Foral de Álava-Consejo de Gobierno Foral</name>
     </author>
@@ -375,7 +356,6 @@ El subministrament comprèn els productes següents:
     <category term="Administración General del Estado" label="Administración General del Estado" />
     <category term="Ministerio de Transportes y Movilidad Sostenible" label="Ministerio de Transportes y Movilidad Sostenible" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Presidencia de la Autoridad Portuaria de Gijón</name>
     </author>
@@ -386,14 +366,13 @@ El subministrament comprèn els productes següents:
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=RU2MzvgORMji0Kd8%2Brcp6w%3D%3D" />
     <updated>2026-11-17T08:01:20+01:00</updated>
     <published>2026-10-31T06:59:24+00:00</published>
-    <summary type="text">Resuelta → Resuelta · UNIVERSIDADES · plazo hasta 2026-11-09 14:00 · Suministros</summary>
+    <summary type="text">Resuelta · UNIVERSIDADES · plazo hasta 2026-11-09 14:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Gerencia de la Universidad de Alcalá&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › UNIVERSIDADES › Comunidad de Madrid › Universidad de Alcalá&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/059.SUM.ABRSA.M&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;14.500 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;17.400 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48200000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-09 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;ACEVEDO TECHNOLOGY &amp;amp; CONSULTING CORPORATION, SL&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;13.890 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-15&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48200000; cercania: lugar de ejecución ES300; nube: infraestructura en la nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=RU2MzvgORMji0Kd8%2Brcp6w%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=nn/aXGQaJJERcoQi/K3gJOa6cEmynhaFgJ6Kft%2BBSUaMfQz7cuOzdzEOOFHJB8/fDMiCMnVSu/kP0%2BM1/vWsjTFSS4Prymvw7jMu2aoCuloC1/zDIE0Kw/PWNnLS0Z0z"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=iqCLe/PdtOOeeva5wmdkhV%2BGPWhdyizLtcLp0Xnz5JN%2BPx71xsVMzrirKFBWLDQIzmXeXK6C8QDGyanZSKKUcajfj6hCxP%2BVahKHz/yvuL0//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=IAcIzOtLQz4QK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="RES" label="Resuelta" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Gerencia de la Universidad de Alcalá</name>
     </author>
@@ -404,14 +383,13 @@ El subministrament comprèn els productes següents:
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=6OqpBf6yOzHi0Kd8%2Brcp6w%3D%3D" />
     <updated>2026-11-16T18:08:02+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Adjudicada · UNIVERSIDADES · plazo hasta 2026-11-03 12:00 · Servicios</summary>
+    <summary type="text">Adjudicada · UNIVERSIDADES · plazo hasta 2026-11-03 12:00 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Fundación General de la Universidad de Burgos&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › UNIVERSIDADES › Castilla y León › Universidad de Burgos › Fundación General de la Universidad de Burgos&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;FUBU/2026.000-CTR.SE.06&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;41.322 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;50.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000;72514200&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Burgos ES412&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-03 12:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Enoges Consultores, SL&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;40.999 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-16&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=6OqpBf6yOzHi0Kd8%2Brcp6w%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=Q8LUgtRULVJHoNBoNaktzL8xI75nfzfM8qh4u1I%2BV1PUOSrMMUbwDdcOsm4q1ymKYae/5xyQXo4BSsS744BU6anG03ANj40fNxGMf5FmRFPDdQD9RyhUmzT4jZ2In4zL"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=jQq/ED3oSwUmo%2B1uPPIOqKHD3SbgGdMmqJuyUTOwU6i3qDlJMB1mDdnTw755VRCM8bcdXEEt71M0NA4k04Jw25RoKUyOLU5R%2BwYw5etv4eJ7QB3HKyQaFUExmUVQCerk"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=bRxWSBn6f6d7h85%2Fpmmsfw%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="ADJ" label="Adjudicada" />
     <category term="2" label="Servicios" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Fundación General de la Universidad de Burgos</name>
     </author>
@@ -446,14 +424,13 @@ Adquisición de licencias y derechos de uso de soluciones de software en la nube
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=8b3YStlSWQLyoM4us5k4vw%3D%3D" />
     <updated>2026-11-16T15:26:10+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · UNIVERSIDADES · plazo hasta 2026-06-30 00:00 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · UNIVERSIDADES · plazo hasta 2026-06-30 00:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Rectorado de la Universidad de La Laguna&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › UNIVERSIDADES › Canarias › Universidad de La Laguna&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;18-01/25SDA&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;0 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;51.880.080 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;72200000;72000000;48200000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES709&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-06-30 00:00:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;2&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2025-06-05&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; nube: nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=8b3YStlSWQLyoM4us5k4vw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=autbZxxet%2BFNidPtF99YltqWMyBBm7ISrM5hAz1cNdPvTw%2BJtoXZ7i0/u6rcBrK2h64SYxq74RuVoUsEouYWyQne28HIgShv8QC/KrVmKPe1aXEvq3KHa/AEHgtDrQw0&amp;amp;cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=zWWxIMrr6WjF1fvYCbnQQOwvYsK8XcTDVdb/rkFIt5NqR6q6gJG4YzGfeOP%2BQMzqMnrCNj6%2BL0sUJyVgm%2BuImBteHnfI3yiZ3JVMatByM461aXEvq3KHa/AEHgtDrQw0&amp;amp;cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=3leqzs4p2yoQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Rectorado de la Universidad de La Laguna</name>
     </author>
@@ -464,14 +441,13 @@ Adquisición de licencias y derechos de uso de soluciones de software en la nube
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=%2FmftdvaOIRCP%2Bo96UAV7cQ%3D%3D" />
     <updated>2026-11-16T14:50:42+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Comunidad Valenciana · plazo hasta 2026-10-30 13:00 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · Comunidad Valenciana · plazo hasta 2026-10-30 13:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Pleno de la Diputación Provincial de Castellón&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Comunidad Valenciana › Castellón › Diputación Provincial de Castellón&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;5752/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;338.843 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;338.843 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Restringido&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Castellón/Castelló ES522&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-30 13:00:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;1&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-10-16&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 338.843 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=%2FmftdvaOIRCP%2Bo96UAV7cQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=xfz6izYVKC5fHJhq0ElKVL8KeuYMXLWPc3Xiw8QuEoju%2BklmXBAMMX%2B8OqbySKiyp6oY2n9PGZMiwF5u04C5FrheNG/TeCoDmgr7gWZNDdY//q7NB2iMZvNyf0xrJmjt"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=hKMbSm/95JzCwRvtRImxQQI7bGLOzlrlk2BJjzca51z%2BZ8eGpQJwm0keCGdhhQAmTFg2YWaGOn1mSNPY3iaTnjFqsy8ovTbOXFV1u9nrIab3GVhXrFFqN7yFncy7YfRK"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=X6qUaQPW5TYQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Comunidad Valenciana" label="Comunidad Valenciana" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Pleno de la Diputación Provincial de Castellón</name>
     </author>
@@ -482,14 +458,13 @@ Adquisición de licencias y derechos de uso de soluciones de software en la nube
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=0cb1HS9Au2uopEMYCmrbmw%3D%3D" />
     <updated>2026-11-16T14:16:16+01:00</updated>
     <published>2026-11-03T06:47:27+00:00</published>
-    <summary type="text">En plazo → En plazo · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-11-18 23:59 · Servicios</summary>
+    <summary type="text">En plazo · MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL · plazo hasta 2026-11-18 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL › Unión de Mutuas&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;99/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;96.300 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;96.300 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72910000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Castellón/Castelló ES522&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-18 23:59:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;2&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-11-02&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72910000; nube: nube&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=0cb1HS9Au2uopEMYCmrbmw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=RR3l8PqZ3868FEoVrlBs9lo2j1pMCPUyR/VvrNnJp3xnTH0MsZSOccmGJJBDTag2pPuPbygz1m3Abmr5JUriF7t6eBXDlDJxd2Md8fXP9N5t/o8fNevwsujgRzaBbugn"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=oZ7N8mT81cNZegprzzoqq3v0p6kJ8uH24nlAJmVqOOtjnyYw9DsuxLTcU5V9wKqUOsx10Este1ckMHjoyqlcpfZefFqKCSDG7YKziMIiRFLVTD3T98KC0nSgQFM0q%2B5s"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=dqOqNjceKUAQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="PUB" label="En plazo" />
     <category term="2" label="Servicios" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" label="MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267</name>
     </author>
@@ -517,14 +492,13 @@ Adquisición de licencias y derechos de uso de soluciones de software en la nube
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=L%2BERe%2FRCYvOqb7rCcv76BA%3D%3D" />
     <updated>2026-11-16T13:50:18+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Extremadura · plazo hasta 2026-07-08 15:00 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · Extremadura · plazo hasta 2026-07-08 15:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Alcaldia del Ayuntamiento de Mérida&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Extremadura › Badajoz › Ayuntamientos › Mérida&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;149CM26&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;4.959 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;7.432 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES431&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-07-08 15:00:11&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-06-24&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=L%2BERe%2FRCYvOqb7rCcv76BA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=i7v97XoKp3EYt0T4dom2MdjwIgxctse9ni6YPa0KVFQDLttmatd4NzaOQcbqTcQbatQozOG76Tee2RdHDgvT8uGrSbCPUGZsvtxfiPrRybAC1/zDIE0Kw/PWNnLS0Z0z"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=Tef1kqml9QXDTVc/o438b2clHzml1rXhODi7IUn8DVKAJAvSZLRNcTE9izryxmscN1qefuoV1hCSFjRCtNkIhxzFRUxw5gzZMJafOQkoxbV7QB3HKyQaFUExmUVQCerk"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=aT9pWdFkUVQQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Extremadura" label="Extremadura" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Alcaldia del Ayuntamiento de Mérida</name>
     </author>
@@ -552,14 +526,13 @@ Adquisición de licencias y derechos de uso de soluciones de software en la nube
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=Y1g0oYLCHFB4zIRvjBVCSw%3D%3D" />
     <updated>2026-11-16T12:57:42+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · INSTITUCIONES INDEPENDIENTES · plazo hasta 2026-10-16 14:00 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · INSTITUCIONES INDEPENDIENTES · plazo hasta 2026-10-16 14:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Presidencia de la Federació D&amp;#x27;Entitats Locals de les Illes Balears&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › INSTITUCIONES INDEPENDIENTES › Illes Balears › Federació d´Entitats Locals de les Illes Balears&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;FELIB 1/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;4.891.548 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;9.453.032 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Mallorca ES532&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-16 14:00:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;3&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-10-02&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; tamano: 4.891.548 €; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=Y1g0oYLCHFB4zIRvjBVCSw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=4kOXRlqsKdK2RwsDfXDBUxW7sT5507uXyK8euBSKin6EH%2BSjx2Rh/XXuAUq/IFtJ5bJGcD3cMQIUNtFgyEkDYCS1s4Lp5DH76%2Bg2WsnpzpJ45ClyWkoJ44mKM70IFcOu"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=MG/IifMdfhgEUI2FZPARM6JnndfL5cyQ65tgXCTjUCkSGNnzzmsYAYkUoKLkFEDmXzjK1htJPlguXWn475rZjTNp4%2BKpAgrP9KCo/XnlOU5JOVDbGCDM%2BMigrvuVS7Rv"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=EOrNNKP2ANN7h85%2Fpmmsfw%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="INSTITUCIONES INDEPENDIENTES" label="INSTITUCIONES INDEPENDIENTES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Presidencia de la Federació D'Entitats Locals de les Illes Balears</name>
     </author>
@@ -577,7 +550,6 @@ Adquisición de licencias y derechos de uso de soluciones de software en la nube
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="UNIVERSIDADES" label="UNIVERSIDADES" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Rectorado de la Universidad de Jaén</name>
     </author>
@@ -595,7 +567,6 @@ Adquisición de licencias y derechos de uso de soluciones de software en la nube
     <category term="Entidades locales" label="Entidades locales" />
     <category term="Comunidad Valenciana" label="Comunidad Valenciana" />
     <category term="placsp" label="placsp" />
-    <category term="nuevo" label="nuevo" />
     <author>
       <name>Junta de Gobierno del Ayuntamiento de Paiporta</name>
     </author>
@@ -640,14 +611,13 @@ Adquisición de licencias y derechos de uso de soluciones de software en la nube
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=StvPC%2FfwjybgL1BHd3qjQA%3D%3D" />
     <updated>2026-11-16T11:46:54+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Adjudicada → Resuelta · SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES · plazo hasta 2026-09-03 14:00 · Suministros</summary>
+    <summary type="text">Resuelta · SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES · plazo hasta 2026-09-03 14:00 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Gerencia de Servicios Comunitarios de Molina S.A. (SERCOMOSA)&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES › Región de Murcia › Molina de Segura › Servicios Comunitarios de Molina S.A. (SERCOMOSA)&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;0004-26GPSU&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;22.719 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;22.719 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Negociado sin publicidad&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48330000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES620&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-03 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;KLOSIONS TIC, S.L.U.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;22.719 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-16&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48330000; nube: saas&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=StvPC%2FfwjybgL1BHd3qjQA%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=K%2B1tQqKVN9rnSoTX3z%2F7wA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="RES" label="Resuelta" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES" label="SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Gerencia de Servicios Comunitarios de Molina S.A. (SERCOMOSA)</name>
     </author>
@@ -713,14 +683,13 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=vPFE4jMVpQLLIx6q1oPaMg%3D%3D" />
     <updated>2026-11-16T09:47:47+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · INSTITUCIONES INDEPENDIENTES · plazo hasta 2026-10-21 23:59 · Suministros</summary>
+    <summary type="text">Pendiente de adjudicación · INSTITUCIONES INDEPENDIENTES · plazo hasta 2026-10-21 23:59 · Suministros</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Cámara de Cuentas de Andalucía&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › INSTITUCIONES INDEPENDIENTES › Andalucía › Cámara de Cuentas de Andalucía&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;1978/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;29.569 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;29.569 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48000000;30200000;48732000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Sevilla ES618&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-21 23:59:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;2&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de pliegos 2026-10-06&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48000000; nube: cloud&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=vPFE4jMVpQLLIx6q1oPaMg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=aOViIZxFY8K8iCTeDoEqcfRTXyWWXuGNBnW44zdKLe8/jckvm9j7r7y/mFKQI%2BqsurY8UyT1Wyb8zrGuaA6CnprTxCpRb90yodxF0V1lNxzDdQD9RyhUmzT4jZ2In4zL"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=DErvDpxzG0b4qgVKle1D/LC0AUlXrFsWg5rTTqqF/5P8VbKQG19MsYwDD8VpL3TlHepGb9iIRvw9aLObiscPqIRN3m6Xmng9r0HI1B5ATBnVTD3T98KC0nSgQFM0q%2B5s"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=U%2FmvozTXcaE%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="1" label="Suministros" />
     <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
     <category term="INSTITUCIONES INDEPENDIENTES" label="INSTITUCIONES INDEPENDIENTES" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Cámara de Cuentas de Andalucía</name>
     </author>
@@ -731,14 +700,13 @@ Com a mínim, la plataforma haurà de donar cobertura a la gestió electrònica 
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=O6LCHirIlgMtm4eBPtV6eQ%3D%3D" />
     <updated>2026-11-16T09:21:24+01:00</updated>
     <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Comunidad Autónoma de Canarias · plazo hasta 2026-10-22 23:59 · Servicios</summary>
+    <summary type="text">Pendiente de adjudicación · Comunidad Autónoma de Canarias · plazo hasta 2026-10-22 23:59 · Servicios</summary>
     <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección del Servicio Canario de Salud&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad Autónoma de Canarias › Consejería de Sanidad › Servicio Canario de la Salud&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;SER/2026/0000002565&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;720.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;900.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72267100&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Canarias ES70&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-22 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-09-23&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72267100; tamano: 720.000 €; nube: software como servicio&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=O6LCHirIlgMtm4eBPtV6eQ%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=jBrDLAnUH6fzxvdbrSU5ct0CMj7FT82BnGyrEqJX3gi%2Bd63naj9oaxLjjh18gz4bFO4qBNko42tJIjWVCIiBvwVeJp3v0sMYS1/hx2dal0TVTD3T98KC0nSgQFM0q%2B5s"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=qrFupCYspish4Dej1e4D3ggP5sGwfnyA7SgmdakQGdSOPyvRIHHQS3JqZpqFyD0%2BD5juJJ50M14vm1YWu8kl6s3ul2J4yIqrTam%2Bwp0sHzU//q7NB2iMZvNyf0xrJmjt"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=1XKauQEe2cEQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
     <category term="EV" label="Pendiente de adjudicación" />
     <category term="2" label="Servicios" />
     <category term="Comunidades autónomas" label="Comunidades autónomas" />
     <category term="Comunidad Autónoma de Canarias" label="Comunidad Autónoma de Canarias" />
     <category term="placsp" label="placsp" />
-    <category term="actualizado" label="actualizado" />
     <author>
       <name>Dirección del Servicio Canario de Salud</name>
     </author>
