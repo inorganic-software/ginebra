@@ -1,42 +1,42 @@
 {
- "generado": "2026-11-19T06:52:05+00:00",
- "ultima_actualizacion": "2026-11-19T06:52:05+00:00",
+ "generado": "2026-11-20T06:53:26+00:00",
+ "ultima_actualizacion": "2026-11-20T06:53:26+00:00",
  "base_de_datos": {
-  "total": 75430,
+  "total": 78306,
   "por_fuente": {
-   "agregadas": 22085,
-   "placsp": 53345
+   "agregadas": 22944,
+   "placsp": 55362
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-11-18T01:00:06.258+01:00"
+  "updated_max": "2026-11-20T01:00:12.796+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 640,
+ "seleccionadas": 676,
  "novedades_ultima_ejecucion": {
-  "nuevo": 0,
-  "actualizado": 0,
-  "baja": 0
+  "nuevo": 2876,
+  "actualizado": 4662,
+  "baja": 7
  },
- "alertas_nube": 385,
+ "alertas_nube": 404,
  "por_administracion": {
-  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 193,
-  "Comunidad de Madrid": 123,
-  "Ministerio de Hacienda": 86,
-  "Ministerio de Defensa": 53,
-  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 24,
-  "INSTITUCIONES INDEPENDIENTES": 22,
+  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 205,
+  "Comunidad de Madrid": 129,
+  "Ministerio de Hacienda": 98,
+  "Ministerio de Defensa": 57,
+  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 25,
+  "INSTITUCIONES INDEPENDIENTES": 23,
   "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 18,
-  "UNIVERSIDADES": 15,
-  "Ministerio del Interior": 13,
-  "Ministerio de Economía, Comercio y Empresa": 12,
-  "Ministerio para la Transformación Digital y de la Función Pública": 12,
+  "Ministerio de Economía, Comercio y Empresa": 14,
+  "UNIVERSIDADES": 14,
+  "Ministerio para la Transformación Digital y de la Función Pública": 13,
+  "Ministerio del Interior": 12,
   "Ministerio de Sanidad": 11,
+  "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 9,
   "Ministerio de Ciencia, Innovación y Universidades": 8,
   "Ministerio de Inclusión, Seguridad Social y Migraciones": 8,
-  "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 8,
-  "Ministerio de Transportes y Movilidad Sostenible": 6,
   "Ministerio de Trabajo y Economía Social": 5,
-  "Ministerio de Cultura": 5,
+  "Ministerio de Transportes y Movilidad Sostenible": 5,
+  "Ministerio de Cultura": 4,
   "Ministerio de Industria y Turismo": 3,
   "Ministerio para la Transición Ecológica y el Reto Demográfico": 3,
   "Ministerio de Asuntos Exteriores, Unión Europea y Cooperación": 2,
@@ -49,6 +49,26 @@
   "Ministerio de Igualdad": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-20T06:53:26+00:00",
+   "fuente": "agregadas",
+   "periodo": "202611",
+   "entradas": 16093,
+   "expedientes": 11536,
+   "nuevos": 859,
+   "actualizados": 1460,
+   "bajas": 1
+  },
+  {
+   "ejecutado_en": "2026-11-20T06:52:43+00:00",
+   "fuente": "placsp",
+   "periodo": "202611",
+   "entradas": 39703,
+   "expedientes": 29032,
+   "nuevos": 2017,
+   "actualizados": 3204,
+   "bajas": 6
+  },
   {
    "ejecutado_en": "2026-11-19T06:52:05+00:00",
    "fuente": "agregadas",
@@ -228,26 +248,6 @@
    "nuevos": 1151,
    "actualizados": 1954,
    "bajas": 7
-  },
-  {
-   "ejecutado_en": "2026-11-10T06:46:19+00:00",
-   "fuente": "agregadas",
-   "periodo": "202611",
-   "entradas": 6971,
-   "expedientes": 5904,
-   "nuevos": 405,
-   "actualizados": 671,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-10T06:45:47+00:00",
-   "fuente": "placsp",
-   "periodo": "202611",
-   "entradas": 16378,
-   "expedientes": 13814,
-   "nuevos": 858,
-   "actualizados": 1564,
-   "bajas": 2
   }
  ],
  "feeds": {
