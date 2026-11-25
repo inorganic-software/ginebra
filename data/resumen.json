@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-24T06:55:38+00:00",
- "ultima_actualizacion": "2026-11-24T06:55:38+00:00",
+ "generado": "2026-11-25T06:52:24+00:00",
+ "ultima_actualizacion": "2026-11-25T06:52:24+00:00",
  "base_de_datos": {
   "total": 81319,
   "por_fuente": {
@@ -13,9 +13,9 @@
  "ventana_dias": 30,
  "seleccionadas": 657,
  "novedades_ultima_ejecucion": {
-  "nuevo": 1278,
-  "actualizado": 2928,
-  "baja": 5
+  "nuevo": 0,
+  "actualizado": 0,
+  "baja": 2
  },
  "alertas_nube": 419,
  "por_administracion": {
@@ -49,6 +49,26 @@
   "Ministerio de Igualdad": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-25T06:52:24+00:00",
+   "fuente": "agregadas",
+   "periodo": "202611",
+   "entradas": 18537,
+   "expedientes": 12783,
+   "nuevos": 0,
+   "actualizados": 0,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-25T06:51:47+00:00",
+   "fuente": "placsp",
+   "periodo": "202611",
+   "entradas": 46496,
+   "expedientes": 32415,
+   "nuevos": 0,
+   "actualizados": 0,
+   "bajas": 2
+  },
   {
    "ejecutado_en": "2026-11-24T06:55:38+00:00",
    "fuente": "agregadas",
@@ -227,26 +247,6 @@
    "expedientes": 22252,
    "nuevos": 111,
    "actualizados": 74,
-   "bajas": 1
-  },
-  {
-   "ejecutado_en": "2026-11-15T06:42:27+00:00",
-   "fuente": "agregadas",
-   "periodo": "202611",
-   "entradas": 11316,
-   "expedientes": 8764,
-   "nuevos": 16,
-   "actualizados": 86,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-15T06:42:15+00:00",
-   "fuente": "placsp",
-   "periodo": "202611",
-   "entradas": 28504,
-   "expedientes": 22105,
-   "nuevos": 30,
-   "actualizados": 27,
    "bajas": 1
   }
  ],
