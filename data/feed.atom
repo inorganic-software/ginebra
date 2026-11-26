@@ -3,7 +3,7 @@
   <title>Ginebra · licitaciones públicas de tecnología</title>
   <subtitle>Licitaciones de software, datos e IA que encajan con nosotros. Últimos 30 días.</subtitle>
   <id>https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed.atom</id>
-  <updated>2026-11-25T06:52:24+00:00</updated>
+  <updated>2026-11-26T06:55:49+00:00</updated>
   <link rel="self" href="https://raw.githubusercontent.com/inorganic-software/ginebra/main/data/feed.atom" type="application/atom+xml" />
   <link rel="alternate" href="https://github.com/inorganic-software/ginebra" type="text/html" />
   <generator uri="https://github.com/inorganic-software/ginebra">ginebra</generator>
@@ -11,6 +11,207 @@
     <name>Ginebra (inorganic-software)</name>
   </author>
   <rights>Datos: Plataforma de Contratación del Sector Público (datos abiertos).</rights>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20881308</id>
+    <title>El contrato tiene por objeto la prestación de un servicio de apoyo para la gestión e incorporación de datos epidemiológicos del Sistema de Vigilancia en Salud Pública con el fin de mejorar la exhaustividad y calidad de los mismos, y con ello su utilidad para el análisis y obtención de conclusiones aptas para la planificación de estrategias de prevención de la enfermedad y evaluación de los efectos de las intervenciones en salud pública, en el ámbito territorial de la Comunidad de Madrid.
+
+
+La mejora del sistema de vigilancia en salud pública requiere la incorporación de los datos del histórico de casos de enfermedades de vigilancia obligatoria, infecciones relacionadas con la asistencia sanitaria y organismos multirresistentes, así como la incorporación de datos relativos a enfermedades no transmisibles objeto de vigilancia. · Consejería de Sanidad · 272.529 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-apoyo-gestion-control-calidad-datos-sistema-informacion-vigilancia-1" />
+    <updated>2026-11-26T00:25:54+01:00</updated>
+    <published>2026-11-11T06:48:48+00:00</published>
+    <summary type="text">En plazo → Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-11-25 23:59 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Sanidad&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Sanidad&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;A/SER-039924/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;272.529 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;545.058 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72316000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-25 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-19&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72316000; tamano: 272.529 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-apoyo-gestion-control-calidad-datos-sistema-informacion-vigilancia-1"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/04_pcap.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/05_ppt.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="2" label="Servicios" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Consejería de Sanidad</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20881520</id>
+    <title>Es objeto del contrato el apoyo a la Administración autonómica para posibilitar la incorporación de contenidos en materia de consumo en el Portal del Consumidor, alojado en la web institucional de la Comunidad de Madrid (https://www.comunidad.madrid/consumo) con el contenido y alcance señalado en el Pliego de Prescripciones Técnicas Particulares. · Consejería de Economía, Hacienda y Empleo · 118.768 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/apoyo-elaboracion-actualizacion-gestion-contenidos-servicios-portal-consumidor-8" />
+    <updated>2026-11-26T00:25:54+01:00</updated>
+    <published>2026-11-11T06:48:48+00:00</published>
+    <summary type="text">En plazo → Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-11-25 23:59 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Economía, Hacienda y Empleo&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Economía, Hacienda y Empleo&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;A/SER-041856/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;118.768 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;261.290 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-25 23:59:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;2&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-18&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 118.768 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/apoyo-elaboracion-actualizacion-gestion-contenidos-servicios-portal-consumidor-8"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/pcap_f.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/ppt_1.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="2" label="Servicios" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Consejería de Economía, Hacienda y Empleo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20307931</id>
+    <title>Desarrollo, implantación y mantenimiento de una plataforma digital de traspaso y relevo de negocios en la Comunidad de Madrid · Consejería de Economía, Hacienda y Empleo · 780.496 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/desarrollo-implantacion-mantenimiento-plataforma-digital-traspaso-relevo-0" />
+    <updated>2026-11-25T15:11:15+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-09-15 23:59 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Economía, Hacienda y Empleo&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Economía, Hacienda y Empleo&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;A/SER-014219/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;780.496 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;979.385 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72253200;72230000;72261000;72310000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-15 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-08-25&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72253200; tamano: 780.496 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/desarrollo-implantacion-mantenimiento-plataforma-digital-traspaso-relevo-0"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-08/pcap_tapado_manual.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-08/ppt_tapado_manual.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="2" label="Servicios" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Consejería de Economía, Hacienda y Empleo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19904353</id>
+    <title>El objeto del contrato es la creación y puesta en marcha de una plataforma de formación en competencias digitales para la ciudadanía de la Comunidad de Madrid con el fin de consolidarla como la herramienta central de referencia para la capacitación digital en el ámbito autonómico · Consejería de Digitalización · 3.966.417 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicios-integrales-sistema-capacitacion-digital-comunidad-madrid-madrid-aula" />
+    <updated>2026-11-25T14:41:21+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Adjudicada → Adjudicada · Comunidad de Madrid · plazo hasta 2026-07-09 23:59 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;A/SER-046771/2025&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;3.966.417 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;6.573.875 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;79340000;72212445;72260000;79342000;72222300;80510000;72212931;72253000;80420000;72316000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-07-09 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;UTE BABEL SISTEMAS DE INFORMACIÓN, S.L.U.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;1.999.578 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-10-28&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72212445; tamano: 3.966.417 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicios-integrales-sistema-capacitacion-digital-comunidad-madrid-madrid-aula"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-06/doc_27_pcap280526.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-06/doc_6_ppt_v7._27.05.2026_anonimizado.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="ADJ" label="Adjudicada" />
+    <category term="2" label="Servicios" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Consejería de Digitalización</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20899221</id>
+    <title>La prestación del servicio integral de comunicación corporativa digital y en medios y soportes no digitales de Radio Televisión Madrid (RTVM) mediante la externalización de las funciones necesarias para la planificación, creación, producción, difusión, seguimiento y optimización de la comunicación corporativa y promocional de la entidad, incrementadas con el lanzamiento de la nueva plataforma OTT de RTVM, TLMad. · Radio Televisión Madrid, S.A. · 199.422 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-comunicacion-corporativa-digital-medios-soportes-no-digitales-rtvm-sau" />
+    <updated>2026-11-25T11:41:27+01:00</updated>
+    <published>2026-11-13T06:49:13+00:00</published>
+    <summary type="text">En plazo → En plazo · Comunidad de Madrid · plazo hasta 2026-11-30 14:00 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Radio Televisión Madrid, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Otras entidades del sector Público&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026-0483-MIC&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;199.422 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;199.422 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000;79340000;92400000;92312211;72400000;92111200&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-30 14:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-12&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 199.422 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-comunicacion-corporativa-digital-medios-soportes-no-digitales-rtvm-sau"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/pliego_juridico_anonim.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/pliego_tecnico_anonim.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="PUB" label="En plazo" />
+    <category term="2" label="Servicios" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Radio Televisión Madrid, S.A.</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20463753</id>
+    <title>Suministro del software VMWARE para la virtualización de la infraestructura de servidores de Canal de Isabel II, S.A., M.P. · Canal de Isabel II, S.A. · 1.429.297 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-software-vmware-virtualizacion-infraestructura-servidores-canal-isabel" />
+    <updated>2026-11-25T09:41:33+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-11-13 23:59 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Canal de Isabel II, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Medio Ambiente, Agricultura e Interior&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;134-2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.429.297 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.429.297 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72268000;48517000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-13 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-09-28&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72268000; tamano: 1.429.297 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-software-vmware-virtualizacion-infraestructura-servidores-canal-isabel"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-09/2026_134_2_ppt_cs.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="1" label="Suministros" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Canal de Isabel II, S.A.</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19491094</id>
+    <title>Servicios de mantenimiento y desarrollo de las aplicaciones de mantenimiento de infraestructuras de Canal de Isabel II S.A. M.P. (Máximo) · Canal de Isabel II, S.A. · 3.659.375 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicios-mantenimiento-desarrollo-aplicaciones-mantenimiento-infraestructuras" />
+    <updated>2026-11-25T09:41:32+01:00</updated>
+    <published>2026-11-12T06:51:32+00:00</published>
+    <summary type="text">Pendiente de adjudicación → Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-05-19 23:59 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Canal de Isabel II, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Medio Ambiente, Agricultura e Interior&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;207-2025&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;3.659.375 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;4.159.302 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72600000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-05-19 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-04-23&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72600000; tamano: 3.659.375 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicios-mantenimiento-desarrollo-aplicaciones-mantenimiento-infraestructuras"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-04/2025_207_2_pcap_fdo_cs.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-04/2025_207_3_ppt_cs.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="2" label="Servicios" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Canal de Isabel II, S.A.</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20849804</id>
+    <title>Servicio de mantenimiento y soporte para la tienda “Shopify” de Metro de Madrid · Metro de Madrid, S.A. · 144.000 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-mantenimiento-soporte-tienda-shopify-metro-madrid" />
+    <updated>2026-11-25T08:41:30+01:00</updated>
+    <published>2026-11-06T06:45:33+00:00</published>
+    <summary type="text">En plazo → Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-11-24 12:00 · Servicios</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Metro de Madrid, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Vivienda, Transportes e Infraestructuras&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;6012600289&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;144.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;192.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000;48000000;72413000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-24 12:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-05&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 144.000 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-mantenimiento-soporte-tienda-shopify-metro-madrid"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/6012600289_pcp_signed.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/6012600289_ppt_signed.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="EV" label="Pendiente de adjudicación" />
+    <category term="2" label="Servicios" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Metro de Madrid, S.A.</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17989627</id>
+    <title>Suministro para la suscripción de licencias de los productos de la suite infoworks para modelado de redes de abastecimiento y saneamiento de Canal de Isabel II, S.A., M.P. · Canal de Isabel II, S.A. · 772.940 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-suscripcion-licencias-productos-suite-infoworks-modelado-redes" />
+    <updated>2026-11-24T13:41:32+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">Resuelta → Resuelta · Comunidad de Madrid · plazo hasta 2025-10-13 14:00 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Canal de Isabel II, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Medio Ambiente, Agricultura e Interior&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;117-2025&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;772.940 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;772.940 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48332000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2025-10-13 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;SEYS CAD SYSTEMS, S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;615.779 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-11-24&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48332000; tamano: 772.940 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-suscripcion-licencias-productos-suite-infoworks-modelado-redes"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2025-09/117_2025_pcap_fdo_cs.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2025-09/2025_117_2_ppt_cs.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="RES" label="Resuelta" />
+    <category term="1" label="Suministros" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Canal de Isabel II, S.A.</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19601123</id>
+    <title>Contrato de obras de renovación de las instalaciones de Megafonía, CCTV y Control de accesos en los Teatros del Canal. CYII 2026/34 · Canal de Isabel II, Ente Público · 274.185 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/contrato-obras-renovacion-instalaciones-megafonia-cctv-control-accesos-teatros" />
+    <updated>2026-11-24T12:11:25+01:00</updated>
+    <published>2026-11-26T06:55:39+00:00</published>
+    <summary type="text">Resuelta · Comunidad de Madrid · plazo hasta 2026-05-25 14:00 · Obras</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Canal de Isabel II, Ente Público&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Medio Ambiente, Agricultura e Interior&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;CYII 2026/34&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;274.185 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;274.185 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Obras&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto simplificado&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;32235000;48952000;45310000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-05-25 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;ELECNOR SEGURIDAD, S.L.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;203.666 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2026-07-07&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48952000; tamano: 274.185 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/contrato-obras-renovacion-instalaciones-megafonia-cctv-control-accesos-teatros"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-05/pcap_megafonia_cctv_teatros_de_canal_2026-34.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-04/proyecto_renovacion_inst_teatrocanal_mad_2.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="RES" label="Resuelta" />
+    <category term="3" label="Obras" />
+    <category term="Comunidades autónomas" label="Comunidades autónomas" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="nuevo" label="nuevo" />
+    <author>
+      <name>Canal de Isabel II, Ente Público</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20719445</id>
+    <title>Servicios de análisis, operación, soporte y mantenimiento de sistemas de información descritos en el PPT, del Hospital Universitario La Paz · Hospital Universitario La Paz · 2.185.690 €</title>
+    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/pa-232026-servicios-analisis-operacion-soporte-mantenimiento-sistemas-informacion" />
+    <updated>2026-11-24T08:56:02+01:00</updated>
+    <published>2026-10-23T04:40:03+00:00</published>
+    <summary type="text">En plazo → En plazo · Comunidad de Madrid · plazo hasta 2026-12-15 17:58 · Suministros</summary>
+    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Hospital Universitario La Paz&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › Comunidad de Madrid › Gerencia Asistencial de Hospitales&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;P.A. 23/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;2.185.690 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;4.079.955 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72500000;72250000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-12-15 17:58:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-27&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72500000; tamano: 2.185.690 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/pa-232026-servicios-analisis-operacion-soporte-mantenimiento-sistemas-informacion"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/pcap_pa_23-2026_cau_hulp.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/ppt_cau_definitivo.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
+    <category term="PUB" label="En plazo" />
+    <category term="1" label="Suministros" />
+    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
+    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
+    <category term="agregadas" label="agregadas" />
+    <category term="actualizado" label="actualizado" />
+    <author>
+      <name>Hospital Universitario La Paz</name>
+    </author>
+  </entry>
   <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20967712</id>
     <title>servicio de registro, digitalización, grabación de datos y tratamiento de la documentación física y electrónica de la Comisión Nacional del Mercado de Valores · Comisión Nacional del Mercado de Valores · 195.000 €</title>
@@ -2107,23 +2308,6 @@ El objeto del contrato se concreta en la contratación de los servicios de apoyo
     </author>
   </entry>
   <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20881520</id>
-    <title>Es objeto del contrato el apoyo a la Administración autonómica para posibilitar la incorporación de contenidos en materia de consumo en el Portal del Consumidor, alojado en la web institucional de la Comunidad de Madrid (https://www.comunidad.madrid/consumo) con el contenido y alcance señalado en el Pliego de Prescripciones Técnicas Particulares. · Consejería de Economía, Hacienda y Empleo · 118.768 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/apoyo-elaboracion-actualizacion-gestion-contenidos-servicios-portal-consumidor-8" />
-    <updated>2026-11-19T14:11:29+01:00</updated>
-    <published>2026-11-11T06:48:48+00:00</published>
-    <summary type="text">En plazo · Comunidad de Madrid · plazo hasta 2026-11-25 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Economía, Hacienda y Empleo&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Economía, Hacienda y Empleo&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;A/SER-041856/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;118.768 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;261.290 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-25 23:59:00&lt;/dd&gt;&lt;dt&gt;Lotes&lt;/dt&gt;&lt;dd&gt;2&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-18&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72000000; tamano: 118.768 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/apoyo-elaboracion-actualizacion-gestion-contenidos-servicios-portal-consumidor-8"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/pcap_f.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/ppt_1.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="2" label="Servicios" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Consejería de Economía, Hacienda y Empleo</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20677162</id>
     <title>Recogida de datos de la Encuesta Cuatrienal de Estructura Salarial 2026 · Instituto Nacional de Estadística INE · 1.346.710 €</title>
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=v6pJFlVhqdQQyBAnWzHfCg%3D%3D" />
@@ -2192,26 +2376,6 @@ El objeto del contrato se concreta en la contratación de los servicios de apoyo
     </author>
   </entry>
   <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20881308</id>
-    <title>El contrato tiene por objeto la prestación de un servicio de apoyo para la gestión e incorporación de datos epidemiológicos del Sistema de Vigilancia en Salud Pública con el fin de mejorar la exhaustividad y calidad de los mismos, y con ello su utilidad para el análisis y obtención de conclusiones aptas para la planificación de estrategias de prevención de la enfermedad y evaluación de los efectos de las intervenciones en salud pública, en el ámbito territorial de la Comunidad de Madrid.
-
-
-La mejora del sistema de vigilancia en salud pública requiere la incorporación de los datos del histórico de casos de enfermedades de vigilancia obligatoria, infecciones relacionadas con la asistencia sanitaria y organismos multirresistentes, así como la incorporación de datos relativos a enfermedades no transmisibles objeto de vigilancia. · Consejería de Sanidad · 272.529 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-apoyo-gestion-control-calidad-datos-sistema-informacion-vigilancia-1" />
-    <updated>2026-11-19T12:42:30+01:00</updated>
-    <published>2026-11-11T06:48:48+00:00</published>
-    <summary type="text">En plazo · Comunidad de Madrid · plazo hasta 2026-11-25 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Sanidad&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Sanidad&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;A/SER-039924/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;272.529 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;545.058 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72316000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-25 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-19&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72316000; tamano: 272.529 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-apoyo-gestion-control-calidad-datos-sistema-informacion-vigilancia-1"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/04_pcap.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/05_ppt.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="2" label="Servicios" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Consejería de Sanidad</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16268086</id>
     <title>servicio para la realización de pruebas de diagnóstico oftalmológico basado en inteligencia artificial para el Servicio de Oftalmología del Hospital Universitario La Paz. · Hospital Universitario La Paz · 1.036.000 €</title>
     <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/pa-92024-servicio-realizacion-pruebas-diagnostico-oftalmologico-basado" />
@@ -2260,23 +2424,6 @@ La mejora del sistema de vigilancia en salud pública requiere la incorporación
     <category term="agregadas" label="agregadas" />
     <author>
       <name>Organismo Autónomo Consorcio Regional de Transportes Regulares de Madrid.</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19904353</id>
-    <title>El objeto del contrato es la creación y puesta en marcha de una plataforma de formación en competencias digitales para la ciudadanía de la Comunidad de Madrid con el fin de consolidarla como la herramienta central de referencia para la capacitación digital en el ámbito autonómico · Consejería de Digitalización · 3.966.417 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicios-integrales-sistema-capacitacion-digital-comunidad-madrid-madrid-aula" />
-    <updated>2026-11-19T12:42:08+01:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Adjudicada · Comunidad de Madrid · plazo hasta 2026-07-09 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Digitalización&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;A/SER-046771/2025&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;3.966.417 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;6.573.875 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72260000;72212445;72222300;80510000;80420000;79340000;79342000;72316000;72212931;72253000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-07-09 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;UTE BABEL SISTEMAS DE INFORMACIÓN, S.L.U.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;1.999.578 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-10-28&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72260000; tamano: 3.966.417 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicios-integrales-sistema-capacitacion-digital-comunidad-madrid-madrid-aula"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-06/doc_27_pcap280526.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-06/doc_6_ppt_v7._27.05.2026_anonimizado.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="ADJ" label="Adjudicada" />
-    <category term="2" label="Servicios" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Consejería de Digitalización</name>
     </author>
   </entry>
   <entry>
@@ -2842,23 +2989,6 @@ arquitecturas de sistemas, excluyendo su desarrollo, implantación y puesta en f
     <category term="placsp" label="placsp" />
     <author>
       <name>Junta de Coordinación del Defensor del Pueblo</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20849804</id>
-    <title>Servicio de mantenimiento y soporte para la tienda “Shopify” de Metro de Madrid · Metro de Madrid, S.A. · 144.000 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-mantenimiento-soporte-tienda-shopify-metro-madrid" />
-    <updated>2026-11-18T12:26:13+01:00</updated>
-    <published>2026-11-06T06:45:33+00:00</published>
-    <summary type="text">En plazo · Comunidad de Madrid · plazo hasta 2026-11-24 12:00 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Metro de Madrid, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Vivienda, Transportes e Infraestructuras&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;6012600289&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;144.000 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;192.000 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72413000;72000000;48000000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-24 12:00:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-11-05&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72413000; tamano: 144.000 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-mantenimiento-soporte-tienda-shopify-metro-madrid"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/6012600289_pcp_signed.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-11/6012600289_ppt_signed.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="2" label="Servicios" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Metro de Madrid, S.A.</name>
     </author>
   </entry>
   <entry>
@@ -3782,23 +3912,6 @@ Se destaca que este contrato de asistencia técnica es complementario y se disti
     </author>
   </entry>
   <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20719445</id>
-    <title>Servicios de análisis, operación, soporte y mantenimiento de sistemas de información descritos en el PPT, del Hospital Universitario La Paz · Hospital Universitario La Paz · 2.185.690 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/pa-232026-servicios-analisis-operacion-soporte-mantenimiento-sistemas-informacion" />
-    <updated>2026-11-17T08:40:42+01:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">En plazo · Comunidad de Madrid · plazo hasta 2026-12-15 17:58 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Hospital Universitario La Paz&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Otras entidades del sector público › Comunidad de Madrid › Gerencia Asistencial de Hospitales&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;P.A. 23/2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;En plazo&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;2.185.690 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;4.079.955 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72500000;72250000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-12-15 17:58:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-10-27&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72500000; tamano: 2.185.690 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/pa-232026-servicios-analisis-operacion-soporte-mantenimiento-sistemas-informacion"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/pcap_pa_23-2026_cau_hulp.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-10/ppt_cau_definitivo.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="PUB" label="En plazo" />
-    <category term="1" label="Suministros" />
-    <category term="Otras entidades del sector público" label="Otras entidades del sector público" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Hospital Universitario La Paz</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20350578</id>
     <title>Servicios de mantenimiento preventivo, correctivo, evolutivo e incorporación de nuevas funcionalidades a las aplicaciones móviles y sistemas de información al cliente. · Empresa Municipal de Transportes de Madrid, S.A. · 1.666.800 €</title>
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=EqpE6xn2x48UqXM96WStVA%3D%3D" />
@@ -4431,23 +4544,6 @@ Turismo De España O.A. (Turespaña). (Ministerio De Industria Y Turismo-Institu
     </author>
   </entry>
   <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20463753</id>
-    <title>Suministro del software VMWARE para la virtualización de la infraestructura de servidores de Canal de Isabel II, S.A., M.P. · Canal de Isabel II, S.A. · 1.429.297 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-software-vmware-virtualizacion-infraestructura-servidores-canal-isabel" />
-    <updated>2026-11-14T00:26:00+01:00</updated>
-    <published>2026-10-23T04:40:03+00:00</published>
-    <summary type="text">Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-11-13 23:59 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Canal de Isabel II, S.A.&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Medio Ambiente, Agricultura e Interior&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;134-2026&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.429.297 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;1.429.297 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72268000;48517000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-11-13 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-09-28&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72268000; tamano: 1.429.297 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-software-vmware-virtualizacion-infraestructura-servidores-canal-isabel"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2026-09/2026_134_2_ppt_cs.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="EV" label="Pendiente de adjudicación" />
-    <category term="1" label="Suministros" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Canal de Isabel II, S.A.</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19404143</id>
     <title>Servicio Avanzado de desarrollo, administración, soporte y mantenimiento de la plataforma de Datos.gob.es · Dirección General de la Entidad Pública Empresarial RED.ES · 3.486.844 €</title>
     <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=Y73kBvDb8cTL1rX3q%2FMAPA%3D%3D" />
@@ -5041,91 +5137,6 @@ De Endpoints Para La Agencia Estatal Consejo Superior De Investigaciones Cientí
     <category term="placsp" label="placsp" />
     <author>
       <name>Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18065674</id>
-    <title>Contrato mixto de suministros y  servicios para la Plataforma de gestión jurídica del Ayuntamiento de Madrid · Organismo Autónomo Informática del Ayuntamiento de Madrid · 528.624 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=er5ESTLDNE%2F9pbnDwlaUlg%3D%3D" />
-    <updated>2026-11-13T09:00:36+01:00</updated>
-    <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Pendiente de adjudicación · Comunidad de Madrid · plazo hasta 2026-10-02 23:59 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Organismo Autónomo Informática del Ayuntamiento de Madrid&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Comunidad de Madrid › Ayuntamientos › Madrid › Organismo Autónomo Informatica del Ayuntamiento de Madrid&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;300/2025/00849&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Pendiente de adjudicación&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;528.624 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;973.116 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;48900000;72200000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-10-02 23:59:00&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de licitación 2026-08-26&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48900000; tamano: 528.624 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=er5ESTLDNE%2F9pbnDwlaUlg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=7MP9c2AJkOpRG5ZDazvnPkidTLDXv4UVvZRykoHmoSKUDGP7XDR3xoUOamfeUgkAAIoZj5cZaJRaFLyI3PlFd6fr0QxsYm0k05H2cPBtpUxJOVDbGCDM%2BMigrvuVS7Rv"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=3QfFhpswwlJWerrmB/AoKSDdi0slpnP0alAMaSe5vIxMDkBL%2BCjDE9EYR79cH5VZTSQVyptnHrRnzrQdIOqBLWQN0H8rcorrd/fFrCjkrrG1aXEvq3KHa/AEHgtDrQw0"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=PRxKVrRRVzcQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="EV" label="Pendiente de adjudicación" />
-    <category term="1" label="Suministros" />
-    <category term="Entidades locales" label="Entidades locales" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Organismo Autónomo Informática del Ayuntamiento de Madrid</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12405690</id>
-    <title>Suministro equipos de impresión y digitalización y servicios de impresión, para dar cobertura a las necesidades del Ayuntamiento de Fuenlabrada y sus Organismos Autónomos · Junta de Gobierno Local del Ayuntamiento de Fuenlabrada · 753.660 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=jvfgF3V91VaXQV0WE7lYPw%3D%3D" />
-    <updated>2026-11-13T09:00:00+01:00</updated>
-    <published>2026-11-13T06:48:23+00:00</published>
-    <summary type="text">Resuelta · Comunidad de Madrid · plazo hasta 2023-04-10 23:59 · Suministros</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Junta de Gobierno Local del Ayuntamiento de Fuenlabrada&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Entidades locales › Comunidad de Madrid › Ayuntamientos › Fuenlabrada&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2022/SVA/001942&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;753.660 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;904.392 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Suministros&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;30120000;51000000;48773000;72265000;48773100;30232110&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Comunidad de Madrid ES30&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2023-04-10 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;KYOCERA DOCUMENT SOLUTIONS S.A.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;402.655 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Modificación de contrato 2026-11-13&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 48773000; tamano: 753.660 €; cercania: lugar de ejecución ES30&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=jvfgF3V91VaXQV0WE7lYPw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&amp;amp;cmpntname=GetDocumentsById&amp;amp;source=library&amp;amp;DocumentIdParam=e388fc30-6adc-4b49-811a-834041fbb9e3"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&amp;amp;cmpntname=GetDocumentsById&amp;amp;source=library&amp;amp;DocumentIdParam=b0f695ad-613d-4068-a3c9-23d84514a2f4"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=ur%2FQDrimNbEQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="RES" label="Resuelta" />
-    <category term="1" label="Suministros" />
-    <category term="Entidades locales" label="Entidades locales" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Junta de Gobierno Local del Ayuntamiento de Fuenlabrada</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20001230</id>
-    <title>Servicio de soporte técnico a usuarios y mantenimiento del parque informático de usuarios finales en la Organización Central, destinado a la Secretaría General Adjunta de Informática de la Agencia Estatal Consejo Superior de Investigaciones Científicas. · Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas · 1.148.516 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=88%2FeukjAN1FSYrkJkLlFdw%3D%3D" />
-    <updated>2026-11-13T08:59:04+01:00</updated>
-    <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Adjudicada · Ministerio de Ciencia, Innovación y Universidades · plazo hasta 2026-09-14 14:00 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Ciencia, Innovación y Universidades › Secretaría General de Investigación › Agencia Estatal Consejo Superior de Investigaciones Científicas&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;35370/27&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;1.148.516 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;2.756.678 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72514000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;España ES&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-09-14 14:00:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;ECONOCOM SERVICIOS, S.A.&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;795.131 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-11-13&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72514000; tamano: 1.148.516 €; cercania: órgano con CP 28006&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=88%2FeukjAN1FSYrkJkLlFdw%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=bzmt%2Bzp0I3t5dvjGb/DYzyu3zq7DHNluHXvc%2BdgfHuv3MNH7tM4SWtkt8nHG68s5t9h728bexVlyfzEbTW/nhF68gDpLYEX1noj9ljqDuJBt/o8fNevwsujgRzaBbugn"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=pDwzB2fYByYwSTGgMzR1ufhmcmMQi1pQ5F7Ht1KF6yzL3%2B01AWE9kt2NZjc7oeq28XmZSdxgkxmow5kbiU4QehLEmTiPvb/kF7eIUOVBcIqB0nvVKRzfe4rpHcnlPhSZ"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=HoPToTiP5JF%2FR5QFTlaM4A%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="ADJ" label="Adjudicada" />
-    <category term="2" label="Servicios" />
-    <category term="Administración General del Estado" label="Administración General del Estado" />
-    <category term="Ministerio de Ciencia, Innovación y Universidades" label="Ministerio de Ciencia, Innovación y Universidades" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16842149</id>
-    <title>El contrato tiene por objeto el servicio de apoyo a la gestión, la mejora de la calidad y la explotación de los datos del nuevo registro de establecimientos de comercio de alimentación al por menor (SEGA), de la Comunidad de Madrid. · Consejería de Sanidad · 125.890 €</title>
-    <link rel="alternate" href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-apoyo-gestion-nuevo-registro-establecimientos-empresas-comercio-menor" />
-    <updated>2026-11-13T08:55:56+01:00</updated>
-    <published>2026-11-14T06:44:13+00:00</published>
-    <summary type="text">Resuelta · Comunidad de Madrid · plazo hasta 2025-03-20 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Consejería de Sanidad&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Comunidades autónomas › Comunidad de Madrid › Consejería de Sanidad&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;4/2025 (A/SER-047998/2024)&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Resuelta&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;125.890 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;167.853 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72316000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2025-03-20 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;TICSMART, S.L.:&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;116.650 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de formalización 2025-07-09&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;agregadas&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72316000; tamano: 125.890 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contratos-publicos.comunidad.madrid/contrato-publico/servicio-apoyo-gestion-nuevo-registro-establecimientos-empresas-comercio-menor"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2025-03/2._pcap_4.2025_consider._s.jur.e_int.dgda.pdf"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/sites/default/files/PCON/2025-02/3._ppt_19.02.25.pdf"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contratos-publicos.comunidad.madrid/perfil-contratante/publicidad-contrataciones"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="RES" label="Resuelta" />
-    <category term="2" label="Servicios" />
-    <category term="Comunidades autónomas" label="Comunidades autónomas" />
-    <category term="Comunidad de Madrid" label="Comunidad de Madrid" />
-    <category term="agregadas" label="agregadas" />
-    <author>
-      <name>Consejería de Sanidad</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20001045</id>
-    <title>20267301 Modificación cuadros de mando de las barreras de frenado de las unidades del EA · Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio · 390.036 €</title>
-    <link rel="alternate" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=oqyM9xK77eydkQsA7ROvsg%3D%3D" />
-    <updated>2026-11-13T08:51:18+01:00</updated>
-    <published>2026-10-23T04:39:14+00:00</published>
-    <summary type="text">Adjudicada · Ministerio de Defensa · plazo hasta 2026-08-06 23:59 · Servicios</summary>
-    <content type="html">&lt;dl&gt;&lt;dt&gt;Órgano&lt;/dt&gt;&lt;dd&gt;Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio&lt;/dd&gt;&lt;dt&gt;Administración&lt;/dt&gt;&lt;dd&gt;Administración General del Estado › Ministerio de Defensa › Ejército del Aire y del Espacio › Dirección de Adquisiciones del Mando de Apoyo Logístico&lt;/dd&gt;&lt;dt&gt;Expediente&lt;/dt&gt;&lt;dd&gt;2026/EA02/00000573E&lt;/dd&gt;&lt;dt&gt;Estado&lt;/dt&gt;&lt;dd&gt;Adjudicada&lt;/dd&gt;&lt;dt&gt;Presupuesto sin IVA&lt;/dt&gt;&lt;dd&gt;390.036 €&lt;/dd&gt;&lt;dt&gt;Valor estimado&lt;/dt&gt;&lt;dd&gt;468.044 €&lt;/dd&gt;&lt;dt&gt;Tipo&lt;/dt&gt;&lt;dd&gt;Servicios&lt;/dd&gt;&lt;dt&gt;Procedimiento&lt;/dt&gt;&lt;dd&gt;Abierto&lt;/dd&gt;&lt;dt&gt;CPV&lt;/dt&gt;&lt;dd&gt;72267100;34741000&lt;/dd&gt;&lt;dt&gt;Lugar&lt;/dt&gt;&lt;dd&gt;Madrid ES300&lt;/dd&gt;&lt;dt&gt;Plazo de presentación&lt;/dt&gt;&lt;dd&gt;2026-08-06 23:59:00&lt;/dd&gt;&lt;dt&gt;Adjudicatario&lt;/dt&gt;&lt;dd&gt;Sothis Servicios Tecnológicos&lt;/dd&gt;&lt;dt&gt;Importe de adjudicación&lt;/dt&gt;&lt;dd&gt;229.334 €&lt;/dd&gt;&lt;dt&gt;Último anuncio&lt;/dt&gt;&lt;dd&gt;Anuncio de adjudicación 2026-10-21&lt;/dd&gt;&lt;dt&gt;Fuente&lt;/dt&gt;&lt;dd&gt;placsp&lt;/dd&gt;&lt;dt&gt;Por qué aparece&lt;/dt&gt;&lt;dd&gt;tecnologia: CPV 72267100; tamano: 390.036 €; cercania: lugar de ejecución ES300&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;&lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;amp;idEvl=oqyM9xK77eydkQsA7ROvsg%3D%3D"&gt;Ficha de la licitación&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=ZvzirCYmy56NMUCsnKla%2BihshvARUTeVtZgbJBqYR9p9sTTX3WqWTBAwS8zBQh8Z42Ui5RiI247SsmX/dYESG0i%2BtbgCFqIvCTg9WdJbtuEZyAJWGsSt0OzTSTyw9JAs"&gt;Pliego administrativo&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;amp;DocumentIdParam=xdDC9/MoVICEEdCuhYl3oOeLGyi%2B0DIcizZdqPBMZJGKiUdU9yv08Yrz0GJ%2BSl%2BNxQbr6sEN8RUdSOuceavf%2BBNP0QeTkRwanUW%2BkeYmkenDdQD9RyhUmzT4jZ2In4zL"&gt;Pliego técnico&lt;/a&gt; · &lt;a href="https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;amp;idBp=ie%2FO6IJ%2B4gQQK2TEfXGy%2BA%3D%3D"&gt;Perfil del contratante&lt;/a&gt;&lt;/p&gt;</content>
-    <category term="ADJ" label="Adjudicada" />
-    <category term="2" label="Servicios" />
-    <category term="Administración General del Estado" label="Administración General del Estado" />
-    <category term="Ministerio de Defensa" label="Ministerio de Defensa" />
-    <category term="placsp" label="placsp" />
-    <author>
-      <name>Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio</name>
     </author>
   </entry>
 </feed>

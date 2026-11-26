@@ -1,43 +1,43 @@
 {
- "generado": "2026-11-25T06:52:24+00:00",
- "ultima_actualizacion": "2026-11-25T06:52:24+00:00",
+ "generado": "2026-11-26T06:55:49+00:00",
+ "ultima_actualizacion": "2026-11-26T06:55:49+00:00",
  "base_de_datos": {
-  "total": 81319,
+  "total": 82090,
   "por_fuente": {
-   "agregadas": 23762,
+   "agregadas": 24533,
    "placsp": 57557
   },
   "updated_min": "2026-09-29T15:00:11.557+02:00",
-  "updated_max": "2026-11-24T01:00:13.082+01:00"
+  "updated_max": "2026-11-26T01:00:11.949+01:00"
  },
  "ventana_dias": 30,
- "seleccionadas": 657,
+ "seleccionadas": 630,
  "novedades_ultima_ejecucion": {
-  "nuevo": 0,
-  "actualizado": 0,
-  "baja": 2
+  "nuevo": 771,
+  "actualizado": 1506,
+  "baja": 0
  },
- "alertas_nube": 419,
+ "alertas_nube": 421,
  "por_administracion": {
-  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 200,
-  "Comunidad de Madrid": 130,
-  "Ministerio de Hacienda": 86,
+  "SOCIEDADES, FUNDACIONES y CONSORCIOS ESTATALES": 192,
+  "Comunidad de Madrid": 127,
+  "Ministerio de Hacienda": 78,
   "Ministerio de Defensa": 52,
-  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 23,
-  "INSTITUCIONES INDEPENDIENTES": 21,
+  "INSTITUCIONES INDEPENDIENTES": 20,
+  "MUTUAS DE ACCIDENTES DE TRABAJO COLABORADORAS DE LA SEGURIDAD SOCIAL": 20,
   "SOCIEDADES, FUNDACIONES Y CONSORCIOS ENTIDADES LOCALES": 19,
   "UNIVERSIDADES": 15,
   "Ministerio de Economía, Comercio y Empresa": 14,
-  "Ministerio para la Transformación Digital y de la Función Pública": 13,
+  "Ministerio para la Transformación Digital y de la Función Pública": 12,
   "Ministerio del Interior": 12,
   "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes": 11,
-  "Ministerio de Sanidad": 10,
   "Ministerio de Ciencia, Innovación y Universidades": 9,
+  "Ministerio de Sanidad": 9,
   "Ministerio de Inclusión, Seguridad Social y Migraciones": 8,
   "Ministerio de Trabajo y Economía Social": 5,
   "Ministerio de Transportes y Movilidad Sostenible": 5,
   "Ministerio para la Transición Ecológica y el Reto Demográfico": 4,
-  "Ministerio de Cultura": 4,
+  "Ministerio de Cultura": 3,
   "Ministerio de Industria y Turismo": 3,
   "Ministerio de Agricultura, Pesca y Alimentación": 2,
   "Ministerio de Justicia": 2,
@@ -45,10 +45,29 @@
   "Ministerio de Derechos Sociales, Consumo y Agenda 2030": 2,
   "Ministerio de Vivienda y Agenda Urbana": 2,
   "Ministerio de Educación, Formación Profesional y Deportes": 1,
-  "SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS": 1,
-  "Ministerio de Igualdad": 1
+  "SOCIEDADES, FUNDACIONES Y CONSORCIOS COMUNIDADES AUTÓNOMAS": 1
  },
  "ejecuciones": [
+  {
+   "ejecutado_en": "2026-11-26T06:55:49+00:00",
+   "fuente": "agregadas",
+   "periodo": "202611",
+   "entradas": 20814,
+   "expedientes": 13898,
+   "nuevos": 771,
+   "actualizados": 1506,
+   "bajas": 0
+  },
+  {
+   "ejecutado_en": "2026-11-26T06:55:00+00:00",
+   "fuente": "placsp",
+   "periodo": "202611",
+   "entradas": 46496,
+   "expedientes": 32415,
+   "nuevos": 0,
+   "actualizados": 0,
+   "bajas": 0
+  },
   {
    "ejecutado_en": "2026-11-25T06:52:24+00:00",
    "fuente": "agregadas",
@@ -228,26 +247,6 @@
    "nuevos": 0,
    "actualizados": 0,
    "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-16T07:01:50+00:00",
-   "fuente": "agregadas",
-   "periodo": "202611",
-   "entradas": 11332,
-   "expedientes": 8777,
-   "nuevos": 6,
-   "actualizados": 10,
-   "bajas": 0
-  },
-  {
-   "ejecutado_en": "2026-11-16T07:00:48+00:00",
-   "fuente": "placsp",
-   "periodo": "202611",
-   "entradas": 28689,
-   "expedientes": 22252,
-   "nuevos": 111,
-   "actualizados": 74,
-   "bajas": 1
   }
  ],
  "feeds": {
